@@ -13,7 +13,7 @@ import re
 from urllib.parse import quote_plus  # Add this import
 
 
-MFPLINK = "https://mfp-normalissimo.onrender.com"     # non mettere lo / finale al link
+MFPLINK = "https://scemopalle-prossiunhind.hf.space"     # non mettere lo / finale al link
 MFPPSW = "Milito22."
 
 
