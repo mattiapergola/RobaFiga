@@ -197,7 +197,8 @@ def search_streams(file_path, keyword):
         for link in links:
             if keyword.lower() in link.text.lower():
                 href = link['href']
-                stream_number = href.split('-')[-1].replace('.php', '')
+                match_id = re.search(r"id=(\d+)", href)
+                stream_number = match_id.group(1) if match_id else ""
                 stream_name = link.text.strip()
                 match = (stream_number, stream_name)
 
@@ -235,7 +236,7 @@ def generate_m3u8_247(matches):
     # Aggiungi i canali 24/7
     with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
         for channel in matches:
-            channel_id = f"{channel['channel_id']}"
+            channel_id = channel[0]
             channel_name = channel[1].replace("Italy", "").replace("8", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").replace("HD+", "")
             tvicon_path = search_logo(channel_name)
             tvg_id = search_tvg_id(channel_name)
