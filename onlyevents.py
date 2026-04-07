@@ -51,7 +51,7 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
     print(f"Getting stream link for channel ID: {dlhd_id} - {event_name} on {channel_name}...")
     
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://dlstreams.top/embed/stream-{dlhd_id}.php"
+    return f"https://dlstreams.top/stream/stream-{dlhd_id}.php"
 
 # Rimuove i file esistenti per garantirne la rigenerazione
 for file in [M3U8_OUTPUT_FILE]: # daddyLiveChannelsFileName kept for file removal consistency, but not used  tolto (, DADDY_JSON_FILE)
