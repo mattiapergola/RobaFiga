@@ -9,63 +9,52 @@ import time
 GUARCAL = "online"
 DADDY= "top"
 
-def html_to_json(html_content):
-    soup = BeautifulSoup(html_content, 'html.parser')
-    result = {}
-    
-    date_rows = soup.find_all('tr', class_='date-row')
-    if not date_rows:
-        print("AVVISO: Nessuna riga di data trovata nel contenuto HTML!")
-        return {}
+def html_to_json(html):
+    soup = BeautifulSoup(html, "html.parser")
+    result = []
 
-    current_date = None
-    current_category = None
+    day_blocks = soup.find_all("div", class_="schedule__day")
 
-    for row in soup.find_all('tr'):
-        if 'date-row' in row.get('class', []):
-            current_date = row.find('strong').text.strip()
-            result[current_date] = {}
-            current_category = None
+    for day_block in day_blocks:
+        day_title_el = day_block.find("div", class_="schedule__dayTitle")
+        day_title = day_title_el.get_text(strip=True) if day_title_el else ""
 
-        elif 'category-row' in row.get('class', []) and current_date:
-            current_category = row.find('strong').text.strip() + "</span>"
-            result[current_date][current_category] = []
+        categories = day_block.find_all("div", class_="schedule__category")
 
-        elif 'event-row' in row.get('class', []) and current_date and current_category:
-            time_div = row.find('div', class_='event-time')
-            info_div = row.find('div', class_='event-info')
+        for category in categories:
+            category_name_el = category.find("div", class_="card__meta")
+            category_name = category_name_el.get_text(strip=True) if category_name_el else ""
 
-            if not time_div or not info_div:
-                continue
+            events = category.find_all("div", class_="schedule__event")
 
-            time_strong = time_div.find('strong')
-            event_time = time_strong.text.strip() if time_strong else ""
-            event_info = info_div.text.strip()
+            for event in events:
+                header = event.find("div", class_="schedule__eventHeader")
+                if not header:
+                    continue
 
-            event_data = {
-                "time": event_time,
-                "event": event_info,
-                "channels": []
-            }
+                time_el = header.find("span", class_="schedule__time")
+                title_el = header.find("span", class_="schedule__eventTitle")
+                channels_box = event.find("div", class_="schedule__channels")
 
-            # Cerca la riga dei canali successiva
-            next_row = row.find_next_sibling('tr')
-            if next_row and 'channel-row' in next_row.get('class', []):
-                channel_links = next_row.find_all('a', class_='channel-button-small')
-                for link in channel_links:
-                    href = link.get('href', '')
-                    channel_id_match = re.search(r'stream-(\d+)\.php', href)
-                    if channel_id_match:
-                        channel_id = channel_id_match.group(1)
-                        channel_name = link.text.strip()
-                        channel_name = re.sub(r'\s*\(CH-\d+\)$', '', channel_name)
-
-                        event_data["channels"].append({
-                            "channel_name": channel_name,
-                            "channel_id": channel_id
+                channels = []
+                if channels_box:
+                    for a in channels_box.find_all("a"):
+                        channels.append({
+                            "name": a.get_text(strip=True),
+                            "href": a.get("href", ""),
+                            "title": a.get("title", ""),
+                            "data_ch": a.get("data-ch", "")
                         })
 
-            result[current_date][current_category].append(event_data)
+                result.append({
+                    "day": day_title,
+                    "category": category_name,
+                    "title": title_el.get_text(strip=True) if title_el else "",
+                    "time_visible": time_el.get_text(strip=True) if time_el else "",
+                    "time_data": time_el.get("data-time", "") if time_el else "",
+                    "data_title": header.get("data-title", ""),
+                    "channels": channels
+                })
 
     return result
 
