@@ -6,8 +6,8 @@ import re
 from bs4 import BeautifulSoup
 import time
 
-GUARCAL = "blog"
-DADDY= "dad"
+GUARCAL = "online"
+DADDY= "top"
 
 def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -90,7 +90,7 @@ def modify_json_file(json_file_path):
     print(f"File JSON modificato e salvato in {json_file_path}")
 
 def extract_schedule_container(max_retries=3, retry_delay=5):
-    url = f"https://daddylive.{DADDY}/"
+    url = f"https://dlstreams.{DADDY}/"
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     json_output = os.path.join(script_dir, "daddyliveSchedule.json")
@@ -188,7 +188,7 @@ def extract_guardacalcio_image_links(max_retries=3, retry_delay=5):
     Utilizza Playwright per scaricare i link delle immagini dalla pagina di guardacalcio
     e li salva in un file.
     """
-    url = f"https://guardacalcio.{GUARCAL}/partite-streaming.html"
+    url = f"https://vod.direttecommunity.{GUARCAL}/partite-streaming.html"
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
     # File di output per i link delle immagini
