@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-MFPLINK = "https://scemopalle-easyproxy.hf.space"     # non mettere lo / finale al link
+MFPLINK = "https://scemopalle-prossiunhind.hf.space"     # non mettere lo / finale al link
 MFPPSW = "Milito22."
 
 # Costanti
