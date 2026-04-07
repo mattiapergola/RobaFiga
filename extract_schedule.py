@@ -23,13 +23,16 @@ def html_to_json(html):
             day_title = day_title.split(" - Schedule Time")[0].strip()
 
         if day_title not in result:
-            result[day_title] = []
+            result[day_title] = {}
 
         categories = day_block.find_all("div", class_="schedule__category")
 
         for category in categories:
             category_name_el = category.find("div", class_="card__meta")
-            category_name = category_name_el.get_text(strip=True) if category_name_el else ""
+            category_name = category_name_el.get_text(strip=True) if category_name_el else "Unknown category"
+
+            if category_name not in result[day_title]:
+                result[day_title][category_name] = []
 
             events = category.find_all("div", class_="schedule__event")
 
@@ -47,10 +50,10 @@ def html_to_json(html):
                     for a in channels_box.find_all("a"):
                         channels.append(a.get_text(strip=True))
 
-                result[day_title].append({
-                    "category": category_name,
+                result[day_title][category_name].append({
                     "event": title_el.get_text(strip=True) if title_el else "",
-                    "time": time_el.get_text(strip=True) if time_el else "",
+                    "time": time_el.get("data-time", "") if time_el else "",
+                    "time_visible": time_el.get_text(strip=True) if time_el else "",
                     "channels": channels
                 })
 
