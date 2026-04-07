@@ -28,8 +28,8 @@ DADDY_JSON_FILE = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE = "itaevents.m3u8"
 LOGO = "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png"
 SKYSTR = "help"
-GUARCAL = "blog"
-DADDY= "dad"
+GUARCAL = "online"
+DADDY= "top"
 
 # Add a cache for logos to avoid repeated requests
 LOGO_CACHE = {}
@@ -180,7 +180,7 @@ def get_dynamic_logo(event_name):
     try:
         # --- Inizio logica di scraping web (originale) ---
         # First try to fetch logos from guardacalcio.{GUARCAL}
-        guardacalcio_url = f"https://guardacalcio.{GUARCAL}/partite-streaming.html"
+        guardacalcio_url = f"https://vod.direttecommunity.{GUARCAL}/partite-streaming.html"
         headers_guardacalcio = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
@@ -217,7 +217,7 @@ def get_dynamic_logo(event_name):
                         logo_url = src
                     else:
                         # Costruisci URL assoluto
-                        base_url = f"https://guardacalcio.{GUARCAL}"
+                        base_url = f"https://vod.direttecommunity.{GUARCAL}"
                         if src.startswith('/'):
                             logo_url = base_url + src
                         else:
@@ -377,10 +377,10 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
     # Verifica se è un canale Tennis Stream
     if channel_name and "Tennis Stream" in channel_name:
         print(f"Canale Tennis Stream rilevato, utilizzo link fisso per: {event_name}")
-        return "https://daddylive.dad/embed/stream-576.php"
+        return "https://dlstreams.top/embed/stream-576.php"
     
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://daddylive.dad/embed/stream-{dlhd_id}.php"
+    return f"https://dlstreams.top/embed/stream-{dlhd_id}.php"
 
     # Verifica se è un canale tennis
     is_tennis_channel = "tennis" in event_name.lower() or "atp" in event_name.lower() or "wta" in event_name.lower()
@@ -388,14 +388,14 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
     try:
         # Semplice richiesta all'URL senza elaborazione complessa
         response = requests.get(
-            f"https://daddylive.{DADDY}/embed/stream-{dlhd_id}.php",
+            f"https://dlstreams.{DADDY}/embed/stream-{dlhd_id}.php",
             headers=headers,
             timeout=10
         )
         response.raise_for_status()
         
         # Restituisci direttamente l'URL
-        return f"https://daddylive.{DADDY}/embed/stream-{dlhd_id}.php"
+        return f"https://dlstreams.{DADDY}/embed/stream-{dlhd_id}.php"
         
     except requests.exceptions.RequestException as e:
         # Se è un canale tennis con errore 404, restituisci l'URL placeholder
@@ -418,7 +418,7 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
         try:
             # Use timeout for all requests
             response = requests.get(
-                f"https://daddylive.{DADDY}/embed/stream-{dlhd_id}.php",
+                f"https://dlstreams.{DADDY}/embed/stream-{dlhd_id}.php",
                 headers=headers,
                 timeout=base_timeout
             )
