@@ -190,7 +190,7 @@ def search_category(channel_name):
 def search_streams(file_path, keyword):
     matches = []
     try:
-        with open(file_path, 'r', encoding='utf-8') as file:
+        with open(file_path, 'rb') as file:
             soup = BeautifulSoup(file.read(), 'html.parser')
             links = soup.find_all('a', href=True)
 
