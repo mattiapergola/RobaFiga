@@ -17,7 +17,7 @@ PROXY2 = f"&redirect_stream=true&api_password={MFPPSW}"
 HEADER = f"&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2F{REFERER}%2F&h_origin=https%3A%2F%2F{ORIGIN}"
 # File e URL statici
 daddyLiveChannelsFileName = '247channels.html'
-daddyLiveChannelsURL = 'https://dlstreams.top//24-7-channels.php'
+daddyLiveChannelsURL = 'https://dlstreams.top/24-7-channels.php'
 
 # Headers per le richieste
 headers = {
