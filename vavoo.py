@@ -5,7 +5,7 @@ import os
 
 USREPG = "mattiapergola"
 BRANCHEPG = "RobaFiga"
-MFPLINK = "https://mfp-normalissimo.onrender.com"     # non mettere lo / finale al link
+MFPLINK = "https://scemopalle-prossiunhind.hf.space"     # non mettere lo / finale al link
 MFPPSW = "Milito22."
 
 PROXY = f"{MFPLINK}/proxy/hls/manifest.m3u8?api_password={MFPPSW}&d="
