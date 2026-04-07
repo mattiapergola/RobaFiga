@@ -114,7 +114,7 @@ def extract_schedule_container(max_retries=3, retry_delay=5):
                 page.wait_for_timeout(10000)  # 10 secondi
 
                 schedule_content = page.evaluate("""() => {
-                    const container = document.getElementById('main-schedule-container');
+                    const container = document.getElementById('schedule');
                     return container ? container.outerHTML : '';
                 }""")
 
