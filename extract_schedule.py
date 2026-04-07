@@ -11,13 +11,19 @@ DADDY= "top"
 
 def html_to_json(html):
     soup = BeautifulSoup(html, "html.parser")
-    result = []
+    result = {}
 
     day_blocks = soup.find_all("div", class_="schedule__day")
 
     for day_block in day_blocks:
         day_title_el = day_block.find("div", class_="schedule__dayTitle")
-        day_title = day_title_el.get_text(strip=True) if day_title_el else ""
+        day_title = day_title_el.get_text(strip=True) if day_title_el else "Unknown date"
+
+        if " - Schedule Time" in day_title:
+            day_title = day_title.split(" - Schedule Time")[0].strip()
+
+        if day_title not in result:
+            result[day_title] = []
 
         categories = day_block.find_all("div", class_="schedule__category")
 
@@ -39,20 +45,12 @@ def html_to_json(html):
                 channels = []
                 if channels_box:
                     for a in channels_box.find_all("a"):
-                        channels.append({
-                            "name": a.get_text(strip=True),
-                            "href": a.get("href", ""),
-                            "title": a.get("title", ""),
-                            "data_ch": a.get("data-ch", "")
-                        })
+                        channels.append(a.get_text(strip=True))
 
-                result.append({
-                    "day": day_title,
+                result[day_title].append({
                     "category": category_name,
-                    "title": title_el.get_text(strip=True) if title_el else "",
-                    "time_visible": time_el.get_text(strip=True) if time_el else "",
-                    "time_data": time_el.get("data-time", "") if time_el else "",
-                    "data_title": header.get("data-title", ""),
+                    "event": title_el.get_text(strip=True) if title_el else "",
+                    "time": time_el.get_text(strip=True) if time_el else "",
                     "channels": channels
                 })
 
