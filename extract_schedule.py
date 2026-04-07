@@ -48,7 +48,16 @@ def html_to_json(html):
                 channels = []
                 if channels_box:
                     for a in channels_box.find_all("a"):
-                        channels.append(a.get_text(strip=True))
+                        href = a.get("href", "")
+                        match = re.search(r"id=(\d+)", href)
+
+                        channels.append({
+                            "channel_name": a.get_text(strip=True),
+                            "channel_id": match.group(1) if match else "",
+                            "channel_href": href,
+                            "channel_title": a.get("title", ""),
+                            "data_ch": a.get("data-ch", "")
+                        })
 
                 result[day_title][category_name].append({
                     "event": title_el.get_text(strip=True) if title_el else "",
