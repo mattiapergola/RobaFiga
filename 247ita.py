@@ -312,8 +312,11 @@ def fetch_htsport_homepage():
         print(f"HTSport: error fetching homepage: {e}")
         return []
 
+HTSPORT_DEFAULT_CATEGORY = "Sport"
+
 def extract_htsport_m3u8(channel_path):
-    url = f"https://htsport.ws/{channel_path}"
+    # Strip any leading slash to avoid double-slash in URL construction
+    url = f"https://htsport.ws/{channel_path.lstrip('/')}"
     try:
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
@@ -322,12 +325,17 @@ def extract_htsport_m3u8(channel_path):
         if not body:
             return None
         scripts = body.find_all('script')
+        # The M3U8 URL is embedded in the second script tag of the body
+        # (per /html/body/script[1]/text() in the page's DOM, 0-indexed as scripts[1])
         if len(scripts) < 2:
             return None
         script_content = scripts[1].get_text()
-        match = re.search(r'(https?://[^\s\'"]+\.m3u8[^\s\'"]*)', script_content)
-        if match:
-            return match.group(1)
+        # Search all script tags for a valid M3U8 URL in case page structure changes
+        for script in scripts:
+            content = script.get_text()
+            match = re.search(r'(https?://\S+?\.m3u8(?:\?\S*)?)', content)
+            if match:
+                return match.group(1)
         return None
     except requests.exceptions.RequestException as e:
         print(f"HTSport: error fetching channel {channel_path}: {e}")
@@ -352,7 +360,7 @@ def generate_m3u8_htsport(channels):
             tvg_id = search_tvg_id(channel_name)
             category = search_category(channel_name)
             if category == "Undefined":
-                category = "Sport"
+                category = HTSPORT_DEFAULT_CATEGORY
             file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name}\n")
             file.write(f"{HTSPORT_PROXY}{m3u8_url}{PROXY2}\n\n")
             processed += 1
