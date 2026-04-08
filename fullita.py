@@ -17,7 +17,7 @@ MFPPSW = "Milito22."
 # Constants
 REFERER = "forcedtoplay.xyz"
 ORIGIN = "forcedtoplay.xyz"
-PROXY = f"{MFPLINK}/extractor/video?host=DLHD&d="
+PROXY = f"{MFPLINK}/extractor/video?host=dlstreams&url="
 PROXY2 = f"&redirect_stream=true&api_password={MFPPSW}"
 HEADER = f"&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2F{REFERER}%2F&h_origin=https%3A%2F%2F{ORIGIN}"
 NUM_CHANNELS = 1000
@@ -63,7 +63,7 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
     print(f"Getting stream link for channel ID: {dlhd_id} - {event_name} on {channel_name}...")
     
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://dlstreams.top/stream/stream-{dlhd_id}.php"
+    return f"https://dlstreams.top/watch.php?id={dlhd_id}"
 
 def clean_group_title(sport_key):
     """Clean the sport key to create a proper group-title"""
