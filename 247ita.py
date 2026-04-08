@@ -13,7 +13,7 @@ MFPPSW = "Milito22."
 M3U8_OUTPUT_FILE = "247ita.m3u8"
 REFERER = "forcedtoplay.xyz"
 ORIGIN = "forcedtoplay.xyz"
-PROXY = f"{MFPLINK}/extractor/video?host=DLHD&d="
+PROXY = f"{MFPLINK}/extractor/video?host=dlstreams&url="
 PROXY2 = f"&redirect_stream=true&api_password={MFPPSW}"
 HEADER = f"&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2F{REFERER}%2F&h_origin=https%3A%2F%2F{ORIGIN}"
 # File e URL statici
@@ -170,7 +170,7 @@ def get_stream_link(dlhd_id, max_retries=3):
     print(f"Getting stream link for channel ID: {dlhd_id}...")
     
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://dlstreams.top/stream/stream-{dlhd_id}.php"
+    return f"https://dlstreams.top/watch.php?id={dlhd_id}"
 
 def fetch_with_debug(filename, url):
     try:
