@@ -835,6 +835,10 @@ https://scemopalle-easyproxy.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//otte.l
 https://scemopalle-easyproxy.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750&api_password=Milito22.
 #EXTINF:-1 tvg-id="" tvg-name="primehd " tvg-logo="" group-title="Altro", primehd (Hd)
 https://scemopalle-easyproxy.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f23odcmyjy/out/v1/e07e56174e8f4a409656db31f165b985/cenc.mpd&key_id=e3762bc90acca0c4315a593c89596f00&key=07dc584ae7369bb0922b29b0a9c48793&api_password=Milito22.
+
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1 (H)
+https://scemopalle-easyproxy.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750&api_password=Milito22.
 #EXTINF:-1 tvg-id="The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 - The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026" tvg-name="17:00 The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", Sky Sport Tennis Italy
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
@@ -922,11 +926,20 @@ https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https:/
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Rayo Vallecano vs AEK Athens" tvg-name="18:45 Europe - UEFA Conference League : Rayo Vallecano vs AEK Athens - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 2 Israel
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=141&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Rayo Vallecano vs AEK Athens" tvg-name="18:45 Europe - UEFA Conference League : Rayo Vallecano vs AEK Athens - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Backup Stream
+https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=4004&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Rayo Vallecano vs AEK Athens" tvg-name="18:45 Europe - UEFA Conference League : Rayo Vallecano vs AEK Athens - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Backup Stream
+https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=5001&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="Egypt - Egyptian Premier League - Al Mokawloon vs Ismaily" tvg-name="20:00 Egypt - Egyptian Premier League : Al Mokawloon vs Ismaily - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ON Sport 1 Egypt
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=611&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="Egypt - Egyptian Premier League - Petrojet vs ZED" tvg-name="20:00 Egypt - Egyptian Premier League : Petrojet vs ZED - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ON Sport Max Egypt
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=2&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="Europe - UEFA Europa League\UEFA Conference League - Simulcast" tvg-name="21:00 Europe - UEFA Europa League\UEFA Conference League : Simulcast - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
+https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=200&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League\UEFA Conference League - Simulcast" tvg-name="21:00 Europe - UEFA Europa League\UEFA Conference League : Simulcast - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 1
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=559&redirect_stream=true&api_password=Milito22.
@@ -1033,6 +1046,9 @@ https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https:/
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Bologna vs Aston Villa" tvg-name="21:00 Europe - UEFA Europa League : Bologna vs Aston Villa - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750695_bologna-x-aston-villa.png" group-title="Soccer", Sport 2 Israel
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=141&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="Europe - UEFA Europa League - Bologna vs Aston Villa" tvg-name="21:00 Europe - UEFA Europa League : Bologna vs Aston Villa - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750695_bologna-x-aston-villa.png" group-title="Soccer", Backup Stream
+https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=4002&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Porto vs Nottingham Forest" tvg-name="21:00 Europe - UEFA Europa League : Porto vs Nottingham Forest - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750707_porto-x-nottingham-forest.jpeg" group-title="Soccer", Paramount+
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=69&redirect_stream=true&api_password=Milito22.
 
@@ -1108,6 +1124,9 @@ https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https:/
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Porto vs Nottingham Forest" tvg-name="21:00 Europe - UEFA Europa League : Porto vs Nottingham Forest - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750707_porto-x-nottingham-forest.jpeg" group-title="Soccer", beIN Sports MENA English 2
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=90&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="Europe - UEFA Europa League - Porto vs Nottingham Forest" tvg-name="21:00 Europe - UEFA Europa League : Porto vs Nottingham Forest - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750707_porto-x-nottingham-forest.jpeg" group-title="Soccer", Backup Stream
+https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=4001&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Freiburg vs Celta de Vigo" tvg-name="21:00 Europe - UEFA Europa League : Freiburg vs Celta de Vigo - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750754_freiburg-x-celta-de-vigo.jpg" group-title="Soccer", Paramount+
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=76&redirect_stream=true&api_password=Milito22.
 
@@ -1164,6 +1183,9 @@ https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https:/
 
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Freiburg vs Celta de Vigo" tvg-name="21:00 Europe - UEFA Europa League : Freiburg vs Celta de Vigo - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750754_freiburg-x-celta-de-vigo.jpg" group-title="Soccer", beIN Sports MENA 5
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=95&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="Europe - UEFA Europa League - Freiburg vs Celta de Vigo" tvg-name="21:00 Europe - UEFA Europa League : Freiburg vs Celta de Vigo - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750754_freiburg-x-celta-de-vigo.jpg" group-title="Soccer", Backup Stream
+https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=4004&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Crystal Palace vs Fiorentina" tvg-name="21:00 Europe - UEFA Conference League : Crystal Palace vs Fiorentina - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750548_crystal-palace-x-fiorentina.png" group-title="Soccer", Paramount+
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=77&redirect_stream=true&api_password=Milito22.
@@ -1231,6 +1253,9 @@ https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https:/
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Crystal Palace vs Fiorentina" tvg-name="21:00 Europe - UEFA Conference League : Crystal Palace vs Fiorentina - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750548_crystal-palace-x-fiorentina.png" group-title="Soccer", Sport 4 Israel
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=143&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Crystal Palace vs Fiorentina" tvg-name="21:00 Europe - UEFA Conference League : Crystal Palace vs Fiorentina - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750548_crystal-palace-x-fiorentina.png" group-title="Soccer", Backup Stream
+https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=4003&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Mainz 05 vs Strasbourg" tvg-name="21:00 Europe - UEFA Conference League : Mainz 05 vs Strasbourg - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750553_mainz-05-x-strasbourg.png" group-title="Soccer", Paramount+
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=86&redirect_stream=true&api_password=Milito22.
 
@@ -1263,6 +1288,9 @@ https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https:/
 
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Mainz 05 vs Strasbourg" tvg-name="21:00 Europe - UEFA Conference League : Mainz 05 vs Strasbourg - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750553_mainz-05-x-strasbourg.png" group-title="Soccer", beIN Sports MENA 6
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=96&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Mainz 05 vs Strasbourg" tvg-name="21:00 Europe - UEFA Conference League : Mainz 05 vs Strasbourg - 09/04/26" tvg-logo="https://guardacalcio.online/uploads/posts/2026-04/1775750553_mainz-05-x-strasbourg.png" group-title="Soccer", Backup Stream
+https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=4008&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Shakhtar Donetsk vs AZ" tvg-name="21:00 Europe - UEFA Conference League : Shakhtar Donetsk vs AZ - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Paramount+
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=105&redirect_stream=true&api_password=Milito22.
@@ -1302,6 +1330,9 @@ https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https:/
 
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Shakhtar Donetsk vs AZ" tvg-name="21:00 Europe - UEFA Conference League : Shakhtar Donetsk vs AZ - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 4
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=94&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Shakhtar Donetsk vs AZ" tvg-name="21:00 Europe - UEFA Conference League : Shakhtar Donetsk vs AZ - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Backup Stream
+https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=4007&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="ATP - MONTE CARLO - Bergs Z. vs Zverev A." tvg-name="11:00 ATP - MONTE CARLO : Bergs Z. vs Zverev A. - 09/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - MONTE CARLO", Tennis Stream
 https://scemopalle-easyproxy.hf.space/extractor/video?host=dlstreams&url=https://dlstreams.top/watch.php?id=576&redirect_stream=true&api_password=Milito22.
