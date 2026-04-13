@@ -79,6 +79,134 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "event": "USAC Sprints Terre Haute",
+                "time": "22:10",
+                "time_visible": "22:10",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "217",
+                        "channel_href": "/watch.php?id=217",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Fury FC 118: Chatman vs. Dennis",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "218",
+                        "channel_href": "/watch.php?id=218",
+                        "channel_title": "UFC Fight Pass",
+                        "data_ch": "ufc fight pass"
+                    }
+                ]
+            },
+            {
+                "event": "MAIN STAGE Live From Coachella Valley Music & Arts Festival 2026",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211",
+                        "channel_href": "/watch.php?id=211",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "OUTDOOR THEATRE Live From Coachella Valley Music & Arts Festival 2026",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "212",
+                        "channel_href": "/watch.php?id=212",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "SONARA Live From Coachella Valley Music & Arts Festival 2026",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "213",
+                        "channel_href": "/watch.php?id=213",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "SAHARA Live From Coachella Valley Music & Arts Festival 2026",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "214",
+                        "channel_href": "/watch.php?id=214",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "MOJAVE Live From Coachella Valley Music & Arts Festival 2026",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215",
+                        "channel_href": "/watch.php?id=215",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "GOBI Live From Coachella Valley Music & Arts Festival 2026",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "216",
+                        "channel_href": "/watch.php?id=216",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "AEW: Dynasty",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "event": "Snapped Season 36, Episode 11",
@@ -588,6 +716,20 @@
                         "channel_href": "/watch.php?id=321",
                         "channel_title": "HBO USA",
                         "data_ch": "hbo usa"
+                    }
+                ]
+            },
+            {
+                "event": "Smiling Friends Friend-Bot Season 3, Episode 9",
+                "time": "03:00",
+                "time_visible": "03:00",
+                "channels": [
+                    {
+                        "channel_name": "Cartoon Network",
+                        "channel_id": "339",
+                        "channel_href": "/watch.php?id=339",
+                        "channel_title": "Cartoon Network",
+                        "data_ch": "cartoon network"
                     }
                 ]
             }
@@ -7955,7 +8097,7 @@
         ],
         "WWE (AEW)": [
             {
-                "event": "All Elite Wrestling AEW : Dynasty",
+                "event": "All Elite Wrestling (AEW) : Dynasty",
                 "time": "00:00",
                 "time_visible": "00:00",
                 "channels": [
@@ -7965,6 +8107,20 @@
                         "channel_href": "/watch.php?id=59",
                         "channel_title": "DAZN PPV",
                         "data_ch": "dazn ppv"
+                    },
+                    {
+                        "channel_name": "Event PPV I",
+                        "channel_id": "76",
+                        "channel_href": "/watch.php?id=76",
+                        "channel_title": "Event PPV I",
+                        "data_ch": "event ppv i"
+                    },
+                    {
+                        "channel_name": "Event PPV II",
+                        "channel_id": "77",
+                        "channel_href": "/watch.php?id=77",
+                        "channel_title": "Event PPV II",
+                        "data_ch": "event ppv ii"
                     }
                 ]
             }
@@ -10497,7 +10653,7 @@
                 ]
             }
         ],
-        "Girls High School Basketball": [
+        "High School Basketball": [
             {
                 "event": "High School Basketball : San Antonio Sports All-Star Game",
                 "time": "18:00",
@@ -10525,7 +10681,9 @@
                         "data_ch": "espn+ usa"
                     }
                 ]
-            },
+            }
+        ],
+        "Girls High School Basketball": [
             {
                 "event": "Girls High School Basketball : San Antonio Sports All-Star Game",
                 "time": "17:00",
