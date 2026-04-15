@@ -261,6 +261,55 @@
                 ]
             },
             {
+                "event": "WrestleMania XLII 2026: Night One, April 19, 2026",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Netflix",
+                        "channel_id": "00",
+                        "channel_href": "/watch.php?id=00",
+                        "channel_title": "Netflix",
+                        "data_ch": "netflix"
+                    }
+                ]
+            },
+            {
+                "event": "WWE: WrestleMania XLII 2026: Night Two, April 20, 2026",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Netflix",
+                        "channel_id": "00",
+                        "channel_href": "/watch.php?id=00",
+                        "channel_title": "Netflix",
+                        "data_ch": "netflix"
+                    }
+                ]
+            },
+            {
+                "event": "Tony Awards 2026 (TV Awards Show), June 7, 2026",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "CBS",
+                        "channel_id": "52",
+                        "channel_href": "/watch.php?id=52",
+                        "channel_title": "CBS",
+                        "data_ch": "cbs"
+                    },
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "00",
+                        "channel_href": "/watch.php?id=00",
+                        "channel_title": "Paramount+",
+                        "data_ch": "paramount+"
+                    }
+                ]
+            },
+            {
                 "event": "NBA Playoffs / Finals Games (Basketball), May\u2013June 2026",
                 "time": "23:00",
                 "time_visible": "23:00",
@@ -287,25 +336,20 @@
                         "data_ch": "tnt sports 1 uk"
                     }
                 ]
-            },
+            }
+        ],
+        "PPV Events": [
             {
-                "event": "Tony Awards 2026 (TV Awards Show), June 7, 2026",
+                "event": "Millbridge Speedway",
                 "time": "22:00",
                 "time_visible": "22:00",
                 "channels": [
                     {
-                        "channel_name": "CBS",
-                        "channel_id": "52",
-                        "channel_href": "/watch.php?id=52",
-                        "channel_title": "CBS",
-                        "data_ch": "cbs"
-                    },
-                    {
-                        "channel_name": "Paramount+",
-                        "channel_id": "00",
-                        "channel_href": "/watch.php?id=00",
-                        "channel_title": "Paramount+",
-                        "data_ch": "paramount+"
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
                     }
                 ]
             }
@@ -2078,6 +2122,34 @@
                         "channel_href": "/watch.php?id=144",
                         "channel_title": "5Sport Israel",
                         "data_ch": "5sport israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001",
+                        "channel_href": "/watch.php?id=4001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006",
+                        "channel_href": "/watch.php?id=4006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4010",
+                        "channel_href": "/watch.php?id=4010",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2281,6 +2353,27 @@
                         "channel_href": "/watch.php?id=145",
                         "channel_title": "5Plus Israel",
                         "data_ch": "5plus israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002",
+                        "channel_href": "/watch.php?id=4002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4011",
+                        "channel_href": "/watch.php?id=4011",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5439,7 +5532,7 @@
         ],
         "NBA": [
             {
-                "event": "NBA : Philadelphia 76ers vs Orlando Magic",
+                "event": "NBA : Charlotte Hornets vs Miami Heat",
                 "time": "23:30",
                 "time_visible": "23:30",
                 "channels": [
@@ -5488,7 +5581,7 @@
                 ]
             },
             {
-                "event": "NBA : Los Angeles Clippers vs Golden State Warriors",
+                "event": "NBA : Phoenix Suns vs Portland Trail Blazers",
                 "time": "02:00",
                 "time_visible": "02:00",
                 "channels": [
