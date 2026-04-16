@@ -1364,6 +1364,13 @@
                 "time_visible": "19:00",
                 "channels": [
                     {
+                        "channel_name": "Paramount+",
+                        "channel_id": "200",
+                        "channel_href": "/watch.php?id=200",
+                        "channel_title": "Paramount+",
+                        "data_ch": "paramount+"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones 3",
                         "channel_id": "1",
                         "channel_href": "/watch.php?id=1",
@@ -1390,6 +1397,20 @@
                         "channel_href": "/watch.php?id=985",
                         "channel_title": "Canal+ Extra 3 Poland",
                         "data_ch": "canal+ extra 3 poland"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "Backup Stream ENG",
+                        "data_ch": "backup stream eng"
+                    },
+                    {
+                        "channel_name": "Backup Stream PL",
+                        "channel_id": "5007",
+                        "channel_href": "/watch.php?id=5007",
+                        "channel_title": "Backup Stream PL",
+                        "data_ch": "backup stream pl"
                     }
                 ]
             },
@@ -1663,6 +1684,34 @@
                         "channel_href": "/watch.php?id=145",
                         "channel_title": "5Plus Israel",
                         "data_ch": "5plus israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Backup Stream ENG",
+                        "data_ch": "backup stream eng"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Backup Stream ENG",
+                        "data_ch": "backup stream eng"
+                    },
+                    {
+                        "channel_name": "Backup Stream PL",
+                        "channel_id": "5003",
+                        "channel_href": "/watch.php?id=5003",
+                        "channel_title": "Backup Stream PL",
+                        "data_ch": "backup stream pl"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "4001",
+                        "channel_href": "/watch.php?id=4001",
+                        "channel_title": "Backup Stream ENG",
+                        "data_ch": "backup stream eng"
                     }
                 ]
             },
@@ -1929,6 +1978,34 @@
                         "channel_href": "/watch.php?id=144",
                         "channel_title": "5Sport Israel",
                         "data_ch": "5sport israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
+                        "channel_title": "Backup Stream ENG",
+                        "data_ch": "backup stream eng"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
+                        "channel_title": "Backup Stream ENG",
+                        "data_ch": "backup stream eng"
+                    },
+                    {
+                        "channel_name": "Backup Stream PL",
+                        "channel_id": "5006",
+                        "channel_href": "/watch.php?id=5006",
+                        "channel_title": "Backup Stream PL",
+                        "data_ch": "backup stream pl"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "4002",
+                        "channel_href": "/watch.php?id=4002",
+                        "channel_title": "Backup Stream ENG",
+                        "data_ch": "backup stream eng"
                     }
                 ]
             },
