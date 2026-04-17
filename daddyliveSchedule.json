@@ -128,20 +128,6 @@
                 ]
             },
             {
-                "event": "UEFA Champions League Quarterfinals Leg 2 (football men) 14 \u2013 15 April 2026",
-                "time": "20:00",
-                "time_visible": "20:00",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31",
-                        "channel_href": "/watch.php?id=31",
-                        "channel_title": "TNT Sports 1 UK",
-                        "data_ch": "tnt sports 1 uk"
-                    }
-                ]
-            },
-            {
                 "event": "WWE Backlash 2026 (Wrestling PPV), 9 May 2026",
                 "time": "20:00",
                 "time_visible": "20:00",
@@ -313,6 +299,36 @@
                         "channel_href": "/watch.php?id=31",
                         "channel_title": "TNT Sports 1 UK",
                         "data_ch": "tnt sports 1 uk"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "event": "PDRA East Coast Nationals",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5020",
+                        "channel_href": "/watch.php?id=5020",
+                        "channel_title": "FLORacing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Cedar Lake Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "PPV Events",
+                        "data_ch": "ppv events"
                     }
                 ]
             }
@@ -1243,6 +1259,13 @@
                         "channel_href": "/watch.php?id=140",
                         "channel_title": "Sport 1 Israel",
                         "data_ch": "sport 1 israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005",
+                        "channel_href": "/watch.php?id=4005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1418,6 +1441,13 @@
                         "channel_href": "/watch.php?id=141",
                         "channel_title": "Sport 2 Israel",
                         "data_ch": "sport 2 israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4008",
+                        "channel_href": "/watch.php?id=4008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1649,6 +1679,20 @@
                         "channel_href": "/watch.php?id=141",
                         "channel_title": "Sport 2 Israel",
                         "data_ch": "sport 2 israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002",
+                        "channel_href": "/watch.php?id=4002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1838,6 +1882,13 @@
                         "channel_href": "/watch.php?id=98",
                         "channel_title": "beIN Sports MENA 8",
                         "data_ch": "bein sports mena 8"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006",
+                        "channel_href": "/watch.php?id=4006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2020,6 +2071,13 @@
                         "channel_href": "/watch.php?id=142",
                         "channel_title": "Sport 3 Israel",
                         "data_ch": "sport 3 israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001",
+                        "channel_href": "/watch.php?id=4001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2167,6 +2225,20 @@
                         "channel_href": "/watch.php?id=143",
                         "channel_title": "Sport 4 Israel",
                         "data_ch": "sport 4 israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003",
+                        "channel_href": "/watch.php?id=4003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2258,6 +2330,13 @@
                         "channel_href": "/watch.php?id=96",
                         "channel_title": "beIN Sports MENA 6",
                         "data_ch": "bein sports mena 6"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007",
+                        "channel_href": "/watch.php?id=4007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2349,6 +2428,13 @@
                         "channel_href": "/watch.php?id=19",
                         "channel_title": "Arena 5 Premium Serbia",
                         "data_ch": "arena 5 premium serbia"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4008",
+                        "channel_href": "/watch.php?id=4008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
