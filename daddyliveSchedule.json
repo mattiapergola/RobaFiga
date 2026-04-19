@@ -21,9 +21,16 @@
                 "time_visible": "16:00",
                 "channels": [
                     {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27",
+                        "channel_href": "/watch.php?id=27",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
                         "channel_name": "KSWTV",
-                        "channel_id": "5004",
-                        "channel_href": "/watch.php?id=5004",
+                        "channel_id": "5026",
+                        "channel_href": "/watch.php?id=5026",
                         "channel_title": "KSWTV",
                         "data_ch": "kswtv"
                     }
@@ -96,20 +103,6 @@
                         "channel_href": "/watch.php?id=318",
                         "channel_title": "Golf Channel USA",
                         "data_ch": "golf channel usa"
-                    }
-                ]
-            },
-            {
-                "event": "East vs West 23 arm wrestling in Germany on April 18, 2026",
-                "time": "18:00",
-                "time_visible": "18:00",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "5016",
-                        "channel_href": "/watch.php?id=5016",
-                        "channel_title": "Event PPV",
-                        "data_ch": "event ppv"
                     }
                 ]
             },
@@ -287,6 +280,20 @@
                         "channel_href": "/watch.php?id=257",
                         "channel_title": "Floracing",
                         "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "East vs West 23 arm wrestling in Germany",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5016",
+                        "channel_href": "/watch.php?id=5016",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
                     }
                 ]
             },
@@ -9687,6 +9694,13 @@
                         "channel_href": "/watch.php?id=927",
                         "channel_title": "ESPN 3 MX",
                         "data_ch": "espn 3 mx"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4047",
+                        "channel_href": "/watch.php?id=4047",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9743,6 +9757,27 @@
                         "channel_name": "DAZN PPV",
                         "channel_id": "156",
                         "channel_href": "/watch.php?id=156",
+                        "channel_title": "DAZN PPV",
+                        "data_ch": "dazn ppv"
+                    }
+                ]
+            },
+            {
+                "event": "KSW 117: Pawlak vs. Chalidow",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "27",
+                        "channel_href": "/watch.php?id=27",
+                        "channel_title": "DAZN PPV",
+                        "data_ch": "dazn ppv"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "5026",
+                        "channel_href": "/watch.php?id=5026",
                         "channel_title": "DAZN PPV",
                         "data_ch": "dazn ppv"
                     }
@@ -9901,6 +9936,13 @@
                         "channel_href": "/watch.php?id=146",
                         "channel_title": "Sport 5 Live Israel",
                         "data_ch": "sport 5 live israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4048",
+                        "channel_href": "/watch.php?id=4048",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
