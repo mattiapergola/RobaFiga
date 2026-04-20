@@ -233,6 +233,134 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "event": "Spark Joshi: Lady Luck II",
+                "time": "20:30",
+                "time_visible": "20:30",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "110",
+                        "channel_href": "/watch.php?id=110",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Sprint Cars Tri State",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "107",
+                        "channel_href": "/watch.php?id=107",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "MAIN STAGE Live From Coachella 2026",
+                "time": "02:30",
+                "time_visible": "02:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108",
+                        "channel_href": "/watch.php?id=108",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "UMA Live From Coachella 2026",
+                "time": "02:30",
+                "time_visible": "02:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "109",
+                        "channel_href": "/watch.php?id=109",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "OUTDOOR THEATRE Live From Coachella 2026",
+                "time": "02:30",
+                "time_visible": "02:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151",
+                        "channel_href": "/watch.php?id=151",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "SONARA Live From Coachella 2026",
+                "time": "02:30",
+                "time_visible": "02:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152",
+                        "channel_href": "/watch.php?id=152",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "SAHARA Live From Coachella 2026",
+                "time": "02:30",
+                "time_visible": "02:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153",
+                        "channel_href": "/watch.php?id=153",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "MOJAVE Live From Coachella 2026",
+                "time": "02:30",
+                "time_visible": "02:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154",
+                        "channel_href": "/watch.php?id=154",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "GOBI Live From Coachella 2026",
+                "time": "02:30",
+                "time_visible": "02:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155",
+                        "channel_href": "/watch.php?id=155",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "event": "Countdown to WrestleMania 42 Night 2 Live",
@@ -6232,8 +6360,8 @@
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
-                        "channel_id": "69",
-                        "channel_href": "/watch.php?id=69",
+                        "channel_id": "105",
+                        "channel_href": "/watch.php?id=105",
                         "channel_title": "ESPN+ USA",
                         "data_ch": "espn+ usa"
                     }
@@ -6260,8 +6388,8 @@
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
-                        "channel_id": "77",
-                        "channel_href": "/watch.php?id=77",
+                        "channel_id": "106",
+                        "channel_href": "/watch.php?id=106",
                         "channel_title": "ESPN+ USA",
                         "data_ch": "espn+ usa"
                     }
