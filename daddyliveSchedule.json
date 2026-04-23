@@ -2,6 +2,27 @@
     "Wednesday 22nd April 2026": {
         "Upcoming Events": [
             {
+                "event": "Internazionali BNL d\u2019Italia (Rome Masters Tennis), May 5\u201317, 2026",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport Tennis Italy",
+                        "channel_id": "576",
+                        "channel_href": "/watch.php?id=576",
+                        "channel_title": "Sky Sport Tennis Italy",
+                        "data_ch": "sky sport tennis italy"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Italy",
+                        "channel_id": "878",
+                        "channel_href": "/watch.php?id=878",
+                        "channel_title": "EuroSport 1 Italy",
+                        "data_ch": "eurosport 1 italy"
+                    }
+                ]
+            },
+            {
                 "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
                 "time": "15:00",
                 "time_visible": "15:00",
@@ -5307,6 +5328,13 @@
                 "time": "22:45",
                 "time_visible": "22:45",
                 "channels": [
+                    {
+                        "channel_name": "MLB league pass",
+                        "channel_id": "8",
+                        "channel_href": "/watch.php?id=8",
+                        "channel_title": "MLB league pass",
+                        "data_ch": "mlb league pass"
+                    },
                     {
                         "channel_name": "Arena Sport 3 Croatia",
                         "channel_id": "434",
