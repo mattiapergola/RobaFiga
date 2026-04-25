@@ -53,6 +53,10 @@ jobs:
           python fullita.py
           python hat.py
 
+      - name: Download vavoo playlist from vavoo-player repo
+        run: |
+          curl -sSL "https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/playlist.m3u" -o channels_italy.m3u8
+
       - name: Run script mergelists
         run: |
           python mergelists.py channels_italy.m3u8 247ita.m3u8 itaevents.m3u8
