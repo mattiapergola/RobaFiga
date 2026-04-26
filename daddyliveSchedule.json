@@ -86,14 +86,14 @@
                 ]
             },
             {
-                "event": "Prime Show MMA 16 takes place Saturday, April 25, 2026",
+                "event": "Prime Show MMA 16: KON-SE-KWEN-CJE",
                 "time": "17:30",
                 "time_visible": "17:30",
                 "channels": [
                     {
                         "channel_name": "PRIMEMMATV",
-                        "channel_id": "00",
-                        "channel_href": "/watch.php?id=00",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
                         "channel_title": "PRIMEMMATV",
                         "data_ch": "primemmatv"
                     }
@@ -229,6 +229,372 @@
                         "channel_href": "/watch.php?id=00",
                         "channel_title": "Paramount+",
                         "data_ch": "paramount+"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "event": "World Boxing Cup 2026 Brazil: Semi-Finals \u2013 Evening Session (Ring A)",
+                "time": "16:30",
+                "time_visible": "16:30",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "1080",
+                        "channel_href": "/watch.php?id=1080",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 NAPA Spring Sizzler Opening Weekend at Stafford Speedway",
+                "time": "17:30",
+                "time_visible": "17:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "1081",
+                        "channel_href": "/watch.php?id=1081",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Prime Show MMA 16: KON-SE-KWEN-CJE",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Glory 107 : Donovan Wisse vs. Chico Kwasi",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "1082",
+                        "channel_href": "/watch.php?id=1082",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 CARS Tour at Caraway Speedway",
+                "time": "19:30",
+                "time_visible": "19:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "203",
+                        "channel_href": "/watch.php?id=203",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 NASCAR Season Opener at Berlin Raceway",
+                "time": "19:30",
+                "time_visible": "19:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "204",
+                        "channel_href": "/watch.php?id=204",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Weekly Racing Fonda Speedway",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205",
+                        "channel_href": "/watch.php?id=205",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Keith Kauffman Classic Port Royal Speedway",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "206",
+                        "channel_href": "/watch.php?id=206",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Lucas Oil Late Models BAPS",
+                "time": "21:45",
+                "time_visible": "21:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "207",
+                        "channel_href": "/watch.php?id=207",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 American Flat Track at Ventura Short Track",
+                "time": "21:50",
+                "time_visible": "21:50",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "208",
+                        "channel_href": "/watch.php?id=208",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 NASCAR Weekly Racing at Langley Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "209",
+                        "channel_href": "/watch.php?id=209",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Boxing Extravaganza: Bryce Mills vs Julio Rosa",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "210",
+                        "channel_href": "/watch.php?id=210",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 MARS Late Models at Peoria Speedway",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "211",
+                        "channel_href": "/watch.php?id=211",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 IMCA Weekly Racing at 141 Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "212",
+                        "channel_href": "/watch.php?id=212",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "XRUMBLE Fighting Championships: Zenith Zion vs Chrisean Rock",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "213",
+                        "channel_href": "/watch.php?id=213",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Sprint Cars Knoxville",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "214",
+                        "channel_href": "/watch.php?id=214",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Sharon Speedway Late Models",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215",
+                        "channel_href": "/watch.php?id=215",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Cedar Lake Speedway Sprint Cars",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "216",
+                        "channel_href": "/watch.php?id=216",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Boxing : Elton Dharry vs Salmin Kassim",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "217",
+                        "channel_href": "/watch.php?id=217",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Armored MMA 2026: Medieval Cage Fighting Championship, Chicago-land",
+                "time": "01:00",
+                "time_visible": "01:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "218",
+                        "channel_href": "/watch.php?id=218",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "MAIN STAGE Live From Coachella 2026",
+                "time": "01:30",
+                "time_visible": "01:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "219",
+                        "channel_href": "/watch.php?id=219",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "OUTDOOR THEATRE Live From Coachella 2026",
+                "time": "01:30",
+                "time_visible": "01:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "220",
+                        "channel_href": "/watch.php?id=220",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "YUMA Live From Coachella 2026",
+                "time": "01:30",
+                "time_visible": "01:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221",
+                        "channel_href": "/watch.php?id=221",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "SAHARA Live From Coachella 2026",
+                "time": "01:30",
+                "time_visible": "01:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "222",
+                        "channel_href": "/watch.php?id=222",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "MOJAVE Live From Coachella 2026",
+                "time": "01:30",
+                "time_visible": "01:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "224",
+                        "channel_href": "/watch.php?id=224",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "GOBI Live From Coachella 2026",
+                "time": "01:30",
+                "time_visible": "01:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "225",
+                        "channel_href": "/watch.php?id=225",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
                     }
                 ]
             }
@@ -10537,6 +10903,48 @@
                         "data_ch": "ufc fight pass"
                     },
                     {
+                        "channel_name": "UFC Fight Pass II",
+                        "channel_id": "29",
+                        "channel_href": "/watch.php?id=29",
+                        "channel_title": "UFC Fight Pass II",
+                        "data_ch": "ufc fight pass ii"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass III",
+                        "channel_id": "30",
+                        "channel_href": "/watch.php?id=30",
+                        "channel_title": "UFC Fight Pass III",
+                        "data_ch": "ufc fight pass iii"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass IV",
+                        "channel_id": "25",
+                        "channel_href": "/watch.php?id=25",
+                        "channel_title": "UFC Fight Pass IV",
+                        "data_ch": "ufc fight pass iv"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass V",
+                        "channel_id": "26",
+                        "channel_href": "/watch.php?id=26",
+                        "channel_title": "UFC Fight Pass V",
+                        "data_ch": "ufc fight pass v"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass VI",
+                        "channel_id": "27",
+                        "channel_href": "/watch.php?id=27",
+                        "channel_title": "UFC Fight Pass VI",
+                        "data_ch": "ufc fight pass vi"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass VII",
+                        "channel_id": "28",
+                        "channel_href": "/watch.php?id=28",
+                        "channel_title": "UFC Fight Pass VII",
+                        "data_ch": "ufc fight pass vii"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31",
                         "channel_href": "/watch.php?id=31",
@@ -10591,6 +10999,48 @@
                         "channel_href": "/watch.php?id=153",
                         "channel_title": "UFC Fight Pass",
                         "data_ch": "ufc fight pass"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass II",
+                        "channel_id": "29",
+                        "channel_href": "/watch.php?id=29",
+                        "channel_title": "UFC Fight Pass II",
+                        "data_ch": "ufc fight pass ii"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass III",
+                        "channel_id": "30",
+                        "channel_href": "/watch.php?id=30",
+                        "channel_title": "UFC Fight Pass III",
+                        "data_ch": "ufc fight pass iii"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass IV",
+                        "channel_id": "25",
+                        "channel_href": "/watch.php?id=25",
+                        "channel_title": "UFC Fight Pass IV",
+                        "data_ch": "ufc fight pass iv"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass V",
+                        "channel_id": "26",
+                        "channel_href": "/watch.php?id=26",
+                        "channel_title": "UFC Fight Pass V",
+                        "data_ch": "ufc fight pass v"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass VI",
+                        "channel_id": "27",
+                        "channel_href": "/watch.php?id=27",
+                        "channel_title": "UFC Fight Pass VI",
+                        "data_ch": "ufc fight pass vi"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass VII",
+                        "channel_id": "28",
+                        "channel_href": "/watch.php?id=28",
+                        "channel_title": "UFC Fight Pass VII",
+                        "data_ch": "ufc fight pass vii"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
