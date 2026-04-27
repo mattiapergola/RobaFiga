@@ -261,6 +261,106 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "event": "NAPA Spring Sizzler Opening Weekend at Stafford Speedway",
+                "time": "16:30",
+                "time_visible": "16:30",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "PPV Events",
+                        "data_ch": "ppv events"
+                    }
+                ]
+            },
+            {
+                "event": "CARS Tour at Caraway Speedway",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5003",
+                        "channel_href": "/watch.php?id=5003",
+                        "channel_title": "PPV Events",
+                        "data_ch": "ppv events"
+                    }
+                ]
+            },
+            {
+                "event": "NASCAR Cup Series: Jack Link\u2019s 500 at Talladega Superspeedway",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
+                        "channel_title": "PPV Events",
+                        "data_ch": "ppv events"
+                    }
+                ]
+            },
+            {
+                "event": "ASA Midwest Tour 100 at Slinger Speedway",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
+                        "channel_title": "PPV Events",
+                        "data_ch": "ppv events"
+                    }
+                ]
+            },
+            {
+                "event": "Jim Normoyle Memorial at Utica-Rome Speedway",
+                "time": "20:00",
+                "time_visible": "20:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5006",
+                        "channel_href": "/watch.php?id=5006",
+                        "channel_title": "PPV Events",
+                        "data_ch": "ppv events"
+                    }
+                ]
+            },
+            {
+                "event": "Lucas Oil Late Model Dirt Series at Hagerstown Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5007",
+                        "channel_href": "/watch.php?id=5007",
+                        "channel_title": "PPV Events",
+                        "data_ch": "ppv events"
+                    }
+                ]
+            },
+            {
+                "event": "USAC Kokomo Grand Prix at Kokomo Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Events",
+                        "channel_id": "5008",
+                        "channel_href": "/watch.php?id=5008",
+                        "channel_title": "PPV Events",
+                        "data_ch": "ppv events"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "event": "Global Champions: The Ultimate Show Jumping Journey Mexico City",
@@ -574,7 +674,15 @@
                 "event": "Mud Madness (S1 E5)",
                 "time": "01:00",
                 "time_visible": "01:00",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Discovery Turbo",
+                        "channel_id": "661",
+                        "channel_href": "/watch.php?id=661",
+                        "channel_title": "Discovery Turbo",
+                        "data_ch": "discovery turbo"
+                    }
+                ]
             },
             {
                 "event": "The Way Home (S4 E2)",
