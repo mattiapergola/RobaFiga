@@ -13753,6 +13753,27 @@
                 "time_visible": "17:00",
                 "channels": [
                     {
+                        "channel_name": "NHL Network USA",
+                        "channel_id": "663",
+                        "channel_href": "/watch.php?id=663",
+                        "channel_title": "NHL Network USA",
+                        "data_ch": "nhl network usa"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "111",
+                        "channel_href": "/watch.php?id=111",
+                        "channel_title": "TSN1",
+                        "data_ch": "tsn1"
+                    },
+                    {
+                        "channel_name": "RDS 2 CA",
+                        "channel_id": "840",
+                        "channel_href": "/watch.php?id=840",
+                        "channel_title": "RDS 2 CA",
+                        "data_ch": "rds 2 ca"
+                    },
+                    {
                         "channel_name": "Magenta Sport 317",
                         "channel_id": "17",
                         "channel_href": "/watch.php?id=17",
