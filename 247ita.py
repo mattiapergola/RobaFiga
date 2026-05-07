@@ -170,7 +170,7 @@ def get_stream_link(dlhd_id, max_retries=3):
     print(f"Getting stream link for channel ID: {dlhd_id}...")
     
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://dlstreams.top/watch.php?id={dlhd_id}"
+    return f"https://dlhd.pk/watch.php?id={dlhd_id}"
 
 def fetch_with_debug(filename, url):
     try:
