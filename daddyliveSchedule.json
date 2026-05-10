@@ -1436,6 +1436,20 @@
                 ]
             },
             {
+                "event": "Belgium Pro League : KAA Gent vs RSC Anderlecht",
+                "time": "11:30",
+                "time_visible": "11:30",
+                "channels": [
+                    {
+                        "channel_name": "DAZN USA",
+                        "channel_id": "211",
+                        "channel_href": "/watch.php?id=211",
+                        "channel_title": "DAZN USA",
+                        "data_ch": "dazn usa"
+                    }
+                ]
+            },
+            {
                 "event": "Russian Premier League : Zenit vs Sochi",
                 "time": "12:00",
                 "time_visible": "12:00",
@@ -2120,6 +2134,13 @@
                         "data_ch": "peacock feed"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "Sky Sport Select NZ",
                         "channel_id": "587",
                         "channel_href": "/watch.php?id=587",
@@ -2323,6 +2344,13 @@
                         "data_ch": "peacock feed"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "Sky Sports F1 UK",
                         "channel_id": "60",
                         "channel_href": "/watch.php?id=60",
@@ -2482,6 +2510,13 @@
                         "channel_href": "/watch.php?id=105",
                         "channel_title": "Peacock Feed",
                         "data_ch": "peacock feed"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "USA Network",
@@ -9078,6 +9113,20 @@
             }
         ],
         "Tennis WTA \u2013 Rome Doubles (Italy), Clay": [
+            {
+                "event": "WTA Rome: Gauff Coco/McNally Caty vs Sutjiadi Aldila/ Tjen Janice",
+                "time": "10:00",
+                "time_visible": "10:00",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561",
+                        "channel_href": "/watch.php?id=1561",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    }
+                ]
+            },
             {
                 "event": "WTA Doubles \u2013 Rome: \ud83c\uddee\ud83c\uddf9 Tyra Caterina Grant / \ud83c\uddee\ud83c\uddf9 J. Ruggeri vs \ud83c\uddf7\ud83c\uddf4 Sorana C\u00eerstea / \ud83c\uddf7\ud83c\uddf4 Jaqueline Cristian",
                 "time": "12:00",
