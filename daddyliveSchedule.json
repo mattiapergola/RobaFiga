@@ -5538,6 +5538,20 @@
         ],
         "Handball": [
             {
+                "event": "World Championship 2025 : Montenegro vs Slovenia",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Spot 1 CZ",
+                        "channel_id": "30",
+                        "channel_href": "/watch.php?id=30",
+                        "channel_title": "Spot 1 CZ",
+                        "data_ch": "spot 1 cz"
+                    }
+                ]
+            },
+            {
                 "event": "World Championship 2025 : Serbia vs Hungary",
                 "time": "16:00",
                 "time_visible": "16:00",
