@@ -226,6 +226,309 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "event": "2026 Weekly Racing at Stafford Speedway",
+                "time": "21:30",
+                "time_visible": "21:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "228",
+                        "channel_href": "/watch.php?id=228",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003",
+                        "channel_href": "/watch.php?id=5003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "2026 USAC #LetsRaceTwo at Eldora Speedway",
+                "time": "21:30",
+                "time_visible": "21:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "229",
+                        "channel_href": "/watch.php?id=229",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Sprint Cars",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "237",
+                        "channel_href": "/watch.php?id=237",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Late Models",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "238",
+                        "channel_href": "/watch.php?id=238",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "Nascar Season Opener Autodrome",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "239",
+                        "channel_href": "/watch.php?id=239",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Weekly Racing at Utica-Rome Speedway",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Williams Grove Speedway Sprint Cars",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "240",
+                        "channel_href": "/watch.php?id=240",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006",
+                        "channel_href": "/watch.php?id=5006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "Roman 2 Jiu Jitsu",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "241",
+                        "channel_href": "/watch.php?id=241",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Lucas Oil Late Model Dirt Series Eagle",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "242",
+                        "channel_href": "/watch.php?id=242",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008",
+                        "channel_href": "/watch.php?id=5008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "2026 MARS Late Models at Quincy Raceways",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "243",
+                        "channel_href": "/watch.php?id=243",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007",
+                        "channel_href": "/watch.php?id=5007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "2026 IMCA Weekly Racing at Marshalltown Speedway",
+                "time": "23:45",
+                "time_visible": "23:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "244",
+                        "channel_href": "/watch.php?id=244",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011",
+                        "channel_href": "/watch.php?id=5011",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "GCW: Guilty Conscience 2026",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "245",
+                        "channel_href": "/watch.php?id=245",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "RING OF HONOR : ROH: Supercard of Honor",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "246",
+                        "channel_href": "/watch.php?id=246",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 USAC MRA Sprints at Electric City Speedway",
+                "time": "00:15",
+                "time_visible": "00:15",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "247",
+                        "channel_href": "/watch.php?id=247",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009",
+                        "channel_href": "/watch.php?id=5009",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "2026 USAC Avanti CRA Sprints at Central Arizona Raceway",
+                "time": "00:30",
+                "time_visible": "00:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "248",
+                        "channel_href": "/watch.php?id=248",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010",
+                        "channel_href": "/watch.php?id=5010",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "New Era Fight Night III : Anthony Garnica vs. Eros Correa",
+                "time": "02:00",
+                "time_visible": "02:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "249",
+                        "channel_href": "/watch.php?id=249",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "event": "The Kelly Clarkson Show Season 7, Episode 137",
@@ -2142,8 +2445,8 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5001",
-                        "channel_href": "/watch.php?id=5001",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
                     },
@@ -4647,8 +4950,8 @@
                 "channels": [
                     {
                         "channel_name": "DAZN PPV",
-                        "channel_id": "376",
-                        "channel_href": "/watch.php?id=376",
+                        "channel_id": "176",
+                        "channel_href": "/watch.php?id=176",
                         "channel_title": "DAZN PPV",
                         "data_ch": "dazn ppv"
                     },
