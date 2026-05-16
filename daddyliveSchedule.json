@@ -7822,25 +7822,46 @@
                 "time_visible": "15:00",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00",
-                        "channel_href": "/watch.php?id=00",
-                        "channel_title": "Channel Not Listed #JustAsk",
-                        "data_ch": "channel not listed #justask"
-                    }
-                ]
-            },
-            {
-                "event": "WTA - SINGLES: Rome : \ud83c\uddfa\ud83c\uddf8 Coco Gauff vs \ud83c\uddfa\ud83c\udde6 Elina Svitolina",
-                "time": "15:00",
-                "time_visible": "15:00",
-                "channels": [
-                    {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1551",
                         "channel_href": "/watch.php?id=1551",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115",
+                        "channel_href": "/watch.php?id=115",
+                        "channel_title": "TSN5",
+                        "data_ch": "tsn5"
+                    },
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40",
+                        "channel_href": "/watch.php?id=40",
+                        "channel_title": "Tennis Channel",
+                        "data_ch": "tennis channel"
+                    },
+                    {
+                        "channel_name": "Sky Sport Tennis Italy",
+                        "channel_id": "576",
+                        "channel_href": "/watch.php?id=576",
+                        "channel_title": "Sky Sport Tennis Italy",
+                        "data_ch": "sky sport tennis italy"
+                    },
+                    {
+                        "channel_name": "Sky Sports Tennis DE",
+                        "channel_id": "884",
+                        "channel_href": "/watch.php?id=884",
+                        "channel_title": "Sky Sports Tennis DE",
+                        "data_ch": "sky sports tennis de"
+                    },
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102",
+                        "channel_href": "/watch.php?id=102",
+                        "channel_title": "Sportklub 2 Croatia",
+                        "data_ch": "sportklub 2 croatia"
                     }
                 ]
             }
