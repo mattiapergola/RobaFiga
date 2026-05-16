@@ -226,6 +226,64 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "event": "Mecum Auctions 2026",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "228",
+                        "channel_href": "/watch.php?id=228",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Finishers Money in the Bank",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "229",
+                        "channel_href": "/watch.php?id=229",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "MotoAmerica Superbikes Barber",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "237",
+                        "channel_href": "/watch.php?id=237",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Primetime Fight Night Vol. 9 : Ahmad Chauki El Ahmad vs. Tinko Banabakov",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "238",
+                        "channel_href": "/watch.php?id=238",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "event": "MotoAmerica Superbike Championship Barber, Race 1",
@@ -4364,6 +4422,20 @@
                 ]
             },
             {
+                "event": "World Int. Friendly Games : Ireland vs Grenada",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6050",
+                        "channel_href": "/watch.php?id=6050",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
                 "event": "Saudi Arabia - Pro League : Al Hilal vs NEOM",
                 "time": "16:05",
                 "time_visible": "16:05",
@@ -7867,6 +7939,20 @@
             }
         ],
         "Tennis ATP \u2013 Rome Doubles (Italy), Clay": [
+            {
+                "event": "ATP - SINGLES: Rome  : Jannik Sinner vs Daniil Medvedev Live Coverage",
+                "time": "13:30",
+                "time_visible": "13:30",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1586",
+                        "channel_href": "/watch.php?id=1586",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    }
+                ]
+            },
             {
                 "event": "ATP - DOUBLES: Rome : \ud83c\uddfa\ud83c\uddf8 Austin Krajicek / \ud83c\udded\ud83c\uddf7 Nikola Mektic vs \ud83c\uddea\ud83c\uddf8 Marcel Granollers / \ud83c\udde6\ud83c\uddf7 Horacio Zeballos",
                 "time": "10:00",
