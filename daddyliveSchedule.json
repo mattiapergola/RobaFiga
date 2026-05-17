@@ -127,8 +127,8 @@
                 "channels": [
                     {
                         "channel_name": "UFC Fight Pass",
-                        "channel_id": "00",
-                        "channel_href": "/watch.php?id=00",
+                        "channel_id": "68",
+                        "channel_href": "/watch.php?id=68",
                         "channel_title": "UFC Fight Pass",
                         "data_ch": "ufc fight pass"
                     }
@@ -270,6 +270,20 @@
                 ]
             },
             {
+                "event": "24 Hours of Nurburgring 2026",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
                 "event": "Primetime Fight Night Vol. 9 : Ahmad Chauki El Ahmad vs. Tinko Banabakov",
                 "time": "17:00",
                 "time_visible": "17:00",
@@ -280,6 +294,363 @@
                         "channel_href": "/watch.php?id=238",
                         "channel_title": "Event PPV",
                         "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "BKB 54: Mayhem In Manchester : Rolando Dy vs. Paulie Malignaggi",
+                "time": "18:30",
+                "time_visible": "18:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "239",
+                        "channel_href": "/watch.php?id=239",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Grand Finale of Eurovision",
+                "time": "19:30",
+                "time_visible": "19:30",
+                "channels": [
+                    {
+                        "channel_name": "BBC One UK",
+                        "channel_id": "356",
+                        "channel_href": "/watch.php?id=356",
+                        "channel_title": "BBC One UK",
+                        "data_ch": "bbc one uk"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5019",
+                        "channel_href": "/watch.php?id=5019",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "6065",
+                        "channel_href": "/watch.php?id=6065",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 American Flat Track Throttlefest at Budds Creek",
+                "time": "19:45",
+                "time_visible": "19:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "240",
+                        "channel_href": "/watch.php?id=240",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 USAC #LetsRaceTwo at Eldora Speedway",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "241",
+                        "channel_href": "/watch.php?id=241",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Weekly Racing at Fonda Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "242",
+                        "channel_href": "/watch.php?id=242",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 IRA Sprints at Plymouth Dirt Track",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "243",
+                        "channel_href": "/watch.php?id=243",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 PA Posse Sprints at Port Royal Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "244",
+                        "channel_href": "/watch.php?id=244",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Sprint Cars",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "245",
+                        "channel_href": "/watch.php?id=245",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Late Models",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "246",
+                        "channel_href": "/watch.php?id=246",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Sharon Speedway Late Models",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "247",
+                        "channel_href": "/watch.php?id=247",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Land of Legends Raceway Late Models",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "248",
+                        "channel_href": "/watch.php?id=248",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "ACW : Awesome Championship Wrestling: Reckoning 2026",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "249",
+                        "channel_href": "/watch.php?id=249",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 IMCA CJ Joski Memorial at 141 Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "250",
+                        "channel_href": "/watch.php?id=250",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5008",
+                        "channel_href": "/watch.php?id=5008",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    }
+                ]
+            },
+            {
+                "event": "WES 1: Pro sumo - New Era",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "251",
+                        "channel_href": "/watch.php?id=251",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "NASCAR Weekly Racing at Hickory Motor Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5021",
+                        "channel_href": "/watch.php?id=5021",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    }
+                ]
+            },
+            {
+                "event": "NASCAR Weekly Racing at Langley Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5022",
+                        "channel_href": "/watch.php?id=5022",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    }
+                ]
+            },
+            {
+                "event": "NASCAR Crash Fest at Bowman Gray Stadium",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5023",
+                        "channel_href": "/watch.php?id=5023",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    }
+                ]
+            },
+            {
+                "event": "NASCAR Whelen Modified Tour at Seekonk Speedway",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5024",
+                        "channel_href": "/watch.php?id=5024",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    }
+                ]
+            },
+            {
+                "event": "NARC 410 Sprints at Thunderbowl Raceway",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5025",
+                        "channel_href": "/watch.php?id=5025",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    }
+                ]
+            },
+            {
+                "event": "CARS Tour West at Kevin Harvick's Kern County Raceway",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5026",
+                        "channel_href": "/watch.php?id=5026",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    }
+                ]
+            },
+            {
+                "event": "USAC Avanti CRA Sprints at Central Arizona Raceway",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5027",
+                        "channel_href": "/watch.php?id=5027",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    }
+                ]
+            },
+            {
+                "event": "Knoxville Raceway Sprint Cars",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "252",
+                        "channel_href": "/watch.php?id=252",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "ARCA Menards Series: Owens Corning 200 at Toledo Speedway",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5011",
+                        "channel_href": "/watch.php?id=5011",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    }
+                ]
+            },
+            {
+                "event": "GCW: Gateway to the Death 2026",
+                "time": "01:00",
+                "time_visible": "01:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "253",
+                        "channel_href": "/watch.php?id=253",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
                     }
                 ]
             }
@@ -5696,6 +6067,62 @@
                 ]
             },
             {
+                "event": "Portugal - Primeira Liga : Estoril vs Benfica",
+                "time": "19:30",
+                "time_visible": "19:30",
+                "channels": [
+                    {
+                        "channel_name": "Sport TV3 Portugal",
+                        "channel_id": "454",
+                        "channel_href": "/watch.php?id=454",
+                        "channel_title": "Sport TV3 Portugal",
+                        "data_ch": "sport tv3 portugal"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429",
+                        "channel_href": "/watch.php?id=429",
+                        "channel_title": "Arena Sport 1 Serbia",
+                        "data_ch": "arena sport 1 serbia"
+                    },
+                    {
+                        "channel_name": "Cytavision Sports 4 Cyprus",
+                        "channel_id": "914",
+                        "channel_href": "/watch.php?id=914",
+                        "channel_title": "Cytavision Sports 4 Cyprus",
+                        "data_ch": "cytavision sports 4 cyprus"
+                    },
+                    {
+                        "channel_name": "Eleven Sports 2 Poland",
+                        "channel_id": "72",
+                        "channel_href": "/watch.php?id=72",
+                        "channel_title": "Eleven Sports 2 Poland",
+                        "data_ch": "eleven sports 2 poland"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 1 NL",
+                        "channel_id": "393",
+                        "channel_href": "/watch.php?id=393",
+                        "channel_title": "Ziggo Sport 1 NL",
+                        "data_ch": "ziggo sport 1 nl"
+                    },
+                    {
+                        "channel_name": "beIN Sports MAX 5 France",
+                        "channel_id": "495",
+                        "channel_href": "/watch.php?id=495",
+                        "channel_title": "beIN Sports MAX 5 France",
+                        "data_ch": "bein sports max 5 france"
+                    },
+                    {
+                        "channel_name": "Cosmote Sport 2 Greece",
+                        "channel_id": "623",
+                        "channel_href": "/watch.php?id=623",
+                        "channel_title": "Cosmote Sport 2 Greece",
+                        "data_ch": "cosmote sport 2 greece"
+                    }
+                ]
+            },
+            {
                 "event": "Portugal - Primeira Liga : Sporting CP vs Gil Vicente",
                 "time": "19:30",
                 "time_visible": "19:30",
@@ -6151,9 +6578,9 @@
                 ]
             }
         ],
-        "MLS": [
+        "Major League Soccer": [
             {
-                "event": "Major League Soccer : CF Montr\u00e9al vs Chicago Fire",
+                "event": "MLS : CF Montr\u00e9al vs Chicago Fire",
                 "time": "20:30",
                 "time_visible": "20:30",
                 "channels": [
@@ -6188,7 +6615,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : Charlotte vs Toronto FC",
+                "event": "MLS : Charlotte vs Toronto FC",
                 "time": "23:30",
                 "time_visible": "23:30",
                 "channels": [
@@ -6237,7 +6664,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : DC United vs St. Louis City",
+                "event": "MLS : DC United vs St. Louis City",
                 "time": "23:30",
                 "time_visible": "23:30",
                 "channels": [
@@ -6265,7 +6692,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : New England vs Minnesota United",
+                "event": "MLS : New England vs Minnesota United",
                 "time": "23:30",
                 "time_visible": "23:30",
                 "channels": [
@@ -6300,7 +6727,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : New York RB vs New York City",
+                "event": "MLS : New York RB vs New York City",
                 "time": "23:30",
                 "time_visible": "23:30",
                 "channels": [
@@ -6328,7 +6755,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : Orlando City SC vs Atlanta United",
+                "event": "MLS : Orlando City SC vs Atlanta United",
                 "time": "23:30",
                 "time_visible": "23:30",
                 "channels": [
@@ -6363,7 +6790,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : Philadelphia Union vs Columbus Crew",
+                "event": "MLS : Philadelphia Union vs Columbus Crew",
                 "time": "23:30",
                 "time_visible": "23:30",
                 "channels": [
@@ -6391,7 +6818,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : Austin vs Sporting KC",
+                "event": "MLS : Austin vs Sporting KC",
                 "time": "00:30",
                 "time_visible": "00:30",
                 "channels": [
@@ -6419,7 +6846,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : Houston Dynamo vs Vancouver Whitecaps",
+                "event": "MLS : Houston Dynamo vs Vancouver Whitecaps",
                 "time": "00:30",
                 "time_visible": "00:30",
                 "channels": [
@@ -6447,7 +6874,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : Seattle Sounders FC vs LA Galaxy",
+                "event": "MLS : Seattle Sounders FC vs LA Galaxy",
                 "time": "01:15",
                 "time_visible": "01:15",
                 "channels": [
@@ -6496,7 +6923,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : Real Salt Lake vs Colorado Rapids",
+                "event": "MLS : Real Salt Lake vs Colorado Rapids",
                 "time": "01:30",
                 "time_visible": "01:30",
                 "channels": [
@@ -6538,7 +6965,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : San Diego vs Cincinnati",
+                "event": "MLS : San Diego vs Cincinnati",
                 "time": "01:30",
                 "time_visible": "01:30",
                 "channels": [
@@ -6566,7 +6993,7 @@
                 ]
             },
             {
-                "event": "Major League Soccer : SJ Earthquakes vs Dallas",
+                "event": "MLS : SJ Earthquakes vs Dallas",
                 "time": "02:30",
                 "time_visible": "02:30",
                 "channels": [
@@ -10138,6 +10565,13 @@
                         "channel_href": "/watch.php?id=6037",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Boxing PPV",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
+                        "channel_title": "Boxing PPV",
+                        "data_ch": "boxing ppv"
                     }
                 ]
             },
@@ -10173,6 +10607,13 @@
                         "channel_href": "/watch.php?id=2007",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Boxing PPV",
+                        "channel_id": "5012",
+                        "channel_href": "/watch.php?id=5012",
+                        "channel_title": "Boxing PPV",
+                        "data_ch": "boxing ppv"
                     }
                 ]
             },
@@ -10252,6 +10693,27 @@
                         "channel_href": "/watch.php?id=627",
                         "channel_title": "Cosmote Sport 6 Greece",
                         "data_ch": "cosmote sport 6 greece"
+                    },
+                    {
+                        "channel_name": "PPV Event 1",
+                        "channel_id": "5013",
+                        "channel_href": "/watch.php?id=5013",
+                        "channel_title": "PPV Event 1",
+                        "data_ch": "ppv event 1"
+                    },
+                    {
+                        "channel_name": "PPV Event 2",
+                        "channel_id": "5014",
+                        "channel_href": "/watch.php?id=5014",
+                        "channel_title": "PPV Event 2",
+                        "data_ch": "ppv event 2"
+                    },
+                    {
+                        "channel_name": "PPV Event 3",
+                        "channel_id": "5015",
+                        "channel_href": "/watch.php?id=5015",
+                        "channel_title": "PPV Event 3",
+                        "data_ch": "ppv event 3"
                     }
                 ]
             },
@@ -10276,17 +10738,31 @@
                     },
                     {
                         "channel_name": "Nova SPORT 2 CZ",
-                        "channel_id": "1027",
-                        "channel_href": "/watch.php?id=1027",
+                        "channel_id": "1022",
+                        "channel_href": "/watch.php?id=1022",
                         "channel_title": "Nova SPORT 2 CZ",
                         "data_ch": "nova sport 2 cz"
                     },
                     {
                         "channel_name": "Canal+ Extra 1 Poland",
-                        "channel_id": "993",
-                        "channel_href": "/watch.php?id=993",
+                        "channel_id": "983",
+                        "channel_href": "/watch.php?id=983",
                         "channel_title": "Canal+ Extra 1 Poland",
                         "data_ch": "canal+ extra 1 poland"
+                    },
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5010",
+                        "channel_href": "/watch.php?id=5010",
+                        "channel_title": "PPV Event",
+                        "data_ch": "ppv event"
+                    },
+                    {
+                        "channel_name": "PPV Event 2",
+                        "channel_id": "5017",
+                        "channel_href": "/watch.php?id=5017",
+                        "channel_title": "PPV Event 2",
+                        "data_ch": "ppv event 2"
                     }
                 ]
             },
@@ -10307,20 +10783,6 @@
         ],
         "UFC Fight Night": [
             {
-                "event": "UFC Fight Night Prelims : Nicolle Caliari vs Shauna Bannon",
-                "time": "21:00",
-                "time_visible": "21:00",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "3084",
-                        "channel_href": "/watch.php?id=3084",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
-                    }
-                ]
-            },
-            {
                 "event": "UFC Fight Night Prelims : Jeremiah Wells vs Nicolas Dalby",
                 "time": "21:00",
                 "time_visible": "21:00",
@@ -10331,6 +10793,20 @@
                         "channel_href": "/watch.php?id=68",
                         "channel_title": "UFC Fight Pass",
                         "data_ch": "ufc fight pass"
+                    },
+                    {
+                        "channel_name": "PPV Feed ES",
+                        "channel_id": "107",
+                        "channel_href": "/watch.php?id=107",
+                        "channel_title": "PPV Feed ES",
+                        "data_ch": "ppv feed es"
+                    },
+                    {
+                        "channel_name": "PPV Feed PT",
+                        "channel_id": "108",
+                        "channel_href": "/watch.php?id=108",
+                        "channel_title": "PPV Feed PT",
+                        "data_ch": "ppv feed pt"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -10394,6 +10870,27 @@
                         "channel_href": "/watch.php?id=3001",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3084",
+                        "channel_href": "/watch.php?id=3084",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "UFC Fight Night Prelims : Nicolle Caliari vs Shauna Bannon",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3084",
+                        "channel_href": "/watch.php?id=3084",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -10434,6 +10931,20 @@
                         "channel_name": "Backup Stream",
                         "channel_id": "3084",
                         "channel_href": "/watch.php?id=3084",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "UFC Fight Night : MVP MMA 1 Rousey vs Carano",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016",
+                        "channel_href": "/watch.php?id=5016",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
                     }
@@ -10597,6 +11108,13 @@
                         "channel_href": "/watch.php?id=4048",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass 1",
+                        "channel_id": "5009",
+                        "channel_href": "/watch.php?id=5009",
+                        "channel_title": "UFC Fight Pass 1",
+                        "data_ch": "ufc fight pass 1"
                     }
                 ]
             }
@@ -14257,6 +14775,20 @@
                         "channel_name": "FloHockey",
                         "channel_id": "214",
                         "channel_href": "/watch.php?id=214",
+                        "channel_title": "FloHockey",
+                        "data_ch": "flohockey"
+                    }
+                ]
+            },
+            {
+                "event": "ECHL : Fort Wayne vs Toledo",
+                "time": "23:35",
+                "time_visible": "23:35",
+                "channels": [
+                    {
+                        "channel_name": "FloHockey",
+                        "channel_id": "1070",
+                        "channel_href": "/watch.php?id=1070",
                         "channel_title": "FloHockey",
                         "data_ch": "flohockey"
                     }
