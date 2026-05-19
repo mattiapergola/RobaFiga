@@ -6096,6 +6096,62 @@
                         "data_ch": "pdc tv"
                     }
                 ]
+            },
+            {
+                "event": "PDC Darts Players Championships",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "PDC Board 1",
+                        "channel_id": "151",
+                        "channel_href": "/watch.php?id=151",
+                        "channel_title": "PDC Board 1",
+                        "data_ch": "pdc board 1"
+                    }
+                ]
+            },
+            {
+                "event": "PDC Darts Players Championships",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "PDC Board 2",
+                        "channel_id": "152",
+                        "channel_href": "/watch.php?id=152",
+                        "channel_title": "PDC Board 2",
+                        "data_ch": "pdc board 2"
+                    }
+                ]
+            },
+            {
+                "event": "PDC Darts Players Championships",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "PDC Board 3",
+                        "channel_id": "153",
+                        "channel_href": "/watch.php?id=153",
+                        "channel_title": "PDC Board 3",
+                        "data_ch": "pdc board 3"
+                    }
+                ]
+            },
+            {
+                "event": "PDC Darts Players Championships",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "PDC Board 4",
+                        "channel_id": "154",
+                        "channel_href": "/watch.php?id=154",
+                        "channel_title": "PDC Board 4",
+                        "data_ch": "pdc board 4"
+                    }
+                ]
             }
         ],
         "Futsal": [
