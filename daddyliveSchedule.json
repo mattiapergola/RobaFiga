@@ -1,5 +1,139 @@
 {
     "Saturday 23rd May 2026": {
+        "PPV Events": [
+            {
+                "event": "PDRA Mid Atlantic Showdown",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": []
+            },
+            {
+                "event": "Indian Fight League by APFC iFL 1",
+                "time": "15:30",
+                "time_visible": "15:30",
+                "channels": []
+            },
+            {
+                "event": "2026 King of the South at Shadyside Dragway",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": []
+            },
+            {
+                "event": "Fight to Win 316 Sao Paulo",
+                "time": "19:30",
+                "time_visible": "19:30",
+                "channels": []
+            },
+            {
+                "event": "NASCAR Weekly Racing Riverhead",
+                "time": "21:15",
+                "time_visible": "21:15",
+                "channels": []
+            },
+            {
+                "event": "NASCAR Weekly Racing Jennerstown",
+                "time": "21:45",
+                "time_visible": "21:45",
+                "channels": []
+            },
+            {
+                "event": "The Chaos Supernationals",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": []
+            },
+            {
+                "event": "Weekly Racing Fonda Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": []
+            },
+            {
+                "event": "2026 IRA Sprints at Wilmot Raceway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": []
+            },
+            {
+                "event": "2026 NASCAR Weekly Racing at Berlin Raceway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": []
+            },
+            {
+                "event": "NAPA All Star Sprints Mercer",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": []
+            },
+            {
+                "event": "2026 USAC MRA Sprints at Valley Speedway",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": []
+            },
+            {
+                "event": "2026 Lucas Oil Show-Me 100 at Lucas Oil Speedway",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": []
+            },
+            {
+                "event": "Cedar Lake Speedway Sprints",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": []
+            },
+            {
+                "event": "2026 MARS Late Models at Fairbury Speedway",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": []
+            },
+            {
+                "event": "2026 Spring Nationals at North Georgia Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": []
+            },
+            {
+                "event": "2026 IMCA Nathan Bouche Memorial at 141 Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": []
+            },
+            {
+                "event": "Extreme Fight World EFW-5",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": []
+            },
+            {
+                "event": "World of Outlaws Sprint Cars",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": []
+            },
+            {
+                "event": "WWE Saturday Night Main Event",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": []
+            },
+            {
+                "event": "2026 Fair Race at Silver Dollar Speedway",
+                "time": "01:20",
+                "time_visible": "01:20",
+                "channels": []
+            },
+            {
+                "event": "Brandrisk Promotions 14 : Johnny Manziel vs. Bob Menery",
+                "time": "03:00",
+                "time_visible": "03:00",
+                "channels": []
+            }
+        ],
         "Upcoming Events": [
             {
                 "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
@@ -1223,6 +1357,20 @@
                         "channel_href": "/watch.php?id=35",
                         "channel_title": "Sky Sports Football UK",
                         "data_ch": "sky sports football uk"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003",
+                        "channel_href": "/watch.php?id=5003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -5726,6 +5874,20 @@
                         "data_ch": "willow cricket"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "Willow 2 Cricket",
                         "channel_id": "598",
                         "channel_href": "/watch.php?id=598",
@@ -6416,6 +6578,13 @@
                         "channel_href": "/watch.php?id=1551",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510",
+                        "channel_href": "/watch.php?id=1510",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
                     }
                 ]
             }
@@ -6430,6 +6599,13 @@
                         "channel_name": "Tennis Stream",
                         "channel_id": "1552",
                         "channel_href": "/watch.php?id=1552",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507",
+                        "channel_href": "/watch.php?id=1507",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
                     }
@@ -10600,6 +10776,13 @@
                         "channel_href": "/watch.php?id=43",
                         "channel_title": "PDC TV",
                         "data_ch": "pdc tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "Sky Sport 2 NZ",
