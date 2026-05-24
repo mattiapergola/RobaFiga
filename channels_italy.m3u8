@@ -531,9 +531,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="" channel="SkyCinemaSuspense.it" group-title="Cinema",SKY CINEMA SUSPENSE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3060043751014db62f5b06
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://logo.huhu.to/logo?c=2872151911.png" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28721519114f66aff68e22
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17596257388e83c18bb676
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -750,6 +747,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://logo.huhu.to/logo?c=380958472.png" channel="NICK JR" group-title="Kids",NICK JR
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38095847274e645e8a065
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON" tvg-logo="https://logo.huhu.to/logo?c=3039389215.png" channel="Nickelodeon.it" group-title="Kids",NICKELODEON
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30393892159798f5cebb7c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CANALE 21 CAMPANIA" tvg-name="CANALE 21 CAMPANIA" tvg-logo="https://logo.huhu.to/logo?c=3906007886.png" channel="CANALE 21 CAMPANIA" group-title="Locali",CANALE 21 CAMPANIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F390600788675c13850cd70
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -957,6 +957,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="EQU TV" tvg-name="EQU TV" tvg-logo="https://logo.huhu.to/logo?c=2818586668.png" channel="EQU TV" group-title="Other",EQU TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28185866687e407e1edc60
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ESPANSIONE TV" tvg-name="ESPANSIONE TV" tvg-logo="https://logo.huhu.to/logo?c=539484419.png" channel="ESPANSIONE TV" group-title="Other",ESPANSIONE TV
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F53948441989c19aba3352
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ESPERIA TV" tvg-name="ESPERIA TV" tvg-logo="https://logo.huhu.to/logo?c=3525104604.png" channel="ESPERIA TV" group-title="Other",ESPERIA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3525104604d4e472fa9bd7
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -1103,6 +1106,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RTP" tvg-name="RTP" tvg-logo="https://logo.huhu.to/logo?c=4136045815.png" channel="RTP" group-title="Other",RTP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4136045815a19e851236a3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTR 99 TV" tvg-name="RTR 99 TV" tvg-logo="https://logo.huhu.to/logo?c=1621632780.png" channel="RTR 99 TV" group-title="Other",RTR 99 TV
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1621632780775ff4ee8846
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RTV SAN MARINO" tvg-name="RTV SAN MARINO" tvg-logo="" channel="RTV SAN MARINO" group-title="Other",RTV SAN MARINO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2343767125eb4977361e91
@@ -1263,9 +1269,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="YUGIOH ITALY" tvg-name="YUGIOH ITALY" tvg-logo="" channel="YUGIOH ITALY" group-title="Other",YUGIOH ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28498110272b8770fe20cb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ACISportTv.it" tvg-name="ACI SPORT TV" tvg-logo="https://logo.huhu.to/logo?c=1351631603.png" channel="ACISportTv.it" group-title="Sport",ACI SPORT TV
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13516316035c18ca000fe1
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Bike.it" tvg-name="BIKE" tvg-logo="https://logo.huhu.to/logo?c=3095895412.png" channel="Bike.it" group-title="Sport",BIKE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F309589541224b3a9c5030f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -1274,6 +1277,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="EUROSPORT 4 TIMVISION" tvg-name="EUROSPORT 4 TIMVISION" tvg-logo="" channel="EUROSPORT 4 TIMVISION" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1668185301194a1978c0b2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT 5 TIMVISION" tvg-name="EUROSPORT 5 TIMVISION" tvg-logo="" channel="EUROSPORT 5 TIMVISION" group-title="Sport",EUROSPORT 5 TIMVISION
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3667240765238d57794d79
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="EUROSPORT 6 TIMVISION" tvg-name="EUROSPORT 6 TIMVISION" tvg-logo="" channel="EUROSPORT 6 TIMVISION" group-title="Sport",EUROSPORT 6 TIMVISION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3421031748051d1097ba07
