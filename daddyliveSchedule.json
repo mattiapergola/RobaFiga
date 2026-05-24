@@ -1,5 +1,21 @@
 {
     "Sunday 24th May 2026": {
+        "PPV Events": [
+            {
+                "event": "Professional Fighters League : PFL MENA 9: Pride of Arabia",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201",
+                        "channel_href": "/watch.php?id=201",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
@@ -1269,6 +1285,20 @@
                 ]
             },
             {
+                "event": "U-17 Africa Cup of Nations : Tanzania U17 1 - 1 Algeria U17",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "beIN Sports Xtra 4",
+                        "channel_id": "178",
+                        "channel_href": "/watch.php?id=178",
+                        "channel_title": "beIN Sports Xtra 4",
+                        "data_ch": "bein sports xtra 4"
+                    }
+                ]
+            },
+            {
                 "event": "Sweden - Damallsvenskan : H\u00e4cken vs Norrk\u00f6ping",
                 "time": "13:00",
                 "time_visible": "13:00",
@@ -1461,6 +1491,27 @@
                         "channel_href": "/watch.php?id=8001",
                         "channel_title": "SD Stream",
                         "data_ch": "sd stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001",
+                        "channel_href": "/watch.php?id=7001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002",
+                        "channel_href": "/watch.php?id=7002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003",
+                        "channel_href": "/watch.php?id=7003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2014,6 +2065,20 @@
                         "channel_href": "/watch.php?id=8008",
                         "channel_title": "SD Stream",
                         "data_ch": "sd stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008",
+                        "channel_href": "/watch.php?id=7008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009",
+                        "channel_href": "/watch.php?id=7009",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2273,6 +2338,20 @@
                         "channel_href": "/watch.php?id=8003",
                         "channel_title": "SD Stream",
                         "data_ch": "sd stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006",
+                        "channel_href": "/watch.php?id=7006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007",
+                        "channel_href": "/watch.php?id=7007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2399,6 +2478,20 @@
                         "channel_href": "/watch.php?id=8009",
                         "channel_title": "SD Stream",
                         "data_ch": "sd stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7019",
+                        "channel_href": "/watch.php?id=7019",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7020",
+                        "channel_href": "/watch.php?id=7020",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2616,6 +2709,27 @@
                         "channel_href": "/watch.php?id=8011",
                         "channel_title": "SD Stream",
                         "data_ch": "sd stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010",
+                        "channel_href": "/watch.php?id=7010",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011",
+                        "channel_href": "/watch.php?id=7011",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7012",
+                        "channel_href": "/watch.php?id=7012",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2800,11 +2914,25 @@
                         "data_ch": "backup stream"
                     },
                     {
-                        "channel_name": "Backup Stream (CH-3079) SD Stream",
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3079",
+                        "channel_href": "/watch.php?id=3079",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "SD Stream",
                         "channel_id": "8006",
                         "channel_href": "/watch.php?id=8006",
-                        "channel_title": "Backup Stream (CH-3079) SD Stream",
-                        "data_ch": "backup stream (ch-3079) sd stream"
+                        "channel_title": "SD Stream",
+                        "data_ch": "sd stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7021",
+                        "channel_href": "/watch.php?id=7021",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2829,8 +2957,8 @@
                     },
                     {
                         "channel_name": "Sky ONE UK",
-                        "channel_id": "178",
-                        "channel_href": "/watch.php?id=178",
+                        "channel_id": "708",
+                        "channel_href": "/watch.php?id=708",
                         "channel_title": "Sky ONE UK",
                         "data_ch": "sky one uk"
                     },
@@ -2929,6 +3057,20 @@
                         "channel_name": "Backup Stream",
                         "channel_id": "3044",
                         "channel_href": "/watch.php?id=3044",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017",
+                        "channel_href": "/watch.php?id=7017",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7018",
+                        "channel_href": "/watch.php?id=7018",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
                     }
@@ -3041,6 +3183,13 @@
                         "channel_name": "Backup Stream",
                         "channel_id": "3048",
                         "channel_href": "/watch.php?id=3048",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7022",
+                        "channel_href": "/watch.php?id=7022",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
                     }
@@ -3225,6 +3374,20 @@
                         "channel_href": "/watch.php?id=8012",
                         "channel_title": "SD Stream",
                         "data_ch": "sd stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7013",
+                        "channel_href": "/watch.php?id=7013",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014",
+                        "channel_href": "/watch.php?id=7014",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -3293,6 +3456,13 @@
                         "channel_name": "Backup Stream",
                         "channel_id": "3008",
                         "channel_href": "/watch.php?id=3008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7023",
+                        "channel_href": "/watch.php?id=7023",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
                     }
@@ -3470,6 +3640,20 @@
                         "channel_href": "/watch.php?id=8002",
                         "channel_title": "SD Stream",
                         "data_ch": "sd stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015",
+                        "channel_href": "/watch.php?id=7015",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016",
+                        "channel_href": "/watch.php?id=7016",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -3729,6 +3913,27 @@
                         "channel_href": "/watch.php?id=8013",
                         "channel_title": "SD Stream",
                         "data_ch": "sd stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7024",
+                        "channel_href": "/watch.php?id=7024",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7025",
+                        "channel_href": "/watch.php?id=7025",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026",
+                        "channel_href": "/watch.php?id=7026",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -6187,8 +6392,8 @@
                     },
                     {
                         "channel_name": "Fox Cricket",
-                        "channel_id": "36",
-                        "channel_href": "/watch.php?id=36",
+                        "channel_id": "369",
+                        "channel_href": "/watch.php?id=369",
                         "channel_title": "Fox Cricket",
                         "data_ch": "fox cricket"
                     },
@@ -8089,8 +8294,8 @@
             },
             {
                 "event": "FIM MotoJunior World Championship : Circuit de Barcelona-Catalunya: Stock Race",
-                "time": "10:52",
-                "time_visible": "10:52",
+                "time": "13:36",
+                "time_visible": "13:36",
                 "channels": [
                     {
                         "channel_name": "TNT Sports 9 UK",
