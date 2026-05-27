@@ -4229,24 +4229,10 @@
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "191",
-                        "channel_href": "/watch.php?id=191",
-                        "channel_title": "Tennis Stream",
-                        "data_ch": "tennis stream"
-                    },
-                    {
-                        "channel_name": "Backup Stream 1",
                         "channel_id": "1606",
                         "channel_href": "/watch.php?id=1606",
-                        "channel_title": "Backup Stream 1",
-                        "data_ch": "backup stream 1"
-                    },
-                    {
-                        "channel_name": "Backup Stream 2",
-                        "channel_id": "1501",
-                        "channel_href": "/watch.php?id=1501",
-                        "channel_title": "Backup Stream 2",
-                        "data_ch": "backup stream 2"
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
                     }
                 ]
             },
