@@ -1,5 +1,259 @@
 {
     "Friday 29th May 2026": {
+        "PPV Events": [
+            {
+                "event": "2026 Velocity Invitational at Sonoma",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "172",
+                        "channel_href": "/watch.php?id=172",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "MotoAmerica Superbikes Road America",
+                "time": "15:30",
+                "time_visible": "15:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "173",
+                        "channel_href": "/watch.php?id=173",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Kids Night at Stafford Speedway",
+                "time": "21:15",
+                "time_visible": "21:15",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159",
+                        "channel_href": "/watch.php?id=159",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Shakedown XXIII",
+                "time": "21:45",
+                "time_visible": "21:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "160",
+                        "channel_href": "/watch.php?id=160",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 High Limit Racing at Lawrenceburg Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161",
+                        "channel_href": "/watch.php?id=161",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 SMART Modified Tour at Franklin County Raceway",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162",
+                        "channel_href": "/watch.php?id=162",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 NASCAR Weekly Racing at Autodrome Granby",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163",
+                        "channel_href": "/watch.php?id=163",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Late Models Mansfield",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164",
+                        "channel_href": "/watch.php?id=164",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Attica Raceway Sprint Cars",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "165",
+                        "channel_href": "/watch.php?id=165",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Williams Grove Speedway Sprint Cars",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "166",
+                        "channel_href": "/watch.php?id=166",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 KKM Challenge Series at Tony Stewart Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167",
+                        "channel_href": "/watch.php?id=167",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 USAC Corn Belt Clash at Knoxville Raceway",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "174",
+                        "channel_href": "/watch.php?id=174",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Sprint Cars",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175",
+                        "channel_href": "/watch.php?id=175",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Greektown Wrestling",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "176",
+                        "channel_href": "/watch.php?id=176",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Pro Wrestling Revolution (PWR): Lucha Libre - San Jose, March 2026 (en Espa\u00f1ol)",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "177",
+                        "channel_href": "/watch.php?id=177",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Night of Champions XII : Terry Washington vs. Axel Aragon Vega",
+                "time": "01:00",
+                "time_visible": "01:00",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "178",
+                        "channel_href": "/watch.php?id=178",
+                        "channel_title": "DAZN PPV",
+                        "data_ch": "dazn ppv"
+                    }
+                ]
+            },
+            {
+                "event": "TFNF Thunder's Friday Night Fights: Night of Champions XII",
+                "time": "02:00",
+                "time_visible": "02:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "179",
+                        "channel_href": "/watch.php?id=179",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Isle of Man TT Mountain Course 2026",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201",
+                        "channel_href": "/watch.php?id=201",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
@@ -400,22 +654,6 @@
                         "channel_href": "/watch.php?id=00",
                         "channel_title": "FIFATV",
                         "data_ch": "fifatv"
-                    }
-                ]
-            }
-        ],
-        "PPV Events": [
-            {
-                "event": "Isle of Man TT Mountain Course 2026",
-                "time": "19:00",
-                "time_visible": "19:00",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "201",
-                        "channel_href": "/watch.php?id=201",
-                        "channel_title": "Event PPV",
-                        "data_ch": "event ppv"
                     }
                 ]
             }
@@ -2149,6 +2387,13 @@
                 "time": "08:30",
                 "time_visible": "08:30",
                 "channels": [
+                    {
+                        "channel_name": "Roland-Garros Multiviewl",
+                        "channel_id": "205",
+                        "channel_href": "/watch.php?id=205",
+                        "channel_title": "Roland-Garros Multiviewl",
+                        "data_ch": "roland-garros multiviewl"
+                    },
                     {
                         "channel_name": "Tennis Channel",
                         "channel_id": "40",
@@ -4917,6 +5162,13 @@
                 "time": "10:00",
                 "time_visible": "10:00",
                 "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "30",
+                        "channel_href": "/watch.php?id=30",
+                        "channel_title": "UFC Fight Pass",
+                        "data_ch": "ufc fight pass"
+                    },
                     {
                         "channel_name": "UFCTV",
                         "channel_id": "2024",
