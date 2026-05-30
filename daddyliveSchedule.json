@@ -1,5 +1,273 @@
 {
     "Saturday 30th May 2026": {
+        "PPV Events": [
+            {
+                "event": "2026 Shakedown XXIII",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168",
+                        "channel_href": "/watch.php?id=168",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "MotoAmerica Superbikes Road America",
+                "time": "13:40",
+                "time_visible": "13:40",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169",
+                        "channel_href": "/watch.php?id=169",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 AMSOIL Championship Off-Road In Antigo, WI",
+                "time": "14:45",
+                "time_visible": "14:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "170",
+                        "channel_href": "/watch.php?id=170",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Fight Nation Championship FNC 31: \u0110ani Barbir vs Aleksandar Ili\u0107",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "AMA Supercross Championship Fox Raceway Pala",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "211",
+                        "channel_href": "/watch.php?id=211",
+                        "channel_title": "Peacock",
+                        "data_ch": "peacock"
+                    }
+                ]
+            },
+            {
+                "event": "2026 ISMA/MSS Supermodifieds at Oswego Speedway",
+                "time": "20:45",
+                "time_visible": "20:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "212",
+                        "channel_href": "/watch.php?id=212",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 CARS Tour at Langley Speedway",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "213",
+                        "channel_href": "/watch.php?id=213",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Fight Music Show 8: Pop\u00f3 vs Whinderson (em Portuguese)",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "214",
+                        "channel_href": "/watch.php?id=214",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Millbridge Speedway Sprints",
+                "time": "21:30",
+                "time_visible": "21:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215",
+                        "channel_href": "/watch.php?id=215",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 CRSA Sprint Cars at Fonda Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "216",
+                        "channel_href": "/watch.php?id=216",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Khaos in Keokuk : Portland Pringle III vs. Kahlil Smoot",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "217",
+                        "channel_href": "/watch.php?id=217",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Late Models",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "218",
+                        "channel_href": "/watch.php?id=218",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Sharon Speedway Late Models",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "219",
+                        "channel_href": "/watch.php?id=219",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Land of Legends Raceway Late Models",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "220",
+                        "channel_href": "/watch.php?id=220",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Cedar Lake Speedway Sprints",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221",
+                        "channel_href": "/watch.php?id=221",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Armored MMA 2026: Medieval Cage Fighting Championship, Portland, ME",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "222",
+                        "channel_href": "/watch.php?id=222",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Real American Freestyle RAF 9: Steveson vs. Romanov",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "FOX PPV",
+                        "channel_id": "224",
+                        "channel_href": "/watch.php?id=224",
+                        "channel_title": "FOX PPV",
+                        "data_ch": "fox ppv"
+                    }
+                ]
+            },
+            {
+                "event": "GCW: Live in Milan 2026",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "225",
+                        "channel_href": "/watch.php?id=225",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Isle of Man TT Mountain Course 2026",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201",
+                        "channel_href": "/watch.php?id=201",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
@@ -421,22 +689,6 @@
                         "channel_href": "/watch.php?id=00",
                         "channel_title": "FIFATV",
                         "data_ch": "fifatv"
-                    }
-                ]
-            }
-        ],
-        "PPV Events": [
-            {
-                "event": "Isle of Man TT Mountain Course 2026",
-                "time": "19:00",
-                "time_visible": "19:00",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "201",
-                        "channel_href": "/watch.php?id=201",
-                        "channel_title": "Event PPV",
-                        "data_ch": "event ppv"
                     }
                 ]
             }
@@ -1351,6 +1603,20 @@
                         "channel_href": "/watch.php?id=767",
                         "channel_title": "CBSNY USA",
                         "data_ch": "cbsny usa"
+                    },
+                    {
+                        "channel_name": "DAZN Feed",
+                        "channel_id": "171",
+                        "channel_href": "/watch.php?id=171",
+                        "channel_title": "DAZN Feed",
+                        "data_ch": "dazn feed"
+                    },
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "172",
+                        "channel_href": "/watch.php?id=172",
+                        "channel_title": "TNT Sports UK",
+                        "data_ch": "tnt sports uk"
                     },
                     {
                         "channel_name": "Canal+ Foot France",
@@ -6424,7 +6690,7 @@
                 ]
             },
             {
-                "event": "BKFC 90 Bare Knuckle Fighting Championship",
+                "event": "BKFC 90 Bare Knuckle Fighting Championship : Tierney vs. Franco",
                 "time": "18:00",
                 "time_visible": "18:00",
                 "channels": [
