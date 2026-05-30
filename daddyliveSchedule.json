@@ -30,6 +30,20 @@
                 ]
             },
             {
+                "event": "GROMDA 25: Powr\u00f3t do korzeni",
+                "time": "15:30",
+                "time_visible": "15:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5030",
+                        "channel_href": "/watch.php?id=5030",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
                 "event": "2026 Kids Night at Stafford Speedway",
                 "time": "21:15",
                 "time_visible": "21:15",
@@ -54,6 +68,13 @@
                         "channel_href": "/watch.php?id=160",
                         "channel_title": "Floracing",
                         "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -68,6 +89,13 @@
                         "channel_href": "/watch.php?id=161",
                         "channel_title": "Floracing",
                         "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016",
+                        "channel_href": "/watch.php?id=5016",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -82,6 +110,13 @@
                         "channel_href": "/watch.php?id=162",
                         "channel_title": "Floracing",
                         "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -110,6 +145,13 @@
                         "channel_href": "/watch.php?id=164",
                         "channel_title": "Event PPV",
                         "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -122,6 +164,41 @@
                         "channel_name": "Event PPV",
                         "channel_id": "165",
                         "channel_href": "/watch.php?id=165",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003",
+                        "channel_href": "/watch.php?id=5003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "Lernerville Speedway for the Western PA Speedweek",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "HTF Don Hobbs Classic at Bloomington Speedway",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
                         "channel_title": "Event PPV",
                         "data_ch": "event ppv"
                     }
@@ -138,6 +215,13 @@
                         "channel_href": "/watch.php?id=166",
                         "channel_title": "Event PPV",
                         "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007",
+                        "channel_href": "/watch.php?id=5007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -152,6 +236,13 @@
                         "channel_href": "/watch.php?id=167",
                         "channel_title": "Floracing",
                         "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006",
+                        "channel_href": "/watch.php?id=5006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -166,6 +257,27 @@
                         "channel_href": "/watch.php?id=174",
                         "channel_title": "Floracing",
                         "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009",
+                        "channel_href": "/watch.php?id=5009",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "Race of Champions Sportsman at Spencer Speedway",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5008",
+                        "channel_href": "/watch.php?id=5008",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
                     }
                 ]
             },
@@ -178,6 +290,20 @@
                         "channel_name": "Event PPV",
                         "channel_id": "175",
                         "channel_href": "/watch.php?id=175",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "River Cities Speedway",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5012",
+                        "channel_href": "/watch.php?id=5012",
                         "channel_title": "Event PPV",
                         "data_ch": "event ppv"
                     }
@@ -198,6 +324,62 @@
                 ]
             },
             {
+                "event": "Jacksonville Speedway",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5013",
+                        "channel_href": "/watch.php?id=5013",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "MARS USA World 50 at Paducah International Raceway",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5014",
+                        "channel_href": "/watch.php?id=5014",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "DIRT Zone PPV",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5015",
+                        "channel_href": "/watch.php?id=5015",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "IMCA Weekly Racing at Marshalltown Speedway",
+                "time": "23:45",
+                "time_visible": "23:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5017",
+                        "channel_href": "/watch.php?id=5017",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
                 "event": "Pro Wrestling Revolution (PWR): Lucha Libre - San Jose, March 2026 (en Espa\u00f1ol)",
                 "time": "00:00",
                 "time_visible": "00:00",
@@ -208,6 +390,34 @@
                         "channel_href": "/watch.php?id=177",
                         "channel_title": "Triller TV",
                         "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "NARC 410 Sprints at Watsonville Speedway",
+                "time": "00:30",
+                "time_visible": "00:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5018",
+                        "channel_href": "/watch.php?id=5018",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Meet the Drivers Night at Five Flags",
+                "time": "01:00",
+                "time_visible": "01:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5019",
+                        "channel_href": "/watch.php?id=5019",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
                     }
                 ]
             },
@@ -912,8 +1122,8 @@
                 "channels": [
                     {
                         "channel_name": "LOITV",
-                        "channel_id": "110",
-                        "channel_href": "/watch.php?id=110",
+                        "channel_id": "174",
+                        "channel_href": "/watch.php?id=174",
                         "channel_title": "LOITV",
                         "data_ch": "loitv"
                     }
@@ -926,8 +1136,8 @@
                 "channels": [
                     {
                         "channel_name": "LOITV",
-                        "channel_id": "151",
-                        "channel_href": "/watch.php?id=151",
+                        "channel_id": "175",
+                        "channel_href": "/watch.php?id=175",
                         "channel_title": "LOITV",
                         "data_ch": "loitv"
                     }
@@ -940,8 +1150,8 @@
                 "channels": [
                     {
                         "channel_name": "LOITV",
-                        "channel_id": "152",
-                        "channel_href": "/watch.php?id=152",
+                        "channel_id": "176",
+                        "channel_href": "/watch.php?id=176",
                         "channel_title": "LOITV",
                         "data_ch": "loitv"
                     }
@@ -954,8 +1164,8 @@
                 "channels": [
                     {
                         "channel_name": "LOITV",
-                        "channel_id": "153",
-                        "channel_href": "/watch.php?id=153",
+                        "channel_id": "177",
+                        "channel_href": "/watch.php?id=177",
                         "channel_title": "LOITV",
                         "data_ch": "loitv"
                     }
@@ -1181,6 +1391,76 @@
                 ]
             },
             {
+                "event": "World  Int. Friendly GamesIran vs Gambia",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5020",
+                        "channel_href": "/watch.php?id=5020",
+                        "channel_title": "Backup Feed",
+                        "data_ch": "backup feed"
+                    }
+                ]
+            },
+            {
+                "event": "Europe U17 European Championship : France U17 vs Denmark U17",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5021",
+                        "channel_href": "/watch.php?id=5021",
+                        "channel_title": "Backup Feed",
+                        "data_ch": "backup feed"
+                    }
+                ]
+            },
+            {
+                "event": "World Int. Friendly Games : Andorra vs Iraq",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5022",
+                        "channel_href": "/watch.php?id=5022",
+                        "channel_title": "Backup Feed",
+                        "data_ch": "backup feed"
+                    }
+                ]
+            },
+            {
+                "event": "World Int. Friendly Games : South Africa vs Nicaragua",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5023",
+                        "channel_href": "/watch.php?id=5023",
+                        "channel_title": "Backup Feed",
+                        "data_ch": "backup feed"
+                    }
+                ]
+            },
+            {
+                "event": "World Friendly Games : South Africa vs Nicaragua",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "SABC 2",
+                        "channel_id": "413",
+                        "channel_href": "/watch.php?id=413",
+                        "channel_title": "SABC 2",
+                        "data_ch": "sabc 2"
+                    }
+                ]
+            },
+            {
                 "event": "Bulgaria Parva Liga : Ludogorets vs Lokomotiv Plovdiv",
                 "time": "16:00",
                 "time_visible": "16:00",
@@ -1303,6 +1583,34 @@
                         "channel_href": "/watch.php?id=6015",
                         "channel_title": "Sports Channel",
                         "data_ch": "sports channel"
+                    }
+                ]
+            },
+            {
+                "event": "Egyptian Premier League : National Bank of Egypt vs Al-Ittihad Alexandria",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5024",
+                        "channel_href": "/watch.php?id=5024",
+                        "channel_title": "Backup Feed",
+                        "data_ch": "backup feed"
+                    }
+                ]
+            },
+            {
+                "event": "Egyptian Premier League : Ghazl El Mahalla FC vs Haras El Hodoud",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Backup Feed",
+                        "channel_id": "5025",
+                        "channel_href": "/watch.php?id=5025",
+                        "channel_title": "Backup Feed",
+                        "data_ch": "backup feed"
                     }
                 ]
             },
@@ -5106,6 +5414,13 @@
                 "channels": [
                     {
                         "channel_name": "DAZN PPV",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "DAZN PPV",
+                        "data_ch": "dazn ppv"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
                         "channel_id": "55",
                         "channel_href": "/watch.php?id=55",
                         "channel_title": "DAZN PPV",
@@ -5415,6 +5730,20 @@
                         "channel_href": "/watch.php?id=2028",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream HD",
+                        "channel_id": "5010",
+                        "channel_href": "/watch.php?id=5010",
+                        "channel_title": "Backup Stream HD",
+                        "data_ch": "backup stream hd"
+                    },
+                    {
+                        "channel_name": "Backup Stream SD",
+                        "channel_id": "5011",
+                        "channel_href": "/watch.php?id=5011",
+                        "channel_title": "Backup Stream SD",
+                        "data_ch": "backup stream sd"
                     }
                 ]
             }
@@ -6619,13 +6948,29 @@
                 "event": "Minor League Baseball : St. Lucie Mets vs Bradenton Marauders",
                 "time": "22:30",
                 "time_visible": "22:30",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922",
+                        "channel_href": "/watch.php?id=922",
+                        "channel_title": "SportsNet Pittsburgh",
+                        "data_ch": "sportsnet pittsburgh"
+                    }
+                ]
             },
             {
                 "event": "Minor League Baseball : Altoona Curve vs Hartford Yard Goats",
                 "time": "23:00",
                 "time_visible": "23:00",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762",
+                        "channel_href": "/watch.php?id=762",
+                        "channel_title": "NESN USA",
+                        "data_ch": "nesn usa"
+                    }
+                ]
             }
         ],
         "High School Baseball": [
