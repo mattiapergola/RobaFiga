@@ -1992,6 +1992,106 @@
                 ]
             }
         ],
+        "ATP - Singles / WTA Singles / ATP Doubles / WTA Doubles French Open - clay": [
+            {
+                "event": "Court Suzanne Lenglen: \ud83c\uddeb\ud83c\uddf7 Pierre-Hugues Herbert / \ud83c\uddeb\ud83c\uddf7 Quentin Halys vs \ud83c\uddeb\ud83c\uddee Harri Heli\u00f6vaara / \ud83c\uddec\ud83c\udde7 Henry Patten",
+                "time": "09:00",
+                "time_visible": "09:00",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551",
+                        "channel_href": "/watch.php?id=1551",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream 2",
+                        "channel_id": "1514",
+                        "channel_href": "/watch.php?id=1514",
+                        "channel_title": "Backup Stream 2",
+                        "data_ch": "backup stream 2"
+                    }
+                ]
+            },
+            {
+                "event": "Philippe-Chatrier: \ud83c\uddee\ud83c\uddf9 Sara Errani / \ud83c\uddee\ud83c\uddf9 Andrea Vavassori vs \ud83c\uddfa\ud83c\uddf8 Evan King / \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski",
+                "time": "10:00",
+                "time_visible": "10:00",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552",
+                        "channel_href": "/watch.php?id=1552",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream 2",
+                        "channel_id": "1514",
+                        "channel_href": "/watch.php?id=1514",
+                        "channel_title": "Backup Stream 2",
+                        "data_ch": "backup stream 2"
+                    }
+                ]
+            },
+            {
+                "event": "Philippe-Chatrier: \ud83c\uddfa\ud83c\udde6 Marta Kostyuk vs \ud83c\uddf7\ud83c\uddfa Mirra Andreeva",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "55",
+                        "channel_href": "/watch.php?id=55",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream 1",
+                        "channel_id": "1553",
+                        "channel_href": "/watch.php?id=1553",
+                        "channel_title": "Backup Stream 1",
+                        "data_ch": "backup stream 1"
+                    },
+                    {
+                        "channel_name": "Backup Stream 2",
+                        "channel_id": "1514",
+                        "channel_href": "/watch.php?id=1514",
+                        "channel_title": "Backup Stream 2",
+                        "data_ch": "backup stream 2"
+                    }
+                ]
+            },
+            {
+                "event": "Philippe-Chatrier: \ud83c\uddf7\ud83c\uddfa Diana Shnaider vs \ud83c\uddf5\ud83c\uddf1 Maja Chwali\u0144ska",
+                "time": "14:30",
+                "time_visible": "14:30",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "59",
+                        "channel_href": "/watch.php?id=59",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream 1",
+                        "channel_id": "1554",
+                        "channel_href": "/watch.php?id=1554",
+                        "channel_title": "Backup Stream 1",
+                        "data_ch": "backup stream 1"
+                    },
+                    {
+                        "channel_name": "Backup Stream 2",
+                        "channel_id": "1514",
+                        "channel_href": "/watch.php?id=1514",
+                        "channel_title": "Backup Stream 2",
+                        "data_ch": "backup stream 2"
+                    }
+                ]
+            }
+        ],
         "Badminton": [
             {
                 "event": "BWF World Tour Indonesia Open",
