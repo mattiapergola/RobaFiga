@@ -1,5 +1,175 @@
 {
     "Saturday 06th June 2026": {
+        "PPV Events": [
+            {
+                "event": "Polaris 37 - Squads: BJJ Stars vs Polaris All Stars",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "171",
+                        "channel_href": "/watch.php?id=171",
+                        "channel_title": "Flotv",
+                        "data_ch": "flotv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Grand National Cross Country at Watkins Glen International",
+                "time": "16:45",
+                "time_visible": "16:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "172",
+                        "channel_href": "/watch.php?id=172",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "BRAVE Combat Federation : BRAVE CF 106 & WFC 30",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "216",
+                        "channel_href": "/watch.php?id=216",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Full Contact Contender : FCC 46",
+                "time": "18:30",
+                "time_visible": "18:30",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "217",
+                        "channel_href": "/watch.php?id=217",
+                        "channel_title": "UFC Fight Pass",
+                        "data_ch": "ufc fight pass"
+                    }
+                ]
+            },
+            {
+                "event": "GCW: Tournament of Survival 11",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "218",
+                        "channel_href": "/watch.php?id=218",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Land of Legends Late Models",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "219",
+                        "channel_href": "/watch.php?id=219",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Weekly Racing at Fonda Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "220",
+                        "channel_href": "/watch.php?id=220",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Sharon Speedway Sprint Cars",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221",
+                        "channel_href": "/watch.php?id=221",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Cedar Speedway Lake Late Models",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "222",
+                        "channel_href": "/watch.php?id=222",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Worlf of Outlaws Sprint Cars Plymouth",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "224",
+                        "channel_href": "/watch.php?id=224",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Fight to Win 316",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "225",
+                        "channel_href": "/watch.php?id=225",
+                        "channel_title": "Flotv",
+                        "data_ch": "flotv"
+                    }
+                ]
+            },
+            {
+                "event": "GCW: Deathmatch Hall of Fame 2026",
+                "time": "02:00",
+                "time_visible": "02:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "226",
+                        "channel_href": "/watch.php?id=226",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
@@ -1218,6 +1388,13 @@
                         "data_ch": "sport tv2 portugal"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002",
+                        "channel_href": "/watch.php?id=9002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "Sky Sport Select NZ",
                         "channel_id": "587",
                         "channel_href": "/watch.php?id=587",
@@ -1400,6 +1577,13 @@
                         "data_ch": "prima tv romania"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9004",
+                        "channel_href": "/watch.php?id=9004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "DAZN1 DE",
                         "channel_id": "426",
                         "channel_href": "/watch.php?id=426",
@@ -1538,6 +1722,13 @@
                         "channel_href": "/watch.php?id=550",
                         "channel_title": "Viaplay Sports 2 UK",
                         "data_ch": "viaplay sports 2 uk"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9005",
+                        "channel_href": "/watch.php?id=9005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "Astro Football",
@@ -1771,6 +1962,13 @@
                         "data_ch": "sport tv5 portugal"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9008",
+                        "channel_href": "/watch.php?id=9008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "Digi Sport 4 Romania",
                         "channel_id": "403",
                         "channel_href": "/watch.php?id=403",
@@ -1888,6 +2086,13 @@
                         "channel_href": "/watch.php?id=426",
                         "channel_title": "DAZN1 DE",
                         "data_ch": "dazn1 de"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "Sport TV3 Portugal",
@@ -2065,6 +2270,13 @@
                         "data_ch": "sky sport 4 nz"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9006",
+                        "channel_href": "/watch.php?id=9006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "DAZN1 DE",
                         "channel_id": "426",
                         "channel_href": "/watch.php?id=426",
@@ -2140,6 +2352,13 @@
                         "channel_href": "/watch.php?id=781",
                         "channel_title": "Alkass One",
                         "data_ch": "alkass one"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9003",
+                        "channel_href": "/watch.php?id=9003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "Canal 4 El Salvador",
@@ -2245,6 +2464,13 @@
                         "channel_href": "/watch.php?id=49",
                         "channel_title": "Sport TV1 Portugal",
                         "data_ch": "sport tv1 portugal"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9004",
+                        "channel_href": "/watch.php?id=9004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "Polsat Sport 1 Poland",
@@ -2359,6 +2585,13 @@
                         "data_ch": "atv turkey"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9005",
+                        "channel_href": "/watch.php?id=9005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "Sport TV2 Portugal",
                         "channel_id": "74",
                         "channel_href": "/watch.php?id=74",
@@ -2455,6 +2688,13 @@
                         "channel_href": "/watch.php?id=9",
                         "channel_title": "Telefe Argentina",
                         "data_ch": "telefe argentina"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9006",
+                        "channel_href": "/watch.php?id=9006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones",
@@ -4066,8 +4306,8 @@
         "Tennis WTA - SINGLES French Open - clay": [
             {
                 "event": "114:40 Philippe-Chatrier: \ud83c\uddea\ud83c\uddf8 Marcel Granollers / \ud83c\udde6\ud83c\uddf7 Horacio Zeballos vs \ud83c\uddeb\ud83c\uddee Harri Heli\u00f6vaara / \ud83c\uddec\ud83c\udde7 Henry Patten",
-                "time": "09:00",
-                "time_visible": "09:00",
+                "time": "14:59",
+                "time_visible": "14:59",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -8668,8 +8908,8 @@
         "Sailing / Boating": [
             {
                 "event": "WSL Tour World Surf League: 2026 WSL Championship Tour: Surf City El Salvador Pro",
-                "time": "09:00",
-                "time_visible": "09:00",
+                "time": "14:59",
+                "time_visible": "14:59",
                 "channels": [
                     {
                         "channel_name": "Sport TV6 Poutugal",
