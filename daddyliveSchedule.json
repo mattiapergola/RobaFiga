@@ -411,6 +411,36 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "event": "Summer Shootout at Charlotte Motor Speedway",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5006",
+                        "channel_href": "/watch.php?id=5006",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Wild Thing Kart Series at Stafford Speedway",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5007",
+                        "channel_href": "/watch.php?id=5007",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "event": "The Kelly Clarkson Show S7, E152",
@@ -1016,8 +1046,8 @@
                     },
                     {
                         "channel_name": "NPO 3 NL",
-                        "channel_id": "2",
-                        "channel_href": "/watch.php?id=2",
+                        "channel_id": "20",
+                        "channel_href": "/watch.php?id=20",
                         "channel_title": "NPO 3 NL",
                         "data_ch": "npo 3 nl"
                     },
@@ -1132,6 +1162,13 @@
                         "channel_href": "/watch.php?id=3083",
                         "channel_title": "Fox Soccer Plus",
                         "data_ch": "fox soccer plus"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1349,6 +1386,13 @@
                         "channel_href": "/watch.php?id=3082",
                         "channel_title": "Fox Sports 2 USA",
                         "data_ch": "fox sports 2 usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1503,6 +1547,13 @@
                         "channel_href": "/watch.php?id=141",
                         "channel_title": "Sport 2 Israel",
                         "data_ch": "sport 2 israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -2637,6 +2688,13 @@
                         "channel_href": "/watch.php?id=420",
                         "channel_title": "Supersports Action",
                         "data_ch": "supersports action"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -3363,6 +3421,20 @@
                         "channel_href": "/watch.php?id=3002",
                         "channel_title": "ESPN USA",
                         "data_ch": "espn usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003",
+                        "channel_href": "/watch.php?id=5003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
