@@ -353,7 +353,7 @@
                 ]
             }
         ],
-        "\u26bd FIFA World Cup 2026 \u2014 Upcoming Matches Jun 15 \ud83c\udfc6": [
+        "\u26bd FIFA World Cup 2026 \u2014 Upcomi166ng Matches Jun 15 \ud83c\udfc6": [
             {
                 "event": "FIFA 2026 \u2014 \ud83c\udde9\ud83c\uddea Germany vs \ud83c\udded\ud83c\uddf7 Croatia",
                 "time": "22:00",
@@ -407,6 +407,106 @@
                         "channel_href": "/watch.php?id=00",
                         "channel_title": "FIFATV",
                         "data_ch": "fifatv"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "event": "Indiana Midget Week opener at Circle City Raceway",
+                "time": "21:40",
+                "time_visible": "21:40",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "207",
+                        "channel_href": "/watch.php?id=207",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Summer Shootout at Charlotte Motor Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "208",
+                        "channel_href": "/watch.php?id=208",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003",
+                        "channel_href": "/watch.php?id=5003",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Millbridge Speedway racetrack in Salisbury",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211",
+                        "channel_href": "/watch.php?id=211",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "HLR Eagle Nationals at Eagle Raceway",
+                "time": "22:40",
+                "time_visible": "22:40",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "209",
+                        "channel_href": "/watch.php?id=209",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "USAC Indiana Midget Week at Circle City Raceway",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Summer Nationals at Brownstown Bullring",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "210",
+                        "channel_href": "/watch.php?id=210",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
                     }
                 ]
             }
@@ -1659,6 +1759,13 @@
                 "time_visible": "19:00",
                 "channels": [
                     {
+                        "channel_name": "TVE La 2 Spain",
+                        "channel_id": "536",
+                        "channel_href": "/watch.php?id=536",
+                        "channel_title": "TVE La 2 Spain",
+                        "data_ch": "tve la 2 spain"
+                    },
+                    {
                         "channel_name": "Teledeporte Spain (TDP)",
                         "channel_id": "529",
                         "channel_href": "/watch.php?id=529",
@@ -2140,6 +2247,13 @@
                         "channel_href": "/watch.php?id=3083",
                         "channel_title": "Fox Soccer Plus",
                         "data_ch": "fox soccer plus"
+                    },
+                    {
+                        "channel_name": "Backup stream",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
+                        "channel_title": "Backup stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2161,6 +2275,13 @@
                         "channel_href": "/watch.php?id=3065",
                         "channel_title": "Al Iraqiya Sports",
                         "data_ch": "al iraqiya sports"
+                    },
+                    {
+                        "channel_name": "Backup stream",
+                        "channel_id": "5006",
+                        "channel_href": "/watch.php?id=5006",
+                        "channel_title": "Backup stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -4187,6 +4308,13 @@
                 "time_visible": "18:30",
                 "channels": [
                     {
+                        "channel_name": "ACB Dazn",
+                        "channel_id": "26",
+                        "channel_href": "/watch.php?id=26",
+                        "channel_title": "ACB Dazn",
+                        "data_ch": "acb dazn"
+                    },
+                    {
                         "channel_name": "Arena 2 Premium Serbia",
                         "channel_id": "135",
                         "channel_href": "/watch.php?id=135",
@@ -4589,6 +4717,13 @@
                         "channel_href": "/watch.php?id=3001",
                         "channel_title": "ABC USA",
                         "data_ch": "abc usa"
+                    },
+                    {
+                        "channel_name": "Backup stream",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
+                        "channel_title": "Backup stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
