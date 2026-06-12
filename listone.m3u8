@@ -90,6 +90,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4" tvg-logo="" channel="Rai4.it" group-title="TV Sat",RAI 4
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2179822223e6f7fefa408e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2049087681c31592c6b362
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://logo.huhu.to/logo?c=576490047.png" channel="Iris.it" group-title="Cinema",IRIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F576490047036ac0227958
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -411,29 +414,17 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24556102030a38fc13c387
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22903950460d6b257bf610
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3590183307ca309aa6be37
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3475299702c52e31a7073f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="DAZN1.it" tvg-name="DAZN 1" tvg-logo="https://logo.huhu.to/logo?c=1376440573.png" channel="DAZN1.it" group-title="Sport",DAZN 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1376440573d46b3d682e20
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DAZN2.it" tvg-name="DAZN 2" tvg-logo="https://logo.huhu.to/logo?c=363506221.png" channel="DAZN2.it" group-title="Sport",DAZN 2
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3635062218e0132c616db
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://logo.huhu.to/logo?c=210669162.png" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F210669162201ec2365574
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3192996672d2c923be0346
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://logo.huhu.to/logo?c=3007400791.png" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3007400791d5bc640207c3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25559607139e6fd9b93dd6
@@ -528,9 +519,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="" channel="SkyCinemaSuspense.it" group-title="Cinema",SKY CINEMA SUSPENSE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3060043751014db62f5b06
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://logo.huhu.to/logo?c=2872151911.png" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28721519114f66aff68e22
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17596257388e83c18bb676
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -539,9 +527,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="" channel="SkyDocumentaries.it" group-title="Documentary",SKY DOCUMENTARIES
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F46428198113d67e3a4e0e
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyNature.it" tvg-name="SKY NATURE" tvg-logo="" channel="SkyNature.it" group-title="Documentary",SKY NATURE
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3810188456875f4898bef2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyArte.it" tvg-name="SKY ARTE" tvg-logo="https://logo.huhu.to/logo?c=1806815496.png" channel="SkyArte.it" group-title="Intrattenimento",SKY ARTE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18068154966d18d1d58a9c
@@ -693,9 +678,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="" channel="DiscoveryChannel.it" group-title="Documentary",DISCOVERY CHANNEL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F355484191439d5194fc358
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://logo.huhu.to/logo?c=528430841.png" channel="DiscoveryScience.it" group-title="Documentary",DISCOVERY SCIENCE
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5284308415938593b2e15
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY" tvg-logo="https://logo.huhu.to/logo?c=317837654.png" channel="History.it" group-title="Documentary",HISTORY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3178376547e2dcc234152
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -725,9 +707,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="" channel="ComedyCentral.it" group-title="Intrattenimento",COMEDY CENTRAL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F433893159bf516cde9a97
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="FASHION TV" tvg-name="FASHION TV" tvg-logo="" channel="FASHION TV" group-title="Intrattenimento",FASHION TV
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3028319308fc52849f3d94
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX" tvg-logo="" channel="Fox.it" group-title="Intrattenimento",FOX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F56316060941df205a0842
@@ -1266,17 +1245,11 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="VIDEOSTAR TV" tvg-name="VIDEOSTAR TV" tvg-logo="https://logo.huhu.to/logo?c=2499488584.png" channel="VIDEOSTAR TV" group-title="Other",VIDEOSTAR TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24994885846c204e8b0b86
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="VIDEOTOLENTINO" tvg-name="VIDEOTOLENTINO" tvg-logo="https://logo.huhu.to/logo?c=2015312510.png" channel="VIDEOTOLENTINO" group-title="Other",VIDEOTOLENTINO
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F201531251001a1e9936f4c
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="YUGIOH ITALY" tvg-name="YUGIOH ITALY" tvg-logo="" channel="YUGIOH ITALY" group-title="Other",YUGIOH ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28498110272b8770fe20cb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ACISportTv.it" tvg-name="ACI SPORT TV" tvg-logo="https://logo.huhu.to/logo?c=1351631603.png" channel="ACISportTv.it" group-title="Sport",ACI SPORT TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13516316035c18ca000fe1
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Bike.it" tvg-name="BIKE" tvg-logo="https://logo.huhu.to/logo?c=3095895412.png" channel="Bike.it" group-title="Sport",BIKE
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F309589541224b3a9c5030f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CACCIA" tvg-name="CACCIA" tvg-logo="https://logo.huhu.to/logo?c=1692155417.png" channel="CACCIA" group-title="Sport",CACCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1692155417ce364b21d0ca
@@ -1286,9 +1259,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="EUROSPORT 4 TIMVISION" tvg-name="EUROSPORT 4 TIMVISION" tvg-logo="" channel="EUROSPORT 4 TIMVISION" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1668185301194a1978c0b2
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EUROSPORT 5 TIMVISION" tvg-name="EUROSPORT 5 TIMVISION" tvg-logo="" channel="EUROSPORT 5 TIMVISION" group-title="Sport",EUROSPORT 5 TIMVISION
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3667240765238d57794d79
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="EUROSPORT 6 TIMVISION" tvg-name="EUROSPORT 6 TIMVISION" tvg-logo="" channel="EUROSPORT 6 TIMVISION" group-title="Sport",EUROSPORT 6 TIMVISION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3421031748051d1097ba07
@@ -1568,6 +1538,8 @@ https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (D)
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=877&redirect_stream=true&api_password=Milito22.
 
+
+# Canali aggiunti da Hattrick
 
 # Canali aggiunti da Hattrick
 
@@ -1905,59 +1877,80 @@ https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https
 #EXTINF:-1 tvg-id="ATP - Singles - 🇨🇦 Felix Auger-Aliassime vs 🇭🇺 Marton Fucsovics" tvg-name="14:00 ATP - Singles : 🇨🇦 Felix Auger-Aliassime vs 🇭🇺 Marton Fucsovics - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Hertogenbosch (Netherlands) Grass", Tennis Channel
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=6005&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="ATP - Singles - 🇨🇦 Felix Auger-Aliassime vs 🇭🇺 Marton Fucsovics" tvg-name="14:00 ATP - Singles : 🇨🇦 Felix Auger-Aliassime vs 🇭🇺 Marton Fucsovics - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Hertogenbosch (Netherlands) Grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1507&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="ATP - Singles - 🇵🇹 Nuno Borges vs 🇭🇷 Marin Cilic" tvg-name="14:00 ATP - Singles : 🇵🇹 Nuno Borges vs 🇭🇷 Marin Cilic - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Hertogenbosch (Netherlands) Grass", Tennis Channel
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=6006&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="ATP - Singles - 🇷🇺 Daniil Medvedev vs 🇳🇱 Thijs Boogaard" tvg-name="15:30 ATP - Singles : 🇷🇺 Daniil Medvedev vs 🇳🇱 Thijs Boogaard - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Hertogenbosch (Netherlands) Grass", Tennis Channel
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=6007&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇦🇺 Rinky Hijikata vs 🇺🇸 Frances Tiafoe" tvg-name="11:00 ATP - Singles : 🇦🇺 Rinky Hijikata vs 🇺🇸 Frances Tiafoe - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Stuttgart (Germany), grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇷🇺 Daniil Medvedev vs 🇳🇱 Thijs Boogaard" tvg-name="15:30 ATP - Singles : 🇷🇺 Daniil Medvedev vs 🇳🇱 Thijs Boogaard - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Hertogenbosch (Netherlands) Grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1507&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇦🇺 Rinky Hijikata vs 🇺🇸 Frances Tiafoe" tvg-name="11:00 ATP - Singles : 🇦🇺 Rinky Hijikata vs 🇺🇸 Frances Tiafoe - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Stuttgart (Germany), grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1510&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="ATP - Singles - 🇨🇿 Jiri Lehecka vs 🇦🇺 James Duckworth" tvg-name="11:30 ATP - Singles : 🇨🇿 Jiri Lehecka vs 🇦🇺 James Duckworth - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Stuttgart (Germany), grass", Channel Not Listed #JustAsk
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇯🇵 Sho Shimabukuro vs 🇦🇺 Nick Kyrgios" tvg-name="12:30 ATP - Singles : 🇯🇵 Sho Shimabukuro vs 🇦🇺 Nick Kyrgios - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Stuttgart (Germany), grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇯🇵 Sho Shimabukuro vs 🇦🇺 Nick Kyrgios" tvg-name="12:30 ATP - Singles : 🇯🇵 Sho Shimabukuro vs 🇦🇺 Nick Kyrgios - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Stuttgart (Germany), grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1510&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇪🇸 Martin Landaluce vs 🇺🇸 Taylor Fritz" tvg-name="15:00 ATP - Singles : 🇪🇸 Martin Landaluce vs 🇺🇸 Taylor Fritz - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Stuttgart (Germany), grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇪🇸 Martin Landaluce vs 🇺🇸 Taylor Fritz" tvg-name="15:00 ATP - Singles : 🇪🇸 Martin Landaluce vs 🇺🇸 Taylor Fritz - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Stuttgart (Germany), grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1510&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇺🇸 Ben Shelton vs 🇺🇸 Marcos Giron" tvg-name="17:00 ATP - Singles : 🇺🇸 Ben Shelton vs 🇺🇸 Marcos Giron - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Stuttgart (Germany), grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇺🇸 Ben Shelton vs 🇺🇸 Marcos Giron" tvg-name="17:00 ATP - Singles : 🇺🇸 Ben Shelton vs 🇺🇸 Marcos Giron - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SINGLES: Stuttgart (Germany), grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1510&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇺🇸 Robin Montgomery vs 🇧🇪 Greet Minnen" tvg-name="11:00 WTA - Singles : 🇺🇸 Robin Montgomery vs 🇧🇪 Greet Minnen - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇺🇸 Robin Montgomery vs 🇧🇪 Greet Minnen" tvg-name="11:00 WTA - Singles : 🇺🇸 Robin Montgomery vs 🇧🇪 Greet Minnen - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1511&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇺 Anastasia Potapova vs 🇹🇷 Zeynep Sonmez" tvg-name="11:00 WTA - Singles : 🇷🇺 Anastasia Potapova vs 🇹🇷 Zeynep Sonmez - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇺 Anastasia Potapova vs 🇹🇷 Zeynep Sonmez" tvg-name="11:00 WTA - Singles : 🇷🇺 Anastasia Potapova vs 🇹🇷 Zeynep Sonmez - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1503&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇴 Gabriela Ruse vs 🇧🇪 Elise Mertens" tvg-name="11:00 WTA - Singles : 🇷🇴 Gabriela Ruse vs 🇧🇪 Elise Mertens - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇴 Gabriela Ruse vs 🇧🇪 Elise Mertens" tvg-name="11:00 WTA - Singles : 🇷🇴 Gabriela Ruse vs 🇧🇪 Elise Mertens - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1501&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇵🇱 Magda Linette vs 🇸🇰 Mia Pohankova" tvg-name="12:30 WTA - Singles : 🇵🇱 Magda Linette vs 🇸🇰 Mia Pohankova - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇵🇱 Magda Linette vs 🇸🇰 Mia Pohankova" tvg-name="12:30 WTA - Singles : 🇵🇱 Magda Linette vs 🇸🇰 Mia Pohankova - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1503&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇨🇿 Barbora Krejcikova vs 🇧🇪 Hanne Vandewinkel" tvg-name="13:30 WTA - Singles : 🇨🇿 Barbora Krejcikova vs 🇧🇪 Hanne Vandewinkel - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇨🇿 Barbora Krejcikova vs 🇧🇪 Hanne Vandewinkel" tvg-name="13:30 WTA - Singles : 🇨🇿 Barbora Krejcikova vs 🇧🇪 Hanne Vandewinkel - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1502&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="WTA - Singles - 🇦🇺 Ajla Tomljanovic vs 🇺🇦 Dayana Yastremska" tvg-name="15:00 WTA - Singles : 🇦🇺 Ajla Tomljanovic vs 🇺🇦 Dayana Yastremska - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Tennis Channel
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=6008&redirect_stream=true&api_password=Milito22.
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1502&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="WTA - Singles - 🇺🇸 Catherine McNally vs 🇦🇷 Solana Sierra" tvg-name="16:30 WTA - Singles : 🇺🇸 Catherine McNally vs 🇦🇷 Solana Sierra - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES: Hertogenbosch (Netherlands) grass", Tennis Channel
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=6009&redirect_stream=true&api_password=Milito22.
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1502&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇬🇧 Jodie Burrage vs 🇬🇧 Emma Raducanu" tvg-name="12:30 WTA - Singles : 🇬🇧 Jodie Burrage vs 🇬🇧 Emma Raducanu - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇬🇧 Jodie Burrage vs 🇬🇧 Emma Raducanu" tvg-name="12:30 WTA - Singles : 🇬🇧 Jodie Burrage vs 🇬🇧 Emma Raducanu - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1524&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇬🇧 Harriet Dart vs 🇷🇺 Kamilla Rakhimova" tvg-name="12:30 WTA - Singles : 🇬🇧 Harriet Dart vs 🇷🇺 Kamilla Rakhimova - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇬🇧 Jodie Burrage vs 🇬🇧 Emma Raducanu" tvg-name="12:30 WTA - Singles : 🇬🇧 Jodie Burrage vs 🇬🇧 Emma Raducanu - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1504&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇰🇿 Elena Rybakina vs 🇩🇪 Tatjana Maria" tvg-name="14:00 WTA - Singles : 🇰🇿 Elena Rybakina vs 🇩🇪 Tatjana Maria - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇬🇧 Harriet Dart vs 🇷🇺 Kamilla Rakhimova" tvg-name="12:30 WTA - Singles : 🇬🇧 Harriet Dart vs 🇷🇺 Kamilla Rakhimova - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1505&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇮🇹 Lucia Bronzetti vs 🇬🇧 Katie Boulter" tvg-name="15:30 WTA - Singles : 🇮🇹 Lucia Bronzetti vs 🇬🇧 Katie Boulter - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇰🇿 Elena Rybakina vs 🇩🇪 Tatjana Maria" tvg-name="14:00 WTA - Singles : 🇰🇿 Elena Rybakina vs 🇩🇪 Tatjana Maria - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1524&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇰🇿 Elena Rybakina vs 🇩🇪 Tatjana Maria" tvg-name="14:00 WTA - Singles : 🇰🇿 Elena Rybakina vs 🇩🇪 Tatjana Maria - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1504&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - Bouzkova M. vs Vekic D." tvg-name="14:00 WTA - Singles : Bouzkova M. vs Vekic D. - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1524&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - Bouzkova M. vs Vekic D." tvg-name="14:00 WTA - Singles : Bouzkova M. vs Vekic D. - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1504&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇮🇹 Lucia Bronzetti vs 🇬🇧 Katie Boulter" tvg-name="15:30 WTA - Singles : 🇮🇹 Lucia Bronzetti vs 🇬🇧 Katie Boulter - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1524&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇮🇹 Lucia Bronzetti vs 🇬🇧 Katie Boulter" tvg-name="15:30 WTA - Singles : 🇮🇹 Lucia Bronzetti vs 🇬🇧 Katie Boulter - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SINGLES:  London (United Kingdom) grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1504&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="ATP - Doubles - 🇧🇪 Sander Gille / 🇳🇱 Jean-Julien Rojer vs 🇨🇿 Adam Pavlasek / 🇨🇿 Patrik Rikl" tvg-name="11:00 ATP - Doubles : 🇧🇪 Sander Gille / 🇳🇱 Jean-Julien Rojer vs 🇨🇿 Adam Pavlasek / 🇨🇿 Patrik Rikl - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - Doubles: Hertogenbosch (Netherlands) Grass", Tennis Channel
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=6010&redirect_stream=true&api_password=Milito22.
@@ -1986,14 +1979,20 @@ https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https
 #EXTINF:-1 tvg-id="WTA - Doubles - 🇨🇿 Aneta Detiuc / 🇰🇿 Irina Khromacheva vs 🇹🇼 Chan Hao-ching / 🇹🇷 Zeynep Sonmez" tvg-name="15:00 WTA - Doubles : 🇨🇿 Aneta Detiuc / 🇰🇿 Irina Khromacheva vs 🇹🇼 Chan Hao-ching / 🇹🇷 Zeynep Sonmez - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - Doubles: Hertogenbosch (Netherlands) grass", Tennis Channel
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=6013&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Doubles - 🇺🇸 Iva Jovic / 🇺🇸 McCartney Kessler vs 🇨🇦 Gabriela Dabrowski / 🇧🇷 Luisa Stefani" tvg-name="14:00 WTA - Doubles : 🇺🇸 Iva Jovic / 🇺🇸 McCartney Kessler vs 🇨🇦 Gabriela Dabrowski / 🇧🇷 Luisa Stefani - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - Doubles:  London (United Kingdom) - Qualification, grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Doubles - 🇺🇸 Iva Jovic / 🇺🇸 McCartney Kessler vs 🇨🇦 Gabriela Dabrowski / 🇧🇷 Luisa Stefani" tvg-name="14:00 WTA - Doubles : 🇺🇸 Iva Jovic / 🇺🇸 McCartney Kessler vs 🇨🇦 Gabriela Dabrowski / 🇧🇷 Luisa Stefani - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - Doubles:  London (United Kingdom) - Qualification, grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1505&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="WTA - Doubles - 🇰🇿 Anna Danilina / 🇷🇸 Aleksandra Krunic vs 🇸🇰 Tereza Mihalikova / 🇬🇧 Olivia Nicholls" tvg-name="15:30 WTA - Doubles : 🇰🇿 Anna Danilina / 🇷🇸 Aleksandra Krunic vs 🇸🇰 Tereza Mihalikova / 🇬🇧 Olivia Nicholls - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - Doubles:  London (United Kingdom) - Qualification, grass", Channel Not Listed #JustAsk
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Doubles - 🇨🇦 Leylah Fernandez / 🇩🇪 Laura Siegemund vs 🇨🇦 Victoria Mboko / 🇺🇸 Sloane Stephens" tvg-name="18:30 WTA - Doubles : 🇨🇦 Leylah Fernandez / 🇩🇪 Laura Siegemund vs 🇨🇦 Victoria Mboko / 🇺🇸 Sloane Stephens - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - Doubles:  London (United Kingdom) - Qualification, grass", Channel Not Listed #JustAsk
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Doubles - 🇨🇦 Leylah Fernandez / 🇩🇪 Laura Siegemund vs 🇨🇦 Victoria Mboko / 🇺🇸 Sloane Stephens" tvg-name="18:30 WTA - Doubles : 🇨🇦 Leylah Fernandez / 🇩🇪 Laura Siegemund vs 🇨🇦 Victoria Mboko / 🇺🇸 Sloane Stephens - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - Doubles:  London (United Kingdom) - Qualification, grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1524&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Doubles - 🇨🇦 Leylah Fernandez / 🇩🇪 Laura Siegemund vs 🇨🇦 Victoria Mboko / 🇺🇸 Sloane Stephens" tvg-name="18:30 WTA - Doubles : 🇨🇦 Leylah Fernandez / 🇩🇪 Laura Siegemund vs 🇨🇦 Victoria Mboko / 🇺🇸 Sloane Stephens - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - Doubles:  London (United Kingdom) - Qualification, grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1504&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Doubles - 🇨🇦 Leylah Fernandez / 🇩🇪 Laura Siegemund vs 🇨🇦 Victoria Mboko / 🇺🇸 Sloane Stephens" tvg-name="18:30 WTA - Doubles : 🇨🇦 Leylah Fernandez / 🇩🇪 Laura Siegemund vs 🇨🇦 Victoria Mboko / 🇺🇸 Sloane Stephens - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - Doubles:  London (United Kingdom) - Qualification, grass", Tennis Channel
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1520&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 - FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3" tvg-name="14:30 FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 - 11/06/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 2 Italy
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=879&redirect_stream=true&api_password=Milito22.
