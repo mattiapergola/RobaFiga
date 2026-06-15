@@ -739,6 +739,13 @@
                         "data_ch": "das erste de"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162",
+                        "channel_href": "/watch.php?id=162",
+                        "channel_title": "RSI LA 2 IT",
+                        "data_ch": "rsi la 2 it"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49",
                         "channel_href": "/watch.php?id=49",
@@ -789,8 +796,8 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650",
-                        "channel_href": "/watch.php?id=650",
+                        "channel_id": "450",
+                        "channel_href": "/watch.php?id=450",
                         "channel_title": "PTV Sports Pakistan",
                         "data_ch": "ptv sports pakistan"
                     },
@@ -1048,6 +1055,48 @@
                     },
                     {
                         "channel_name": "Backup Stream",
+                        "channel_id": "5008",
+                        "channel_href": "/watch.php?id=5008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009",
+                        "channel_href": "/watch.php?id=5009",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010",
+                        "channel_href": "/watch.php?id=5010",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011",
+                        "channel_href": "/watch.php?id=5011",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012",
+                        "channel_href": "/watch.php?id=5012",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013",
+                        "channel_href": "/watch.php?id=5013",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
                         "channel_id": "2001",
                         "channel_href": "/watch.php?id=2001",
                         "channel_title": "Backup Stream",
@@ -1257,6 +1306,13 @@
                         "data_ch": "sport tv5 portugal"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162",
+                        "channel_href": "/watch.php?id=162",
+                        "channel_title": "RSI LA 2 IT",
+                        "data_ch": "rsi la 2 it"
+                    },
+                    {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128",
                         "channel_href": "/watch.php?id=128",
@@ -1286,8 +1342,8 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650",
-                        "channel_href": "/watch.php?id=650",
+                        "channel_id": "450",
+                        "channel_href": "/watch.php?id=450",
                         "channel_title": "PTV Sports Pakistan",
                         "data_ch": "ptv sports pakistan"
                     },
@@ -1502,67 +1558,95 @@
                         "data_ch": "backup stream"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5001",
                         "channel_href": "/watch.php?id=5001",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
+                        "channel_title": "Backup Stream (ENG)",
+                        "data_ch": "backup stream (eng)"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5002",
                         "channel_href": "/watch.php?id=5002",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
+                        "channel_title": "Backup Stream (ENG)",
+                        "data_ch": "backup stream (eng)"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5003",
                         "channel_href": "/watch.php?id=5003",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
+                        "channel_title": "Backup Stream (ENG)",
+                        "data_ch": "backup stream (eng)"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5004",
                         "channel_href": "/watch.php?id=5004",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
+                        "channel_title": "Backup Stream (ESP)",
+                        "data_ch": "backup stream (esp)"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (DE)",
                         "channel_id": "5005",
                         "channel_href": "/watch.php?id=5005",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
+                        "channel_title": "Backup Stream (DE)",
+                        "data_ch": "backup stream (de)"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5006",
                         "channel_href": "/watch.php?id=5006",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
+                        "channel_title": "Backup Stream (ESP)",
+                        "data_ch": "backup stream (esp)"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (AR)",
                         "channel_id": "5007",
                         "channel_href": "/watch.php?id=5007",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
+                        "channel_title": "Backup Stream (AR)",
+                        "data_ch": "backup stream (ar)"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (AR)",
                         "channel_id": "5008",
                         "channel_href": "/watch.php?id=5008",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
+                        "channel_title": "Backup Stream (AR)",
+                        "data_ch": "backup stream (ar)"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (FR)",
                         "channel_id": "5009",
                         "channel_href": "/watch.php?id=5009",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
+                        "channel_title": "Backup Stream (FR)",
+                        "data_ch": "backup stream (fr)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5010",
+                        "channel_href": "/watch.php?id=5010",
+                        "channel_title": "Backup Stream (ENG)",
+                        "data_ch": "backup stream (eng)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (DE)",
+                        "channel_id": "5011",
+                        "channel_href": "/watch.php?id=5011",
+                        "channel_title": "Backup Stream (DE)",
+                        "data_ch": "backup stream (de)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5012",
+                        "channel_href": "/watch.php?id=5012",
+                        "channel_title": "Backup Stream (ESP)",
+                        "data_ch": "backup stream (esp)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5013",
+                        "channel_href": "/watch.php?id=5013",
+                        "channel_title": "Backup Stream (ESP)",
+                        "data_ch": "backup stream (esp)"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -1661,6 +1745,97 @@
                         "channel_href": "/watch.php?id=3091",
                         "channel_title": "TRT 1 TR",
                         "data_ch": "trt 1 tr"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001",
+                        "channel_href": "/watch.php?id=7001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002",
+                        "channel_href": "/watch.php?id=7002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003",
+                        "channel_href": "/watch.php?id=7003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004",
+                        "channel_href": "/watch.php?id=7004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005",
+                        "channel_href": "/watch.php?id=7005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006",
+                        "channel_href": "/watch.php?id=7006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007",
+                        "channel_href": "/watch.php?id=7007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001",
+                        "channel_href": "/watch.php?id=4001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002",
+                        "channel_href": "/watch.php?id=4002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003",
+                        "channel_href": "/watch.php?id=4003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002",
+                        "channel_href": "/watch.php?id=9002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8002",
+                        "channel_href": "/watch.php?id=8002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8006",
+                        "channel_href": "/watch.php?id=8006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1747,6 +1922,13 @@
                         "data_ch": "zdf de"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162",
+                        "channel_href": "/watch.php?id=162",
+                        "channel_title": "RSI LA 2 IT",
+                        "data_ch": "rsi la 2 it"
+                    },
+                    {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290",
                         "channel_href": "/watch.php?id=290",
@@ -1790,8 +1972,8 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650",
-                        "channel_href": "/watch.php?id=650",
+                        "channel_id": "450",
+                        "channel_href": "/watch.php?id=450",
                         "channel_title": "PTV Sports Pakistan",
                         "data_ch": "ptv sports pakistan"
                     },
@@ -2137,6 +2319,104 @@
                         "channel_href": "/watch.php?id=3091",
                         "channel_title": "TRT 1 TR",
                         "data_ch": "trt 1 tr"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001",
+                        "channel_href": "/watch.php?id=7001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002",
+                        "channel_href": "/watch.php?id=7002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003",
+                        "channel_href": "/watch.php?id=7003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004",
+                        "channel_href": "/watch.php?id=7004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005",
+                        "channel_href": "/watch.php?id=7005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006",
+                        "channel_href": "/watch.php?id=7006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007",
+                        "channel_href": "/watch.php?id=7007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008",
+                        "channel_href": "/watch.php?id=7008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001",
+                        "channel_href": "/watch.php?id=4001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002",
+                        "channel_href": "/watch.php?id=4002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003",
+                        "channel_href": "/watch.php?id=4003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8003",
+                        "channel_href": "/watch.php?id=8003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8006",
+                        "channel_href": "/watch.php?id=8006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2223,6 +2503,13 @@
                         "data_ch": "zdf de"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162",
+                        "channel_href": "/watch.php?id=162",
+                        "channel_title": "RSI LA 2 IT",
+                        "data_ch": "rsi la 2 it"
+                    },
+                    {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290",
                         "channel_href": "/watch.php?id=290",
@@ -2259,8 +2546,8 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650",
-                        "channel_href": "/watch.php?id=650",
+                        "channel_id": "450",
+                        "channel_href": "/watch.php?id=450",
                         "channel_title": "PTV Sports Pakistan",
                         "data_ch": "ptv sports pakistan"
                     },
@@ -2497,6 +2784,34 @@
                     },
                     {
                         "channel_name": "Backup Stream",
+                        "channel_id": "5010",
+                        "channel_href": "/watch.php?id=5010",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011",
+                        "channel_href": "/watch.php?id=5011",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012",
+                        "channel_href": "/watch.php?id=5012",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013",
+                        "channel_href": "/watch.php?id=5013",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
                         "channel_id": "2004",
                         "channel_href": "/watch.php?id=2004",
                         "channel_title": "Backup Stream",
@@ -2592,6 +2907,104 @@
                         "channel_href": "/watch.php?id=3091",
                         "channel_title": "TRT 1 TR",
                         "data_ch": "trt 1 tr"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001",
+                        "channel_href": "/watch.php?id=7001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002",
+                        "channel_href": "/watch.php?id=7002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003",
+                        "channel_href": "/watch.php?id=7003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004",
+                        "channel_href": "/watch.php?id=7004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005",
+                        "channel_href": "/watch.php?id=7005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006",
+                        "channel_href": "/watch.php?id=7006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007",
+                        "channel_href": "/watch.php?id=7007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008",
+                        "channel_href": "/watch.php?id=7008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001",
+                        "channel_href": "/watch.php?id=4001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002",
+                        "channel_href": "/watch.php?id=4002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003",
+                        "channel_href": "/watch.php?id=4003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002",
+                        "channel_href": "/watch.php?id=9002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8004",
+                        "channel_href": "/watch.php?id=8004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8006",
+                        "channel_href": "/watch.php?id=8006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -4234,7 +4647,7 @@
                 ]
             },
             {
-                "event": "Spanish League : Semi-final 1 G4*",
+                "event": "Spanish League : Semi-final 1 Joventut - Valencia",
                 "time": "18:00",
                 "time_visible": "18:00",
                 "channels": [
