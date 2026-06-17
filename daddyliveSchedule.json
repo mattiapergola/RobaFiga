@@ -3899,7 +3899,7 @@
                 ]
             },
             {
-                "event": "FIFA World Cup : England vs Croatia",
+                "event": "FIFA World Cup : Ghana vs Panama",
                 "time": "23:00",
                 "time_visible": "23:00",
                 "channels": [
@@ -3916,6 +3916,13 @@
                         "channel_href": "/watch.php?id=39",
                         "channel_title": "Fox Sports 1 USA",
                         "data_ch": "fox sports 1 usa"
+                    },
+                    {
+                        "channel_name": "RPC Panama",
+                        "channel_id": "19",
+                        "channel_href": "/watch.php?id=19",
+                        "channel_title": "RPC Panama",
+                        "data_ch": "rpc panama"
                     },
                     {
                         "channel_name": "RTE 2 Ireland",
@@ -8442,6 +8449,34 @@
                 "time": "12:00",
                 "time_visible": "12:00",
                 "channels": [
+                    {
+                        "channel_name": "Darts borad 1",
+                        "channel_id": "224",
+                        "channel_href": "/watch.php?id=224",
+                        "channel_title": "Darts borad 1",
+                        "data_ch": "darts borad 1"
+                    },
+                    {
+                        "channel_name": "Darts borad 2",
+                        "channel_id": "225",
+                        "channel_href": "/watch.php?id=225",
+                        "channel_title": "Darts borad 2",
+                        "data_ch": "darts borad 2"
+                    },
+                    {
+                        "channel_name": "Darts borad 3",
+                        "channel_id": "226",
+                        "channel_href": "/watch.php?id=226",
+                        "channel_title": "Darts borad 3",
+                        "data_ch": "darts borad 3"
+                    },
+                    {
+                        "channel_name": "Darts borad 4",
+                        "channel_id": "227",
+                        "channel_href": "/watch.php?id=227",
+                        "channel_title": "Darts borad 4",
+                        "data_ch": "darts borad 4"
+                    },
                     {
                         "channel_name": "PDC TV",
                         "channel_id": "43",
