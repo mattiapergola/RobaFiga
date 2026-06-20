@@ -1,5 +1,217 @@
 {
     "Saturday 20th June 2026": {
+        "PPV Events": [
+            {
+                "event": "Saga Heredia Promotions: Boxeo De Alto Nivel (en Espa\u00f1ol)",
+                "time": "18:30",
+                "time_visible": "18:30",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "211",
+                        "channel_href": "/watch.php?id=211",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "Top Level Pro 23: Spring Games",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "212",
+                        "channel_href": "/watch.php?id=212",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 NASCAR Weekly Racing at Riverhead Raceway",
+                "time": "21:30",
+                "time_visible": "21:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "213",
+                        "channel_href": "/watch.php?id=213",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 IRA Sprints at Butler Motor Speedway",
+                "time": "21:30",
+                "time_visible": "21:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "214",
+                        "channel_href": "/watch.php?id=214",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 NASCAR Weekly Racing at Jennerstown Speedway",
+                "time": "21:45",
+                "time_visible": "21:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "215",
+                        "channel_href": "/watch.php?id=215",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 USAC Eastern Storm at Port Royal Speedway",
+                "time": "21:45",
+                "time_visible": "21:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "216",
+                        "channel_href": "/watch.php?id=216",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 NAPA ASCoC Ohio Sprint Speedweek at Wayne County Speedway",
+                "time": "21:45",
+                "time_visible": "21:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "217",
+                        "channel_href": "/watch.php?id=217",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Supermodifieds at Oswego Speedway",
+                "time": "21:45",
+                "time_visible": "21:45",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "217",
+                        "channel_href": "/watch.php?id=217",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Weekly Racing at Fonda Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "218",
+                        "channel_href": "/watch.php?id=218",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Bxng Next Generation Philadelphia",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "BXNG Tv",
+                        "channel_id": "219",
+                        "channel_href": "/watch.php?id=219",
+                        "channel_title": "BXNG Tv",
+                        "data_ch": "bxng tv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 USAC MRA Sprints at Valley Speedway",
+                "time": "22:26",
+                "time_visible": "22:26",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "220",
+                        "channel_href": "/watch.php?id=220",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Sharon Speedway Late Models",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153",
+                        "channel_href": "/watch.php?id=153",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Land of Legends Late Models",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154",
+                        "channel_href": "/watch.php?id=154",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Sprint Cars Husets",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155",
+                        "channel_href": "/watch.php?id=155",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "GCW: The Last Ones Left 2026",
+                "time": "00:30",
+                "time_visible": "00:30",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "156",
+                        "channel_href": "/watch.php?id=156",
+                        "channel_title": "Triller TV",
+                        "data_ch": "triller tv"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "event": "Motorrad Grand Prix Deutschland (MotoGP), 10 \u2013 12 July 2026 Sachsenring, Germany",
@@ -8959,7 +9171,7 @@
                 ]
             },
             {
-                "event": "Boxing : Oscar Collazo vs Joey Canoy",
+                "event": "Boxing : Oscar Collazo vs. Neider Valdez",
                 "time": "00:00",
                 "time_visible": "00:00",
                 "channels": [
