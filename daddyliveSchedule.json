@@ -2063,6 +2063,13 @@
                         "data_ch": "npo 1 nl"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "TV4 Sweden",
                         "channel_id": "257",
                         "channel_href": "/watch.php?id=257",
@@ -2966,6 +2973,13 @@
                         "data_ch": "rds 2 ca"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "TRT 1 Turkey",
                         "channel_id": "1012",
                         "channel_href": "/watch.php?id=1012",
@@ -3645,6 +3659,13 @@
                         "data_ch": "tsn5"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "TRT 1 Turkey",
                         "channel_id": "1012",
                         "channel_href": "/watch.php?id=1012",
@@ -4280,6 +4301,13 @@
                         "channel_href": "/watch.php?id=839",
                         "channel_title": "RDS CA",
                         "data_ch": "rds ca"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "TRT 1 Turkey",
@@ -8267,6 +8295,20 @@
                         "channel_href": "/watch.php?id=146",
                         "channel_title": "Sport 5 Live Israel",
                         "data_ch": "sport 5 live israel"
+                    }
+                ]
+            },
+            {
+                "event": "FIM Speedway GP | Wroc\u0142aw - Kwalifikacje",
+                "time": "12:30",
+                "time_visible": "12:30",
+                "channels": [
+                    {
+                        "channel_name": "Eurosport 3 Poland",
+                        "channel_id": "30",
+                        "channel_href": "/watch.php?id=30",
+                        "channel_title": "Eurosport 3 Poland",
+                        "data_ch": "eurosport 3 poland"
                     }
                 ]
             },
