@@ -1,5 +1,35 @@
 {
     "Monday 22nd June 2026": {
+        "PPV Events": [
+            {
+                "event": "Wild Thing Kart Series Stafford Speedway",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "21",
+                        "channel_href": "/watch.php?id=21",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Late Models Peoria",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "22",
+                        "channel_href": "/watch.php?id=22",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "event": "Motorrad Grand Prix Deutschland (MotoGP), 10 \u2013 12 July 2026 Sachsenring, Germany",
