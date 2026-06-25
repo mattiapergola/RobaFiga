@@ -13,7 +13,7 @@ import re
 from urllib.parse import quote_plus  # Add this import
 
 
-MFPLINK = "https://easyproxymiopersonale.dpdns.org"     # non mettere lo / finale al link
+MFPLINK = "https://proxyfacilissimo.dpdns.org"     # non mettere lo / finale al link
 MFPPSW = "Milito22."
 
 
