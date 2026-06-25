@@ -28,6 +28,90 @@
                         "data_ch": "dazn ppv de"
                     }
                 ]
+            },
+            {
+                "event": "Monster Energy Mammoth Motocross",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "68",
+                        "channel_href": "/watch.php?id=68",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Millbridge Sprints",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "69",
+                        "channel_href": "/watch.php?id=69",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "DIRTcar Summer Nationals Quincy",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "76",
+                        "channel_href": "/watch.php?id=76",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Late Models I-94 EMR",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "77",
+                        "channel_href": "/watch.php?id=77",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "The Circle Knockout Queen Fight Night",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "86",
+                        "channel_href": "/watch.php?id=86",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "INKA MMA 58",
+                "time": "03:00",
+                "time_visible": "03:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "105",
+                        "channel_href": "/watch.php?id=105",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
             }
         ],
         "Upcoming Events": [
@@ -2937,11 +3021,11 @@
                         "data_ch": "backup stream (eng)"
                     },
                     {
-                        "channel_name": "Backup Stream (ENG) (4K Quality)",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5004",
                         "channel_href": "/watch.php?id=5004",
-                        "channel_title": "Backup Stream (ENG) (4K Quality)",
-                        "data_ch": "backup stream (eng) (4k quality)"
+                        "channel_title": "Backup Stream (ENG)",
+                        "data_ch": "backup stream (eng)"
                     },
                     {
                         "channel_name": "Backup Stream (TSN 4K Quality)",
@@ -2951,11 +3035,11 @@
                         "data_ch": "backup stream (tsn 4k quality)"
                     },
                     {
-                        "channel_name": "Backup Stream (DE) (AR)",
+                        "channel_name": "Backup Stream (Bein AR)",
                         "channel_id": "5006",
                         "channel_href": "/watch.php?id=5006",
-                        "channel_title": "Backup Stream (DE) (AR)",
-                        "data_ch": "backup stream (de) (ar)"
+                        "channel_title": "Backup Stream (Bein AR)",
+                        "data_ch": "backup stream (bein ar)"
                     },
                     {
                         "channel_name": "Backup Stream (AR) (Bein Arabic 4K Quality)",
@@ -2972,11 +3056,11 @@
                         "data_ch": "backup stream (en) (tlemundo)"
                     },
                     {
-                        "channel_name": "Backup Stream (ENG) (Tlemundo 4K)",
+                        "channel_name": "Backup Stream (ENG) (Fussbolltv 4K)",
                         "channel_id": "5009",
                         "channel_href": "/watch.php?id=5009",
-                        "channel_title": "Backup Stream (ENG) (Tlemundo 4K)",
-                        "data_ch": "backup stream (eng) (tlemundo 4k)"
+                        "channel_title": "Backup Stream (ENG) (Fussbolltv 4K)",
+                        "data_ch": "backup stream (eng) (fussbolltv 4k)"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -3096,6 +3180,69 @@
                         "channel_href": "/watch.php?id=4003",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5020",
+                        "channel_href": "/watch.php?id=5020",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream (4K Quality)",
+                        "channel_id": "5021",
+                        "channel_href": "/watch.php?id=5021",
+                        "channel_title": "Backup Stream (4K Quality)",
+                        "data_ch": "backup stream (4k quality)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ITV UK)",
+                        "channel_id": "5022",
+                        "channel_href": "/watch.php?id=5022",
+                        "channel_title": "Backup Stream (ITV UK)",
+                        "data_ch": "backup stream (itv uk)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TSN)",
+                        "channel_id": "5023",
+                        "channel_href": "/watch.php?id=5023",
+                        "channel_title": "Backup Stream (TSN)",
+                        "data_ch": "backup stream (tsn)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TSN 4K)",
+                        "channel_id": "5024",
+                        "channel_href": "/watch.php?id=5024",
+                        "channel_title": "Backup Stream (TSN 4K)",
+                        "data_ch": "backup stream (tsn 4k)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein Max AR)",
+                        "channel_id": "5025",
+                        "channel_href": "/watch.php?id=5025",
+                        "channel_title": "Backup Stream (Bein Max AR)",
+                        "data_ch": "backup stream (bein max ar)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein Max 4K)",
+                        "channel_id": "5026",
+                        "channel_href": "/watch.php?id=5026",
+                        "channel_title": "Backup Stream (Bein Max 4K)",
+                        "data_ch": "backup stream (bein max 4k)"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5027",
+                        "channel_href": "/watch.php?id=5027",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Fussbaltv 4K)",
+                        "channel_id": "5028",
+                        "channel_href": "/watch.php?id=5028",
+                        "channel_title": "Backup Stream (Fussbaltv 4K)",
+                        "data_ch": "backup stream (fussbaltv 4k)"
                     }
                 ]
             },
@@ -3393,52 +3540,52 @@
                     },
                     {
                         "channel_name": "Backup Stream (ENG)",
-                        "channel_id": "5001",
-                        "channel_href": "/watch.php?id=5001",
+                        "channel_id": "5010",
+                        "channel_href": "/watch.php?id=5010",
                         "channel_title": "Backup Stream (ENG)",
                         "data_ch": "backup stream (eng)"
                     },
                     {
-                        "channel_name": "Backup Stream (4K Quality)",
-                        "channel_id": "5002",
-                        "channel_href": "/watch.php?id=5002",
-                        "channel_title": "Backup Stream (4K Quality)",
-                        "data_ch": "backup stream (4k quality)"
+                        "channel_name": "Backup Stream (FS1 4K Quality)",
+                        "channel_id": "5011",
+                        "channel_href": "/watch.php?id=5011",
+                        "channel_title": "Backup Stream (FS1 4K Quality)",
+                        "data_ch": "backup stream (fs1 4k quality)"
                     },
                     {
                         "channel_name": "Backup Stream (ENG)",
-                        "channel_id": "5003",
-                        "channel_href": "/watch.php?id=5003",
+                        "channel_id": "5012",
+                        "channel_href": "/watch.php?id=5012",
                         "channel_title": "Backup Stream (ENG)",
                         "data_ch": "backup stream (eng)"
                     },
                     {
-                        "channel_name": "Backup Stream (ENG) (4K Quality)",
-                        "channel_id": "5004",
-                        "channel_href": "/watch.php?id=5004",
-                        "channel_title": "Backup Stream (ENG) (4K Quality)",
-                        "data_ch": "backup stream (eng) (4k quality)"
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5013",
+                        "channel_href": "/watch.php?id=5013",
+                        "channel_title": "Backup Stream (ENG)",
+                        "data_ch": "backup stream (eng)"
                     },
                     {
-                        "channel_name": "Backup Stream (TSN 4K Quality)",
-                        "channel_id": "5005",
-                        "channel_href": "/watch.php?id=5005",
-                        "channel_title": "Backup Stream (TSN 4K Quality)",
-                        "data_ch": "backup stream (tsn 4k quality)"
+                        "channel_name": "Backup Stream (AR)",
+                        "channel_id": "5014",
+                        "channel_href": "/watch.php?id=5014",
+                        "channel_title": "Backup Stream (AR)",
+                        "data_ch": "backup stream (ar)"
                     },
                     {
-                        "channel_name": "Backup Stream (DE) (AR)",
-                        "channel_id": "5006",
-                        "channel_href": "/watch.php?id=5006",
-                        "channel_title": "Backup Stream (DE) (AR)",
-                        "data_ch": "backup stream (de) (ar)"
+                        "channel_name": "Backup Stream (Bein max 4K Quality)",
+                        "channel_id": "5015",
+                        "channel_href": "/watch.php?id=5015",
+                        "channel_title": "Backup Stream (Bein max 4K Quality)",
+                        "data_ch": "backup stream (bein max 4k quality)"
                     },
                     {
-                        "channel_name": "Backup Stream (AR) (Bein Arabic 4K Quality)",
-                        "channel_id": "5007",
-                        "channel_href": "/watch.php?id=5007",
-                        "channel_title": "Backup Stream (AR) (Bein Arabic 4K Quality)",
-                        "data_ch": "backup stream (ar) (bein arabic 4k quality)"
+                        "channel_name": "(NBC UNIVERSO)",
+                        "channel_id": "5016",
+                        "channel_href": "/watch.php?id=5016",
+                        "channel_title": "(NBC UNIVERSO)",
+                        "data_ch": "(nbc universo)"
                     },
                     {
                         "channel_name": "Backup Stream (EN) (Tlemundo)",
@@ -3462,53 +3609,32 @@
                         "data_ch": "backup stream"
                     },
                     {
-                        "channel_name": "TSN1",
-                        "channel_id": "3031",
-                        "channel_href": "/watch.php?id=3031",
-                        "channel_title": "TSN1",
-                        "data_ch": "tsn1"
+                        "channel_name": "MagentaTV2",
+                        "channel_id": "3012",
+                        "channel_href": "/watch.php?id=3012",
+                        "channel_title": "MagentaTV2",
+                        "data_ch": "magentatv2"
                     },
                     {
-                        "channel_name": "MagentaTV",
-                        "channel_id": "3011",
-                        "channel_href": "/watch.php?id=3011",
-                        "channel_title": "MagentaTV",
-                        "data_ch": "magentatv"
+                        "channel_name": "DAZN Mundial 2 ES",
+                        "channel_id": "3099",
+                        "channel_href": "/watch.php?id=3099",
+                        "channel_title": "DAZN Mundial 2 ES",
+                        "data_ch": "dazn mundial 2 es"
                     },
                     {
-                        "channel_name": "DAZN Mundial ES",
-                        "channel_id": "4000",
-                        "channel_href": "/watch.php?id=4000",
-                        "channel_title": "DAZN Mundial ES",
-                        "data_ch": "dazn mundial es"
+                        "channel_name": "beIN Sports 2 France",
+                        "channel_id": "3052",
+                        "channel_href": "/watch.php?id=3052",
+                        "channel_title": "beIN Sports 2 France",
+                        "data_ch": "bein sports 2 france"
                     },
                     {
-                        "channel_name": "M6 France",
-                        "channel_id": "3056",
-                        "channel_href": "/watch.php?id=3056",
-                        "channel_title": "M6 France",
-                        "data_ch": "m6 france"
-                    },
-                    {
-                        "channel_name": "ITV 1",
-                        "channel_id": "3001",
-                        "channel_href": "/watch.php?id=3001",
-                        "channel_title": "ITV 1",
-                        "data_ch": "itv 1"
-                    },
-                    {
-                        "channel_name": "HRT 2 Crotia",
-                        "channel_id": "3070",
-                        "channel_href": "/watch.php?id=3070",
-                        "channel_title": "HRT 2 Crotia",
-                        "data_ch": "hrt 2 crotia"
-                    },
-                    {
-                        "channel_name": "DAZN  IT",
-                        "channel_id": "3047",
-                        "channel_href": "/watch.php?id=3047",
-                        "channel_title": "DAZN  IT",
-                        "data_ch": "dazn  it"
+                        "channel_name": "ITV 4",
+                        "channel_id": "3004",
+                        "channel_href": "/watch.php?id=3004",
+                        "channel_title": "ITV 4",
+                        "data_ch": "itv 4"
                     },
                     {
                         "channel_name": "TVP Sport Poland",
@@ -3525,11 +3651,11 @@
                         "data_ch": "sport tv1 portugal"
                     },
                     {
-                        "channel_name": "TV4 Sweden",
-                        "channel_id": "3074",
-                        "channel_href": "/watch.php?id=3074",
-                        "channel_title": "TV4 Sweden",
-                        "data_ch": "tv4 sweden"
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "3081",
+                        "channel_href": "/watch.php?id=3081",
+                        "channel_title": "Fox Sports 1 USA",
+                        "data_ch": "fox sports 1 usa"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -3572,6 +3698,76 @@
                         "channel_href": "/watch.php?id=4003",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FS1)",
+                        "channel_id": "5010",
+                        "channel_href": "/watch.php?id=5010",
+                        "channel_title": "Backup Stream (FS1)",
+                        "data_ch": "backup stream (fs1)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FS1 4K)",
+                        "channel_id": "5011",
+                        "channel_href": "/watch.php?id=5011",
+                        "channel_title": "Backup Stream (FS1 4K)",
+                        "data_ch": "backup stream (fs1 4k)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ITV UK)",
+                        "channel_id": "5012",
+                        "channel_href": "/watch.php?id=5012",
+                        "channel_title": "Backup Stream (ITV UK)",
+                        "data_ch": "backup stream (itv uk)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TSN2)",
+                        "channel_id": "5013",
+                        "channel_href": "/watch.php?id=5013",
+                        "channel_title": "Backup Stream (TSN2)",
+                        "data_ch": "backup stream (tsn2)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ITV UK)",
+                        "channel_id": "5012",
+                        "channel_href": "/watch.php?id=5012",
+                        "channel_title": "Backup Stream (ITV UK)",
+                        "data_ch": "backup stream (itv uk)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TSN2)",
+                        "channel_id": "5013",
+                        "channel_href": "/watch.php?id=5013",
+                        "channel_title": "Backup Stream (TSN2)",
+                        "data_ch": "backup stream (tsn2)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein AR)",
+                        "channel_id": "5014",
+                        "channel_href": "/watch.php?id=5014",
+                        "channel_title": "Backup Stream (Bein AR)",
+                        "data_ch": "backup stream (bein ar)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein AR 4K)",
+                        "channel_id": "5015",
+                        "channel_href": "/watch.php?id=5015",
+                        "channel_title": "Backup Stream (Bein AR 4K)",
+                        "data_ch": "backup stream (bein ar 4k)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (NBC UNIVERSO)",
+                        "channel_id": "5016",
+                        "channel_href": "/watch.php?id=5016",
+                        "channel_title": "Backup Stream (NBC UNIVERSO)",
+                        "data_ch": "backup stream (nbc universo)"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FS1 4K)",
+                        "channel_id": "5030",
+                        "channel_href": "/watch.php?id=5030",
+                        "channel_title": "Backup Stream (FS1 4K)",
+                        "data_ch": "backup stream (fs1 4k)"
                     }
                 ]
             },
@@ -9417,6 +9613,13 @@
                         "channel_href": "/watch.php?id=829",
                         "channel_title": "MASN USA",
                         "data_ch": "masn usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010",
+                        "channel_href": "/watch.php?id=2010",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9431,6 +9634,13 @@
                         "channel_href": "/watch.php?id=19",
                         "channel_title": "MLB league pass",
                         "data_ch": "mlb league pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011",
+                        "channel_href": "/watch.php?id=2011",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9452,6 +9662,13 @@
                         "channel_href": "/watch.php?id=31",
                         "channel_title": "TNT Sports 1 UK",
                         "data_ch": "tnt sports 1 uk"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012",
+                        "channel_href": "/watch.php?id=2012",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9480,6 +9697,13 @@
                         "channel_href": "/watch.php?id=922",
                         "channel_title": "SportsNet Pittsburgh",
                         "data_ch": "sportsnet pittsburgh"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013",
+                        "channel_href": "/watch.php?id=2013",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9501,6 +9725,13 @@
                         "channel_href": "/watch.php?id=777",
                         "channel_title": "NBCS Philadelphia USA",
                         "data_ch": "nbcs philadelphia usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014",
+                        "channel_href": "/watch.php?id=2014",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9543,6 +9774,13 @@
                         "channel_href": "/watch.php?id=833",
                         "channel_title": "TVA Sports",
                         "data_ch": "tva sports"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015",
+                        "channel_href": "/watch.php?id=2015",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9585,6 +9823,13 @@
                         "channel_href": "/watch.php?id=494",
                         "channel_title": "beIN Sports 4 Max France",
                         "data_ch": "bein sports 4 max france"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2016",
+                        "channel_href": "/watch.php?id=2016",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9599,6 +9844,13 @@
                         "channel_href": "/watch.php?id=25",
                         "channel_title": "MLB league pass",
                         "data_ch": "mlb league pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2017",
+                        "channel_href": "/watch.php?id=2017",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9620,6 +9872,13 @@
                         "channel_href": "/watch.php?id=764",
                         "channel_title": "Spectrum Sportsnet LA",
                         "data_ch": "spectrum sportsnet la"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2018",
+                        "channel_href": "/watch.php?id=2018",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9634,6 +9893,13 @@
                         "channel_href": "/watch.php?id=15",
                         "channel_title": "MLB league pass",
                         "data_ch": "mlb league pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2019",
+                        "channel_href": "/watch.php?id=2019",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9662,6 +9928,13 @@
                         "channel_href": "/watch.php?id=926",
                         "channel_title": "ESPN2 MX",
                         "data_ch": "espn2 mx"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020",
+                        "channel_href": "/watch.php?id=2020",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9697,6 +9970,13 @@
                         "channel_href": "/watch.php?id=755",
                         "channel_title": "NBCS California USA",
                         "data_ch": "nbcs california usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021",
+                        "channel_href": "/watch.php?id=2021",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -9813,6 +10093,13 @@
                         "channel_href": "/watch.php?id=556",
                         "channel_title": "Sky Sport Top Event DE",
                         "data_ch": "sky sport top event de"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022",
+                        "channel_href": "/watch.php?id=2022",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9827,6 +10114,13 @@
                         "channel_href": "/watch.php?id=778",
                         "channel_title": "Monumental Sports Network",
                         "data_ch": "monumental sports network"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023",
+                        "channel_href": "/watch.php?id=2023",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9841,6 +10135,13 @@
                         "channel_href": "/watch.php?id=184",
                         "channel_title": "WNBA League Pass",
                         "data_ch": "wnba league pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024",
+                        "channel_href": "/watch.php?id=2024",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9883,6 +10184,13 @@
                         "channel_href": "/watch.php?id=556",
                         "channel_title": "Sky Sport Top Event DE",
                         "data_ch": "sky sport top event de"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025",
+                        "channel_href": "/watch.php?id=2025",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -9941,6 +10249,13 @@
                         "channel_href": "/watch.php?id=144",
                         "channel_title": "Sport 5 Israel",
                         "data_ch": "sport 5 israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026",
+                        "channel_href": "/watch.php?id=2026",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
