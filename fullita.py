@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import time
 
 
-MFPLINK = "https://easyproxymiopersonale.dpdns.org"     # non mettere lo / finale al link
+MFPLINK = "https://proxyfacilissimo.dpdns.org"     # non mettere lo / finale al link
 MFPPSW = "Milito22."
 
 # Constants
