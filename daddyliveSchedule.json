@@ -2,10 +2,59 @@
     "Friday 26th June 2026": {
         "PPV Events": [
             {
-                "event": "Thunder Road Harley-Davidson 200 at South Boston Speedway",
+                "event": "PDRA North v South Shootout",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156",
+                        "channel_href": "/watch.php?id=156",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "MotoAmerica Superbikes Ridge Motorsports",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157",
+                        "channel_href": "/watch.php?id=157",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Monster Energy Mammoth Motocross",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "158",
+                        "channel_href": "/watch.php?id=158",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Thunder Road Harley Davidson 200 SOBO",
                 "time": "19:00",
                 "time_visible": "19:00",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159",
+                        "channel_href": "/watch.php?id=159",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5070",
@@ -16,10 +65,17 @@
                 ]
             },
             {
-                "event": "American Flat Track at Lima Half-Mile",
+                "event": "American Flat Track Lima Half Mile",
                 "time": "19:10",
                 "time_visible": "19:10",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "160",
+                        "channel_href": "/watch.php?id=160",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5071",
@@ -30,10 +86,17 @@
                 ]
             },
             {
-                "event": "Midstate Firecracker 30 at Stafford Speedway",
+                "event": "Midstate Firecracker 30 Stafford",
                 "time": "21:15",
                 "time_visible": "21:15",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161",
+                        "channel_href": "/watch.php?id=161",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5072",
@@ -44,10 +107,17 @@
                 ]
             },
             {
-                "event": "RallyX at Eldora Speedway",
+                "event": "RallyX Eldora Speedway",
                 "time": "21:15",
                 "time_visible": "21:15",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162",
+                        "channel_href": "/watch.php?id=162",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5073",
@@ -58,10 +128,17 @@
                 ]
             },
             {
-                "event": "Lucas Oil Firecracker 100 at Lernerville Speedway",
+                "event": "Lucas Oil Firecracker 100 Lernerville",
                 "time": "21:45",
                 "time_visible": "21:45",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163",
+                        "channel_href": "/watch.php?id=163",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5074",
@@ -72,24 +149,17 @@
                 ]
             },
             {
-                "event": "ISMA Supermodified Weekend at Berlin Raceway",
+                "event": "USAC National Sprints Millstream",
                 "time": "22:00",
                 "time_visible": "22:00",
                 "channels": [
                     {
-                        "channel_name": "Floracing",
-                        "channel_id": "5075",
-                        "channel_href": "/watch.php?id=5075",
-                        "channel_title": "Floracing",
-                        "data_ch": "floracing"
-                    }
-                ]
-            },
-            {
-                "event": "USAC AMSOIL National Sprint Cars at Millstream Speedway",
-                "time": "22:00",
-                "time_visible": "22:00",
-                "channels": [
+                        "channel_name": "Event PPV",
+                        "channel_id": "164",
+                        "channel_href": "/watch.php?id=164",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5076",
@@ -100,10 +170,52 @@
                 ]
             },
             {
-                "event": "ARCA West at Sonoma Raceway",
+                "event": "ISMA Supermodified Weekend Berlin",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165",
+                        "channel_href": "/watch.php?id=165",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5075",
+                        "channel_href": "/watch.php?id=5075",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Weekly Racing Utica-Rome",
                 "time": "22:15",
                 "time_visible": "22:15",
                 "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166",
+                        "channel_href": "/watch.php?id=166",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "ARCA West Sonoma",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167",
+                        "channel_href": "/watch.php?id=167",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
                     {
                         "channel_name": "Floracing",
                         "channel_id": "5077",
@@ -114,14 +226,77 @@
                 ]
             },
             {
-                "event": "IRA Sprints at Jacksonville Speedway",
+                "event": "Attica Sprint Cars",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "168",
+                        "channel_href": "/watch.php?id=168",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Williams Grove Sprint Cars",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "169",
+                        "channel_href": "/watch.php?id=169",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Sprint Cars Cedar Lake",
                 "time": "23:15",
                 "time_visible": "23:15",
                 "channels": [
                     {
                         "channel_name": "Floracing",
+                        "channel_id": "170",
+                        "channel_href": "/watch.php?id=170",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Jacksonville Sprints",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "171",
+                        "channel_href": "/watch.php?id=171",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Floracing",
                         "channel_id": "5078",
                         "channel_href": "/watch.php?id=5078",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Late Models River Cities",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "172",
+                        "channel_href": "/watch.php?id=172",
                         "channel_title": "Floracing",
                         "data_ch": "floracing"
                     }
@@ -3030,6 +3205,20 @@
                         "data_ch": "rte 2 ireland"
                     },
                     {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9002",
+                        "channel_href": "/watch.php?id=9002",
+                        "channel_title": "Backup Arabic Stream",
+                        "data_ch": "backup arabic stream"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9009",
+                        "channel_href": "/watch.php?id=9009",
+                        "channel_title": "Backup English Stream",
+                        "data_ch": "backup english stream"
+                    },
+                    {
                         "channel_name": "NRK1 Norway",
                         "channel_id": "203",
                         "channel_href": "/watch.php?id=203",
@@ -3744,6 +3933,20 @@
                         "data_ch": "ctv canada"
                     },
                     {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Arabic Stream",
+                        "data_ch": "backup arabic stream"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9008",
+                        "channel_href": "/watch.php?id=9008",
+                        "channel_title": "Backup English Stream",
+                        "data_ch": "backup english stream"
+                    },
+                    {
                         "channel_name": "ORF 1 Austria",
                         "channel_id": "242",
                         "channel_href": "/watch.php?id=242",
@@ -4400,6 +4603,20 @@
                         "channel_href": "/watch.php?id=839",
                         "channel_title": "RDS CA",
                         "data_ch": "rds ca"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9004",
+                        "channel_href": "/watch.php?id=9004",
+                        "channel_title": "Backup Arabic Stream",
+                        "data_ch": "backup arabic stream"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9011",
+                        "channel_href": "/watch.php?id=9011",
+                        "channel_title": "Backup English Stream",
+                        "data_ch": "backup english stream"
                     },
                     {
                         "channel_name": "SRF zwei",
@@ -5074,6 +5291,20 @@
                         "data_ch": "das erste de"
                     },
                     {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9003",
+                        "channel_href": "/watch.php?id=9003",
+                        "channel_title": "Backup Arabic Stream",
+                        "data_ch": "backup arabic stream"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9010",
+                        "channel_href": "/watch.php?id=9010",
+                        "channel_title": "Backup English Stream",
+                        "data_ch": "backup english stream"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49",
                         "channel_href": "/watch.php?id=49",
@@ -5674,6 +5905,20 @@
                         "channel_href": "/watch.php?id=839",
                         "channel_title": "RDS CA",
                         "data_ch": "rds ca"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9002",
+                        "channel_href": "/watch.php?id=9002",
+                        "channel_title": "Backup Arabic Stream",
+                        "data_ch": "backup arabic stream"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9009",
+                        "channel_href": "/watch.php?id=9009",
+                        "channel_title": "Backup English Stream",
+                        "data_ch": "backup english stream"
                     },
                     {
                         "channel_name": "SRF zwei",
@@ -6290,6 +6535,20 @@
                         "channel_href": "/watch.php?id=365",
                         "channel_title": "RTE 2 Ireland",
                         "data_ch": "rte 2 ireland"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Arabic Stream",
+                        "data_ch": "backup arabic stream"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9008",
+                        "channel_href": "/watch.php?id=9008",
+                        "channel_title": "Backup English Stream",
+                        "data_ch": "backup english stream"
                     },
                     {
                         "channel_name": "TRT Spor Turkey",
@@ -10135,6 +10394,13 @@
                         "channel_href": "/watch.php?id=150",
                         "channel_title": "ESPN2 Argentina",
                         "data_ch": "espn2 argentina"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013",
+                        "channel_href": "/watch.php?id=2013",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
