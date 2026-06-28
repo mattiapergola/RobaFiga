@@ -2855,16 +2855,37 @@
         ],
         "Tennis \ud83c\udfbe WTA - DOUBLES: Eastbourne (United Kingdom), Grass": [
             {
-                "event": "WTA - Doubles : \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski / \ud83c\udde7\ud83c\uddf7 Luisa Stefani vs \ud83c\udde8\ud83c\uddff Jesika Male\u010dkov\u00e1 / \ud83c\udde8\ud83c\uddff Kate\u0159ina Skoch",
-                "time": "10:00",
-                "time_visible": "10:00",
+                "event": "ATP Eastbourne: \ud83c\udde7\ud83c\uddeaZizouBergs vs \ud83c\uddeb\ud83c\uddf7UgoHumbert",
+                "time": "10:05",
+                "time_visible": "10:05",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00",
-                        "channel_href": "/watch.php?id=00",
-                        "channel_title": "Channel Not Listed #JustAsk",
-                        "data_ch": "channel not listed #justask"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551",
+                        "channel_href": "/watch.php?id=1551",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1507",
+                        "channel_href": "/watch.php?id=1507",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "WTA Eastbourne: \ud83c\udde8\ud83c\udde6GabrielaDabrowski/\ud83c\udde7\ud83c\uddf7LuisaStefani vs \ud83c\udde8\ud83c\uddffJesikaMale\u010dkov\u00e1/\ud83c\udde8\ud83c\uddffMiriam\u0160koch",
+                "time": "10:10",
+                "time_visible": "10:10",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552",
+                        "channel_href": "/watch.php?id=1552",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
                     }
                 ]
             }
