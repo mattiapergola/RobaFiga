@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import time
 
 GUARCAL = "online"
-DADDY= "pk"
+DADDY= "st"
 
 def html_to_json(html):
     soup = BeautifulSoup(html, "html.parser")
