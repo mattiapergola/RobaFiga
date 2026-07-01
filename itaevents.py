@@ -29,7 +29,7 @@ M3U8_OUTPUT_FILE = "itaevents.m3u8"
 LOGO = "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png"
 SKYSTR = "help"
 GUARCAL = "online"
-DADDY= "top"
+DADDY= "st"
 
 # Add a cache for logos to avoid repeated requests
 LOGO_CACHE = {}
