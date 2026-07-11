@@ -1,5 +1,287 @@
 {
     "Saturday 11th July 2026": {
+        "PPV Events": [
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 AMA Supercross Championship: Southwick National",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "110",
+                        "channel_href": "/watch.php?id=110",
+                        "channel_title": "Peacock",
+                        "data_ch": "peacock"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83e\udd4a IBA Pro 19: \ud83c\uddf7\ud83c\uddfa Murat Gassiev vs \ud83c\udde9\ud83c\uddea Peter Kadiru",
+                "time": "14:30",
+                "time_visible": "14:30",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "151",
+                        "channel_href": "/watch.php?id=151",
+                        "channel_title": "DAZN PPV",
+                        "data_ch": "dazn ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 AMSOIL Championship Off-Road: Elk River, Minnesota",
+                "time": "14:45",
+                "time_visible": "14:45",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152",
+                        "channel_href": "/watch.php?id=152",
+                        "channel_title": "FloRacing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddec\ud83c\uddea Real American Freestyle (RAF): Tbilisi, Georgia",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153",
+                        "channel_href": "/watch.php?id=153",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 MotoAmerica Superbikes: Speedfest at Monterey",
+                "time": "16:30",
+                "time_visible": "16:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154",
+                        "channel_href": "/watch.php?id=154",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 American Flat Track: Williams Grove Half-Mile",
+                "time": "20:30",
+                "time_visible": "20:30",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "215",
+                        "channel_href": "/watch.php?id=215",
+                        "channel_title": "FloRacing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 Millbridge Speedway Sprints",
+                "time": "21:30",
+                "time_visible": "21:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "216",
+                        "channel_href": "/watch.php?id=216",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 DIRTcar Summer Nationals: Late Models \u2013 Oakshade Raceway",
+                "time": "21:45",
+                "time_visible": "21:45",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "217",
+                        "channel_href": "/watch.php?id=217",
+                        "channel_title": "DIRTVision",
+                        "data_ch": "dirtvision"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 Modified Twin 20s: Fonda Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "218",
+                        "channel_href": "/watch.php?id=218",
+                        "channel_title": "FloRacing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 Volusia Speedway Sprint Cars",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "219",
+                        "channel_href": "/watch.php?id=219",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 Land of Legends Raceway Late Models",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "220",
+                        "channel_href": "/watch.php?id=220",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 Cedar Lake Speedway Late Models",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221",
+                        "channel_href": "/watch.php?id=221",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 World of Outlaws Late Models: Sharon Speedway",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "222",
+                        "channel_href": "/watch.php?id=222",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 Fight to Win: Battle of the Badge 8",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "FloTV",
+                        "channel_id": "224",
+                        "channel_href": "/watch.php?id=224",
+                        "channel_title": "FloTV",
+                        "data_ch": "flotv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 IMCA Stock Cars: 141 Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "225",
+                        "channel_href": "/watch.php?id=225",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 World of Outlaws Sprint Cars: Wilmot Raceway",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "226",
+                        "channel_href": "/watch.php?id=226",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 American Sprint Car Series: Texarkana 67 Speedway",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "227",
+                        "channel_href": "/watch.php?id=227",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 Knoxville Raceway Sprint Cars",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "228",
+                        "channel_href": "/watch.php?id=228",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 GCW: You Only Die Once 2026",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "229",
+                        "channel_href": "/watch.php?id=229",
+                        "channel_title": "TrillerTV",
+                        "data_ch": "trillertv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\uddfa\ud83c\uddf8 House of Pain: War in the Empire 2",
+                "time": "02:00",
+                "time_visible": "02:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "237",
+                        "channel_href": "/watch.php?id=237",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "event": "\ud83d\udef4 UCI BMX Racing World Championships 2026 | Jul 17 - 25 Jul",
