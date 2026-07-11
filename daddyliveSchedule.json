@@ -40,6 +40,13 @@
                         "channel_href": "/watch.php?id=158",
                         "channel_title": "Dirtvision",
                         "data_ch": "dirtvision"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5081",
+                        "channel_href": "/watch.php?id=5081",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -96,6 +103,13 @@
                         "channel_href": "/watch.php?id=162",
                         "channel_title": "Floracing",
                         "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5084",
+                        "channel_href": "/watch.php?id=5084",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -124,6 +138,13 @@
                         "channel_href": "/watch.php?id=164",
                         "channel_title": "Floracing",
                         "data_ch": "floracing"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5083",
+                        "channel_href": "/watch.php?id=5083",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -136,6 +157,27 @@
                         "channel_name": "Event PPV",
                         "channel_id": "165",
                         "channel_href": "/watch.php?id=165",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5082",
+                        "channel_href": "/watch.php?id=5082",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "Clinton County - Pa Posse Sprint Series",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5080",
+                        "channel_href": "/watch.php?id=5080",
                         "channel_title": "Event PPV",
                         "data_ch": "event ppv"
                     }
@@ -2416,8 +2458,8 @@
                     },
                     {
                         "channel_name": "RTE 2",
-                        "channel_id": "165",
-                        "channel_href": "/watch.php?id=165",
+                        "channel_id": "365",
+                        "channel_href": "/watch.php?id=365",
                         "channel_title": "RTE 2",
                         "data_ch": "rte 2"
                     },
@@ -4245,6 +4287,13 @@
                         "channel_href": "/watch.php?id=416",
                         "channel_title": "SuperSport Variety 1",
                         "data_ch": "supersport variety 1"
+                    },
+                    {
+                        "channel_name": "Sport1+ DE",
+                        "channel_id": "3020",
+                        "channel_href": "/watch.php?id=3020",
+                        "channel_title": "Sport1+ DE",
+                        "data_ch": "sport1+ de"
                     }
                 ]
             },
