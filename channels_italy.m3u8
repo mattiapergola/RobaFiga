@@ -831,9 +831,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="M2O" tvg-name="M2O" tvg-logo="https://logo.huhu.to/logo?c=215827632.png" channel="M2O" group-title="Music",M2O
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F215827632715f84c8de94
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MTV.it" tvg-name="MTV" tvg-logo="https://logo.huhu.to/logo?c=3212860676.png" channel="MTV.it" group-title="Music",MTV
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3212860676dcc8c28a2be1
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RADIO CAPITAL" tvg-name="RADIO CAPITAL" tvg-logo="" channel="RADIO CAPITAL" group-title="Music",RADIO CAPITAL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4214417458dc0729ae47d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -1259,6 +1256,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELEMISTRETTA" tvg-name="TELEMISTRETTA" tvg-logo="https://logo.huhu.to/logo?c=1438440507.png" channel="TELEMISTRETTA" group-title="Other",TELEMISTRETTA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F14384405078009392cf5c8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEMOLISE" tvg-name="TELEMOLISE" tvg-logo="https://logo.huhu.to/logo?c=780186974.png" channel="TELEMOLISE" group-title="Other",TELEMOLISE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F780186974728e73711da8
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELENORD" tvg-name="TELENORD" tvg-logo="https://logo.huhu.to/logo?c=2923215049.png" channel="TELENORD" group-title="Other",TELENORD
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2923215049219f1039e542
