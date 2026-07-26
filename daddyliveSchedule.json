@@ -1833,6 +1833,13 @@
                         "channel_href": "/watch.php?id=2005",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2449,6 +2456,13 @@
                         "channel_href": "/watch.php?id=66",
                         "channel_title": "TUDN USA",
                         "data_ch": "tudn usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9004",
+                        "channel_href": "/watch.php?id=9004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2475,6 +2489,13 @@
                         "channel_name": "Backup Stream",
                         "channel_id": "2006",
                         "channel_href": "/watch.php?id=2006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
                     }
@@ -3064,6 +3085,13 @@
                         "data_ch": "ziggo sport 1 nl"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001",
+                        "channel_href": "/watch.php?id=9001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141",
                         "channel_href": "/watch.php?id=141",
@@ -3267,6 +3295,13 @@
                         "data_ch": "stv 2 slovenia"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002",
+                        "channel_href": "/watch.php?id=9002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143",
                         "channel_href": "/watch.php?id=143",
@@ -3328,6 +3363,13 @@
                         "channel_href": "/watch.php?id=4108",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9004",
+                        "channel_href": "/watch.php?id=9004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -3356,6 +3398,13 @@
                         "channel_href": "/watch.php?id=3045",
                         "channel_title": "DAZN IT",
                         "data_ch": "dazn it"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9005",
+                        "channel_href": "/watch.php?id=9005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -3370,6 +3419,13 @@
                         "channel_href": "/watch.php?id=3046",
                         "channel_title": "DAZN IT",
                         "data_ch": "dazn it"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9003",
+                        "channel_href": "/watch.php?id=9003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -3445,6 +3501,13 @@
                         "channel_name": "Backup Stream",
                         "channel_id": "4108",
                         "channel_href": "/watch.php?id=4108",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002",
+                        "channel_href": "/watch.php?id=9002",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
                     }
@@ -5583,6 +5646,55 @@
                         "channel_href": "/watch.php?id=2075",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "AppleTV+",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "AppleTV+",
+                        "data_ch": "appletv+"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 4K",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Sky Sports F1 4K",
+                        "data_ch": "sky sports f1 4k"
+                    },
+                    {
+                        "channel_name": "Sky Sports 1 NZ",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Sky Sports 1 NZ",
+                        "data_ch": "sky sports 1 nz"
+                    },
+                    {
+                        "channel_name": "Sky Sports 1 NZ 4K",
+                        "channel_id": "5003",
+                        "channel_href": "/watch.php?id=5003",
+                        "channel_title": "Sky Sports 1 NZ 4K",
+                        "data_ch": "sky sports 1 nz 4k"
+                    },
+                    {
+                        "channel_name": "Fox Sports 506",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
+                        "channel_title": "Fox Sports 506",
+                        "data_ch": "fox sports 506"
+                    },
+                    {
+                        "channel_name": "DAZN F1 ES",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
+                        "channel_title": "DAZN F1 ES",
+                        "data_ch": "dazn f1 es"
+                    },
+                    {
+                        "channel_name": "Eleven Sports 1 Poland",
+                        "channel_id": "5006",
+                        "channel_href": "/watch.php?id=5006",
+                        "channel_title": "Eleven Sports 1 Poland",
+                        "data_ch": "eleven sports 1 poland"
                     }
                 ]
             },
@@ -5926,6 +6038,55 @@
                         "channel_href": "/watch.php?id=2075",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "AppleTV+",
+                        "channel_id": "5000",
+                        "channel_href": "/watch.php?id=5000",
+                        "channel_title": "AppleTV+",
+                        "data_ch": "appletv+"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 4K",
+                        "channel_id": "5001",
+                        "channel_href": "/watch.php?id=5001",
+                        "channel_title": "Sky Sports F1 4K",
+                        "data_ch": "sky sports f1 4k"
+                    },
+                    {
+                        "channel_name": "Sky Sports 1 NZ",
+                        "channel_id": "5002",
+                        "channel_href": "/watch.php?id=5002",
+                        "channel_title": "Sky Sports 1 NZ",
+                        "data_ch": "sky sports 1 nz"
+                    },
+                    {
+                        "channel_name": "Sky Sports 1 NZ 4K",
+                        "channel_id": "5003",
+                        "channel_href": "/watch.php?id=5003",
+                        "channel_title": "Sky Sports 1 NZ 4K",
+                        "data_ch": "sky sports 1 nz 4k"
+                    },
+                    {
+                        "channel_name": "Fox Sports 506",
+                        "channel_id": "5004",
+                        "channel_href": "/watch.php?id=5004",
+                        "channel_title": "Fox Sports 506",
+                        "data_ch": "fox sports 506"
+                    },
+                    {
+                        "channel_name": "DAZN F1 ES",
+                        "channel_id": "5005",
+                        "channel_href": "/watch.php?id=5005",
+                        "channel_title": "DAZN F1 ES",
+                        "data_ch": "dazn f1 es"
+                    },
+                    {
+                        "channel_name": "Eleven Sports 1 Poland",
+                        "channel_id": "5006",
+                        "channel_href": "/watch.php?id=5006",
+                        "channel_title": "Eleven Sports 1 Poland",
+                        "data_ch": "eleven sports 1 poland"
                     }
                 ]
             },
