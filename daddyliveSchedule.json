@@ -845,16 +845,58 @@
         ],
         "All Soccer Events \u26bd": [
             {
-                "event": "\u26bd \ud83c\uddea\ud83c\uddfa Europe - UEFA Women's Champions League : Apollon Limassol \ud83c\udde8\ud83c\uddfe vs Czarni Sosnowiec \ud83c\uddf5\ud83c\uddf1",
-                "time": "14:00",
-                "time_visible": "14:00",
+                "event": "\u26bd \ud83c\uddea\ud83c\uddfa UEFA Women's Champions League Qualification : Sporting CP Women \ud83c\uddf5\ud83c\uddf9 vs FC Seasters Odesa Women \ud83c\uddfa\ud83c\udde6",
+                "time": "12:30",
+                "time_visible": "12:30",
                 "channels": [
                     {
-                        "channel_name": "Cytavision Sports 2 Cyprus",
-                        "channel_id": "912",
-                        "channel_href": "/watch.php?id=912",
-                        "channel_title": "Cytavision Sports 2 Cyprus",
-                        "data_ch": "cytavision sports 2 cyprus"
+                        "channel_name": "Event Stream",
+                        "channel_id": "7001",
+                        "channel_href": "/watch.php?id=7001",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddea\ud83c\uddfa UEFA Women's Champions League Qualification : Ajax Women \ud83c\uddf3\ud83c\uddf1 vs Br\u00f8ndby IF Women \ud83c\udde9\ud83c\uddf0",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7002",
+                        "channel_href": "/watch.php?id=7002",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddea\ud83c\uddfa UEFA Women's Champions League Qualification : Gintra Universitetas Women \ud83c\uddf1\ud83c\uddf9 vs Heart of Midlothian Women \ud83c\uddf8\ud83c\udde8",
+                "time": "13:30",
+                "time_visible": "13:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7003",
+                        "channel_href": "/watch.php?id=7003",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddea\ud83c\uddfa UEFA Women's Champions League Qualification : Hammarby IF Women \ud83c\uddf8\ud83c\uddea vs FK Apolonia Fier Women \ud83c\udde6\ud83c\uddf1",
+                "time": "13:30",
+                "time_visible": "13:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7004",
+                        "channel_href": "/watch.php?id=7004",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -909,27 +951,6 @@
                         "channel_name": "Backup Stream",
                         "channel_id": "6005",
                         "channel_href": "/watch.php?id=6005",
-                        "channel_title": "Backup Stream",
-                        "data_ch": "backup stream"
-                    }
-                ]
-            },
-            {
-                "event": "\u26bd \ud83c\uddea\ud83c\uddfa Europe - UEFA Women's Champions League : Ferencv\u00e1ros \ud83c\udded\ud83c\uddfa vs PAOK \ud83c\uddec\ud83c\uddf7",
-                "time": "14:30",
-                "time_visible": "14:30",
-                "channels": [
-                    {
-                        "channel_name": "M4 Sports Hungary",
-                        "channel_id": "265",
-                        "channel_href": "/watch.php?id=265",
-                        "channel_title": "M4 Sports Hungary",
-                        "data_ch": "m4 sports hungary"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "4108",
-                        "channel_href": "/watch.php?id=4108",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
                     }
