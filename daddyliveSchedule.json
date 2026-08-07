@@ -838,6 +838,13 @@
                         "data_ch": "rcti indonesia"
                     },
                     {
+                        "channel_name": "RCTI+",
+                        "channel_id": "7013",
+                        "channel_href": "/watch.php?id=7013",
+                        "channel_title": "RCTI+",
+                        "data_ch": "rcti+"
+                    },
+                    {
                         "channel_name": "SuperSport Variety 4",
                         "channel_id": "419",
                         "channel_href": "/watch.php?id=419",
@@ -859,11 +866,60 @@
                 "time_visible": "13:00",
                 "channels": [
                     {
+                        "channel_name": "VTV6",
+                        "channel_id": "7015",
+                        "channel_href": "/watch.php?id=7015",
+                        "channel_title": "VTV6",
+                        "data_ch": "vtv6"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "6001",
                         "channel_href": "/watch.php?id=6001",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": ": Africa CECAFA Clubs Cup : Al-Hilal Omdurman vs Jamus SSC",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7015",
+                        "channel_href": "/watch.php?id=7015",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Uzbekistan Super League - Surkhon Termez vs Navbahor Namangan",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7019",
+                        "channel_href": "/watch.php?id=7019",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Uzbekistan Super League - Lokomotiv Tashkent vs Dinamo Samarqand",
+                "time": "14:30",
+                "time_visible": "14:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020",
+                        "channel_href": "/watch.php?id=7020",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -896,6 +952,62 @@
                 ]
             },
             {
+                "event": "- Uzbekistan Super League - PFK Xorazm vs Mash Al Mubarek",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7021",
+                        "channel_href": "/watch.php?id=7021",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Armenia Fastex Premier League : FC Ararat-Armenia vs Urartu",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022",
+                        "channel_href": "/watch.php?id=7022",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Armenia Fastex Premier League : Ararat vs Sardarapat",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7023",
+                        "channel_href": "/watch.php?id=7023",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Finland Ykkosliiga : FC Haka vs Jippo Joensuu",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7025",
+                        "channel_href": "/watch.php?id=7025",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Romania Liga II : AFC Unirea Slobozia \ud83c\uddf7\ud83c\uddf4 vs CS Gloria Bistri\u021ba \ud83c\uddf7\ud83c\uddf4",
                 "time": "15:00",
                 "time_visible": "15:00",
@@ -913,6 +1025,27 @@
                         "channel_href": "/watch.php?id=583",
                         "channel_title": "Prima Sport 1 Romania",
                         "data_ch": "prima sport 1 romania"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7024",
+                        "channel_href": "/watch.php?id=7024",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Finland Ykkosliiga : J\u00e4PS vs MP",
+                "time": "15:30",
+                "time_visible": "15:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7026",
+                        "channel_href": "/watch.php?id=7026",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -1438,6 +1571,13 @@
                         "channel_href": "/watch.php?id=3064",
                         "channel_title": "M4 Sport Hungary",
                         "data_ch": "m4 sport hungary"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7027",
+                        "channel_href": "/watch.php?id=7027",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -2571,6 +2711,20 @@
         ],
         "Club Friendly \u26bd": [
             {
+                "event": ": Chinese Super League : Beijing Guoan vs Shenzhen Peng City",
+                "time": "11:30",
+                "time_visible": "11:30",
+                "channels": [
+                    {
+                        "channel_name": "Migu TV",
+                        "channel_id": "7011",
+                        "channel_href": "/watch.php?id=7011",
+                        "channel_title": "Migu TV",
+                        "data_ch": "migu tv"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\udf0d Club Friendly : Bayern Munich \ud83c\udde9\ud83c\uddea vs Aston Villa \ud83c\udff4",
                 "time": "12:00",
                 "time_visible": "12:00",
@@ -2651,6 +2805,13 @@
                         "channel_href": "/watch.php?id=4110",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Migu TV",
+                        "channel_id": "7010",
+                        "channel_href": "/watch.php?id=7010",
+                        "channel_title": "Migu TV",
+                        "data_ch": "migu tv"
                     }
                 ]
             },
@@ -2942,6 +3103,13 @@
                         "channel_href": "/watch.php?id=368",
                         "channel_title": "SuperSport Cricket",
                         "data_ch": "supersport cricket"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7018",
+                        "channel_href": "/watch.php?id=7018",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -5337,6 +5505,13 @@
                         "data_ch": "bein sports 3 malaysia"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7017",
+                        "channel_href": "/watch.php?id=7017",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    },
+                    {
                         "channel_name": "beIN Sport USA Espa\u00f1ol",
                         "channel_id": "372",
                         "channel_href": "/watch.php?id=372",
@@ -5878,6 +6053,13 @@
                         "channel_href": "/watch.php?id=710",
                         "channel_title": "Sport KLUB Golf Croatia",
                         "data_ch": "sport klub golf croatia"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7012",
+                        "channel_href": "/watch.php?id=7012",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -6060,6 +6242,13 @@
                         "channel_href": "/watch.php?id=710",
                         "channel_title": "Sport KLUB Golf Croatia",
                         "data_ch": "sport klub golf croatia"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7012",
+                        "channel_href": "/watch.php?id=7012",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             }
@@ -6830,6 +7019,13 @@
                         "channel_href": "/watch.php?id=588",
                         "channel_title": "Sky Sport 1 NZ",
                         "data_ch": "sky sport 1 nz"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7016",
+                        "channel_href": "/watch.php?id=7016",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "beIN Sports 1 Malaysia",
