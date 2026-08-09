@@ -745,6 +745,13 @@
                         "data_ch": "sport tv2 portugal"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009",
+                        "channel_href": "/watch.php?id=7009",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
                         "channel_name": "Abu Dhabi Sports 1",
                         "channel_id": "600",
                         "channel_href": "/watch.php?id=600",
@@ -1389,6 +1396,55 @@
                         "channel_href": "/watch.php?id=6002",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015",
+                        "channel_href": "/watch.php?id=7015",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Sweden Ettan Norra : Ume\u00e5 vs AFC Eskilstuna",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7011",
+                        "channel_href": "/watch.php?id=7011",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Denmark Betinia Liga : Hvidovre vs Esbjerg FB",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7012",
+                        "channel_href": "/watch.php?id=7012",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "- China Chinese Super League : Henan FC vs Qingdao West Coast",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7013",
+                        "channel_href": "/watch.php?id=7013",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -1858,6 +1914,13 @@
                         "channel_href": "/watch.php?id=2003",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7018",
+                        "channel_href": "/watch.php?id=7018",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1886,6 +1949,13 @@
                         "channel_href": "/watch.php?id=2004",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017",
+                        "channel_href": "/watch.php?id=7017",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1898,6 +1968,13 @@
                         "channel_name": "Backup Stream",
                         "channel_id": "6003",
                         "channel_href": "/watch.php?id=6003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002",
+                        "channel_href": "/watch.php?id=7002",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
                     }
@@ -1935,6 +2012,41 @@
                         "channel_href": "/watch.php?id=3068",
                         "channel_title": "TV 2 Play Norway",
                         "data_ch": "tv 2 play norway"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026",
+                        "channel_href": "/watch.php?id=7026",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Finland Ykkosliiga : HJK Klubi 04 vs KTP",
+                "time": "12:00",
+                "time_visible": "12:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7003",
+                        "channel_href": "/watch.php?id=7003",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "- Finland Veikkausliiga : Kuopion Palloseura vs Turun Palloseura",
+                "time": "12:00",
+                "time_visible": "12:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7014",
+                        "channel_href": "/watch.php?id=7014",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -1949,6 +2061,13 @@
                         "channel_href": "/watch.php?id=2",
                         "channel_title": "UPL.TV",
                         "data_ch": "upl.tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026",
+                        "channel_href": "/watch.php?id=7026",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2236,6 +2355,13 @@
                         "channel_href": "/watch.php?id=413",
                         "channel_title": "SuperSport PSL",
                         "data_ch": "supersport psl"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7019",
+                        "channel_href": "/watch.php?id=7019",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2250,6 +2376,13 @@
                         "channel_href": "/watch.php?id=21",
                         "channel_title": "Sky Sport Premier League DE",
                         "data_ch": "sky sport premier league de"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016",
+                        "channel_href": "/watch.php?id=7016",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     },
                     {
                         "channel_name": "Sky Sport News HD DE",
@@ -2334,6 +2467,76 @@
                         "channel_href": "/watch.php?id=4113",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Denmark Betinia Liga : FC Fredericia vs Vendsyssel FF",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022",
+                        "channel_href": "/watch.php?id=7022",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Sweden Superettan : Varbergs BoIS vs Sandvikens IF",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020",
+                        "channel_href": "/watch.php?id=7020",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Latvia Virsliga : SK Super Nova vs FK Liepaj",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7023",
+                        "channel_href": "/watch.php?id=7023",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Latvia Virsliga : FS Jelgava vs FK Auda",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7024",
+                        "channel_href": "/watch.php?id=7024",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Kazakhstan Premier League : Astana vs FC Okzhetpes",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7025",
+                        "channel_href": "/watch.php?id=7025",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -2866,6 +3069,13 @@
                         "channel_href": "/watch.php?id=1029",
                         "channel_title": "Oneplay Sport 3 CZ",
                         "data_ch": "oneplay sport 3 cz"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7021",
+                        "channel_href": "/watch.php?id=7021",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -8159,8 +8369,8 @@
         "Snooker \ud83c\udfb1": [
             {
                 "event": "Snooker China Open Table 1",
-                "time": "10:16",
-                "time_visible": "10:16",
+                "time": "11:55",
+                "time_visible": "11:55",
                 "channels": [
                     {
                         "channel_name": "Backup Stream",
@@ -8173,8 +8383,8 @@
             },
             {
                 "event": "Snooker China Open Table 2",
-                "time": "10:16",
-                "time_visible": "10:16",
+                "time": "11:55",
+                "time_visible": "11:55",
                 "channels": [
                     {
                         "channel_name": "Backup Stream",
