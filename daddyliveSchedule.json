@@ -1243,6 +1243,62 @@
         ],
         "All Soccer Events \u26bd": [
             {
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Ligi Kuu Bara : Mbeya City \ud83c\uddf9\ud83c\uddff vs Dodoma Jiji \ud83c\uddf9\ud83c\uddff",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55",
+                        "channel_href": "/watch.php?id=55",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 China Super League : Shanghai Port \ud83c\udde8\ud83c\uddf3 vs Dalian Yingbo \ud83c\udde8\ud83c\uddf3",
+                "time": "11:35",
+                "time_visible": "11:35",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59",
+                        "channel_href": "/watch.php?id=59",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\udf0f ASEAN Championship : Vietnam \ud83c\uddfb\ud83c\uddf3 vs Malaysia \ud83c\uddf2\ud83c\uddfe",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69",
+                        "channel_href": "/watch.php?id=69",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Ligi Kuu Bara : Pamba \ud83c\uddf9\ud83c\uddff vs Simba \ud83c\uddf9\ud83c\uddff",
+                "time": "13:15",
+                "time_visible": "13:15",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76",
+                        "channel_href": "/watch.php?id=76",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\uddf7\ud83c\uddfa Russia - Russian Cup : Krylya Sovetov \ud83c\uddf7\ud83c\uddfa vs Zenit \ud83c\uddf7\ud83c\uddfa",
                 "time": "13:15",
                 "time_visible": "13:15",
@@ -1260,6 +1316,13 @@
                         "channel_href": "/watch.php?id=127",
                         "channel_title": "MATCH TV Russia",
                         "data_ch": "match tv russia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77",
+                        "channel_href": "/watch.php?id=77",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -4831,6 +4894,13 @@
                         "channel_href": "/watch.php?id=34",
                         "channel_title": "TNT Sports 4 UK",
                         "data_ch": "tnt sports 4 uk"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68",
+                        "channel_href": "/watch.php?id=68",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
