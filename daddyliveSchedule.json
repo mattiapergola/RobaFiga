@@ -1286,6 +1286,34 @@
         ],
         "All Soccer Events \u26bd": [
             {
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf2 Armenia Premier League : Van \ud83c\udde6\ud83c\uddf2 vs Syunik \ud83c\udde6\ud83c\uddf2",
+                "time": "12:00",
+                "time_visible": "12:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55",
+                        "channel_href": "/watch.php?id=55",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Ligi Kuu Bara : Polisi Tanzania \ud83c\uddf9\ud83c\uddff vs JKT Tanzania \ud83c\uddf9\ud83c\uddff",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59",
+                        "channel_href": "/watch.php?id=59",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Romania - Cupa Rom\u00e2niei : Steaua Bucure\u015fti \ud83c\uddf7\ud83c\uddf4 vs Csikszereda \ud83c\uddf7\ud83c\uddf4",
                 "time": "14:00",
                 "time_visible": "14:00",
