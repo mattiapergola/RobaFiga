@@ -2,16 +2,240 @@
     "Saturday 22nd Aug 2026": {
         "PPV Events": [
             {
-                "event": "\ud83e\udd4a \ud83c\udde6\ud83c\uddfa Eternal MMA 109: Geelong",
-                "time": "12:00",
-                "time_visible": "12:00",
+                "event": "World Fuel Altered Nationals",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168",
+                        "channel_href": "/watch.php?id=168",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "USAC Bettenhausen 100 at Illinois",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "169",
+                        "channel_href": "/watch.php?id=169",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Millbridge Speedway Sprints",
+                "time": "21:30",
+                "time_visible": "21:30",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
-                        "channel_id": "200",
-                        "channel_href": "/watch.php?id=200",
+                        "channel_id": "179",
+                        "channel_href": "/watch.php?id=179",
                         "channel_title": "Event PPV",
                         "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 IRA Sprints at Wilmot Raceway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "181",
+                        "channel_href": "/watch.php?id=181",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Land of Legends Raceway Late Models",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "182",
+                        "channel_href": "/watch.php?id=182",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Cedar Lake Speedway Late Models",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "184",
+                        "channel_href": "/watch.php?id=184",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Race of Champions Sportsman at Shangri-La II Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "185",
+                        "channel_href": "/watch.php?id=185",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Living Legends Dream Race at Port Royal Speedway",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "187",
+                        "channel_href": "/watch.php?id=187",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "2026 Championship Night at Oswego Speedway",
+                "time": "22:15",
+                "time_visible": "22:15",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "188",
+                        "channel_href": "/watch.php?id=188",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "Sharon Speedway Late Models",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "189",
+                        "channel_href": "/watch.php?id=189",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Race for the Million Colorado National Speedway",
+                "time": "22:45",
+                "time_visible": "22:45",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "190",
+                        "channel_href": "/watch.php?id=190",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "IMCA Weekly Racing 141 Speedway",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "191",
+                        "channel_href": "/watch.php?id=191",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Brandrisk Promotions 15 : Austin McBroom vs. Thomas Oliveira",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "192",
+                        "channel_href": "/watch.php?id=192",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "AMW: Superbowl of Wrestling 2026",
+                "time": "23:00",
+                "time_visible": "23:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "193",
+                        "channel_href": "/watch.php?id=193",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Sprint Cars Jackson Motorplex",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "194",
+                        "channel_href": "/watch.php?id=194",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "World of Outlaws Late Models Maquoketa Speedway",
+                "time": "23:15",
+                "time_visible": "23:15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "195",
+                        "channel_href": "/watch.php?id=195",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "Real American Freestyle : RAF 12: Merab Dvalishvili vs Henry Cejudo",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Box Nation",
+                        "channel_id": "197",
+                        "channel_href": "/watch.php?id=197",
+                        "channel_title": "Box Nation",
+                        "data_ch": "box nation"
                     }
                 ]
             }
@@ -132,6 +356,76 @@
                 ]
             },
             {
+                "event": "\u26f3\ud83c\uddf3\ud83c\uddf1 Solheim Cup | Bernardus, Cromvoirt, Netherlands | 7 \u2013 13 September 2026",
+                "time": "07:10",
+                "time_visible": "07:10",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Golf",
+                        "channel_id": "70",
+                        "channel_href": "/watch.php?id=70",
+                        "channel_title": "Sky Sports Golf",
+                        "data_ch": "sky sports golf"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83d\udeb5\ud83c\uddee\ud83c\uddf9 UCI Mountain Bike World Championships | Val di Sole, Italy | 26 \u2013 30 August 2026",
+                "time": "08:00",
+                "time_visible": "08:00",
+                "channels": [
+                    {
+                        "channel_name": "Eurosport 1 GR",
+                        "channel_id": "41",
+                        "channel_href": "/watch.php?id=41",
+                        "channel_title": "Eurosport 1 GR",
+                        "data_ch": "eurosport 1 gr"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfce\ufe0f\ud83c\uddea\ud83c\uddf8 Formula 1 Gran Premio de Espa\u00f1a | Madrid, Spain | 11 \u2013 13 September 2026",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports F1 UK",
+                        "channel_id": "60",
+                        "channel_href": "/watch.php?id=60",
+                        "channel_title": "Sky Sports F1 UK",
+                        "data_ch": "sky sports f1 uk"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfce\ufe0f\ud83c\uddee\ud83c\uddf9 Formula 1 Gran Premio Heineken d\u2019Italia | Monza, Italy | 4 \u2013 6 September 2026",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports F1 UK",
+                        "channel_id": "60",
+                        "channel_href": "/watch.php?id=60",
+                        "channel_title": "Sky Sports F1 UK",
+                        "data_ch": "sky sports f1 uk"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd\ud83c\uddf5\ud83c\uddf1 FIFA U-20 Women\u2019s World Cup | Poland | 5 \u2013 27 September 2026",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed",
+                        "channel_id": "00",
+                        "channel_href": "/watch.php?id=00",
+                        "channel_title": "Channel Not Listed",
+                        "data_ch": "channel not listed"
+                    }
+                ]
+            },
+            {
                 "event": "\ud83c\udfbe\ud83c\uddfa\ud83c\uddf8 US Open | New York, USA | 23 August\u201313 September 2026",
                 "time": "11:30",
                 "time_visible": "11:30",
@@ -160,16 +454,44 @@
                 ]
             },
             {
-                "event": "\ud83c\udfc3\ud83c\udde8\ud83c\udded Lausanne Diamond League | Lausanne, Switzerland | 21 August 2026",
-                "time": "12:30",
-                "time_visible": "12:30",
+                "event": "\ud83c\udfcd\ufe0f\ud83c\uddea\ud83c\uddf8 Arag\u00f3n Grand Prix | Arag\u00f3n, Spain | 28 \u2013 30 August 2026",
+                "time": "12:00",
+                "time_visible": "12:00",
                 "channels": [
                     {
-                        "channel_name": "Eurosport 1 GR",
-                        "channel_id": "41",
-                        "channel_href": "/watch.php?id=41",
-                        "channel_title": "Eurosport 1 GR",
-                        "data_ch": "eurosport 1 gr"
+                        "channel_name": "TNT Sport 1",
+                        "channel_id": "31",
+                        "channel_href": "/watch.php?id=31",
+                        "channel_title": "TNT Sport 1",
+                        "data_ch": "tnt sport 1"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfcd\ufe0f\ud83c\udde6\ud83c\uddf9 Grand Prix of Austria | Spielberg, Austria | 18 \u2013 20 September 2026",
+                "time": "12:00",
+                "time_visible": "12:00",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sport 1",
+                        "channel_id": "31",
+                        "channel_href": "/watch.php?id=31",
+                        "channel_title": "TNT Sport 1",
+                        "data_ch": "tnt sport 1"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfbe\ud83c\uddfa\ud83c\uddf8 US Open | New York, NY, USA | 23 August \u2013 13 September 2026",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44",
+                        "channel_href": "/watch.php?id=44",
+                        "channel_title": "ESPN USA",
+                        "data_ch": "espn usa"
                     }
                 ]
             },
@@ -184,6 +506,34 @@
                         "channel_href": "/watch.php?id=40",
                         "channel_title": "Tennis Channel",
                         "data_ch": "tennis channel"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfc3\ud83c\udded\ud83c\uddfa World Athletics Ultimate Championships | Budapest, Hungary | 11 \u2013 13 September 2026",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed",
+                        "channel_id": "00",
+                        "channel_href": "/watch.php?id=00",
+                        "channel_title": "Channel Not Listed",
+                        "data_ch": "channel not listed"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfc3\ud83c\udde7\ud83c\uddea Brussels Diamond League | Brussels, Belgium | 4 \u2013 5 September 2026",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sport 1",
+                        "channel_id": "31",
+                        "channel_href": "/watch.php?id=31",
+                        "channel_title": "TNT Sport 1",
+                        "data_ch": "tnt sport 1"
                     }
                 ]
             },
@@ -5055,6 +5405,48 @@
                 ]
             },
             {
+                "event": "\u26bd Slovakia Nik\u00e9 Liga : Dun Streda vs Podbrezova",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "262",
+                        "channel_href": "/watch.php?id=262",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Slovakia Nik\u00e9 Liga : Michalovce vs Skalica",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "263",
+                        "channel_href": "/watch.php?id=263",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Slovakia Nik\u00e9 Liga : Ruzomberok vs Banska Bystrica",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86",
+                        "channel_href": "/watch.php?id=86",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\uddf8\ud83c\udde6 Saudi Arabia - Pro League : Al Kholood \ud83c\uddf8\ud83c\udde6 vs Al Taawon \ud83c\uddf8\ud83c\udde6",
                 "time": "16:10",
                 "time_visible": "16:10",
@@ -5079,6 +5471,13 @@
                         "channel_href": "/watch.php?id=3049",
                         "channel_title": "DAZN Pro League 1 Belgium",
                         "data_ch": "dazn pro league 1 belgium"
+                    },
+                    {
+                        "channel_name": "DAZN Pro League 1 Belgium",
+                        "channel_id": "209",
+                        "channel_href": "/watch.php?id=209",
+                        "channel_title": "DAZN Pro League 1 Belgium",
+                        "data_ch": "dazn pro league 1 belgium"
                     }
                 ]
             },
@@ -5093,6 +5492,13 @@
                         "channel_href": "/watch.php?id=910",
                         "channel_title": "CBS Sports Golazo",
                         "data_ch": "cbs sports golazo"
+                    },
+                    {
+                        "channel_name": "DAZN IT",
+                        "channel_id": "173",
+                        "channel_href": "/watch.php?id=173",
+                        "channel_title": "DAZN IT",
+                        "data_ch": "dazn it"
                     },
                     {
                         "channel_name": "Sport TV3 Portugal",
@@ -5275,6 +5681,13 @@
                         "channel_href": "/watch.php?id=4113",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161",
+                        "channel_href": "/watch.php?id=161",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5408,6 +5821,13 @@
                         "channel_href": "/watch.php?id=4108",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162",
+                        "channel_href": "/watch.php?id=162",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5639,6 +6059,13 @@
                         "channel_href": "/watch.php?id=4101",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163",
+                        "channel_href": "/watch.php?id=163",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5688,6 +6115,13 @@
                         "channel_href": "/watch.php?id=809",
                         "channel_title": "TV3 Sport Denmark",
                         "data_ch": "tv3 sport denmark"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157",
+                        "channel_href": "/watch.php?id=157",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5716,6 +6150,13 @@
                         "channel_href": "/watch.php?id=3070",
                         "channel_title": "MAX Sport 1 Croatia",
                         "data_ch": "max sport 1 croatia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158",
+                        "channel_href": "/watch.php?id=158",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5744,6 +6185,13 @@
                         "channel_href": "/watch.php?id=431",
                         "channel_title": "Arena Sport 3 Serbia",
                         "data_ch": "arena sport 3 serbia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159",
+                        "channel_href": "/watch.php?id=159",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5758,6 +6206,13 @@
                         "channel_href": "/watch.php?id=600",
                         "channel_title": "Abu Dhabi Sports 1",
                         "data_ch": "abu dhabi sports 1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164",
+                        "channel_href": "/watch.php?id=164",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5793,6 +6248,13 @@
                         "channel_href": "/watch.php?id=3088",
                         "channel_title": "ESPN 1 NL",
                         "data_ch": "espn 1 nl"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165",
+                        "channel_href": "/watch.php?id=165",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5863,6 +6325,55 @@
                         "channel_href": "/watch.php?id=4111",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166",
+                        "channel_href": "/watch.php?id=166",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Italy - Serie B : Carrarese vs Mantova",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "DAZN Italia",
+                        "channel_id": "59",
+                        "channel_href": "/watch.php?id=59",
+                        "channel_title": "DAZN Italia",
+                        "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187",
+                        "channel_href": "/watch.php?id=187",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Italy - Serie B : S\u00fcdtirol vs Virtus Entella",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "DAZN Italia",
+                        "channel_id": "77",
+                        "channel_href": "/watch.php?id=77",
+                        "channel_title": "DAZN Italia",
+                        "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188",
+                        "channel_href": "/watch.php?id=188",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5884,6 +6395,13 @@
                         "channel_href": "/watch.php?id=139",
                         "channel_title": "Arena 3 Premium Serbia",
                         "data_ch": "arena 3 premium serbia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186",
+                        "channel_href": "/watch.php?id=186",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5933,6 +6451,13 @@
                         "channel_href": "/watch.php?id=3025",
                         "channel_title": "Cosmote Sport 8 Greece",
                         "data_ch": "cosmote sport 8 greece"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "204",
+                        "channel_href": "/watch.php?id=204",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5947,6 +6472,13 @@
                         "channel_href": "/watch.php?id=638",
                         "channel_title": "Nova Sports Prime Greece",
                         "data_ch": "nova sports prime greece"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "205",
+                        "channel_href": "/watch.php?id=205",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5961,6 +6493,13 @@
                         "channel_href": "/watch.php?id=147",
                         "channel_title": "5Stars Israel",
                         "data_ch": "5stars israel"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178",
+                        "channel_href": "/watch.php?id=178",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -5975,6 +6514,13 @@
                         "channel_href": "/watch.php?id=146",
                         "channel_title": "5 Live Israel",
                         "data_ch": "5 live israel"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176",
+                        "channel_href": "/watch.php?id=176",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6017,6 +6563,13 @@
                         "channel_href": "/watch.php?id=3027",
                         "channel_title": "LALIGA TV Hypermotion 2",
                         "data_ch": "laliga tv hypermotion 2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "202",
+                        "channel_href": "/watch.php?id=202",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6045,6 +6598,13 @@
                         "channel_href": "/watch.php?id=3026",
                         "channel_title": "LALIGA TV Hypermotion",
                         "data_ch": "laliga tv hypermotion"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "203",
+                        "channel_href": "/watch.php?id=203",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6059,6 +6619,13 @@
                         "channel_href": "/watch.php?id=105",
                         "channel_title": "ON Sport Max Egypt",
                         "data_ch": "on sport max egypt"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175",
+                        "channel_href": "/watch.php?id=175",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6073,6 +6640,13 @@
                         "channel_href": "/watch.php?id=611",
                         "channel_title": "ON Sport 1 Egypt",
                         "data_ch": "on sport 1 egypt"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174",
+                        "channel_href": "/watch.php?id=174",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6122,6 +6696,13 @@
                         "channel_href": "/watch.php?id=4119",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198",
+                        "channel_href": "/watch.php?id=198",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6157,6 +6738,13 @@
                         "channel_href": "/watch.php?id=275",
                         "channel_title": "Bandsports Brasil",
                         "data_ch": "bandsports brasil"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210",
+                        "channel_href": "/watch.php?id=210",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6325,6 +6913,13 @@
                         "channel_href": "/watch.php?id=4106",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "214",
+                        "channel_href": "/watch.php?id=214",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6339,6 +6934,13 @@
                         "channel_href": "/watch.php?id=143",
                         "channel_title": "Sport 4 Israel",
                         "data_ch": "sport 4 israel"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "211",
+                        "channel_href": "/watch.php?id=211",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6367,6 +6969,41 @@
                         "channel_href": "/watch.php?id=3099",
                         "channel_title": "Sky Sport Austria 1",
                         "data_ch": "sky sport austria 1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "212",
+                        "channel_href": "/watch.php?id=212",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Tanzania Premier League : Geita Gold vs Kagera Sugar",
+                "time": "17:30",
+                "time_visible": "17:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "215",
+                        "channel_href": "/watch.php?id=215",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Belgium Challenger Pro Leagu : Lierse vs Patro Eisden",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "217",
+                        "channel_href": "/watch.php?id=217",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6395,6 +7032,13 @@
                         "channel_href": "/watch.php?id=3041",
                         "channel_title": "Oneplay Sport 1 CZ",
                         "data_ch": "oneplay sport 1 cz"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "218",
+                        "channel_href": "/watch.php?id=218",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6465,6 +7109,27 @@
                         "channel_href": "/watch.php?id=3051",
                         "channel_title": "beIN Sports 1 France",
                         "data_ch": "bein sports 1 france"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "219",
+                        "channel_href": "/watch.php?id=219",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Uruguay Liga AUF Uruguaya : Cerro Largo vs Defensor Sp",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "220",
+                        "channel_href": "/watch.php?id=220",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6500,6 +7165,13 @@
                         "channel_href": "/watch.php?id=3087",
                         "channel_title": "FOX Deportes",
                         "data_ch": "fox deportes"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "221",
+                        "channel_href": "/watch.php?id=221",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6514,6 +7186,13 @@
                         "channel_href": "/watch.php?id=21",
                         "channel_title": "Thmanyah 3",
                         "data_ch": "thmanyah 3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "222",
+                        "channel_href": "/watch.php?id=222",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6710,6 +7389,13 @@
                         "channel_href": "/watch.php?id=1051",
                         "channel_title": "Dajto",
                         "data_ch": "dajto"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "224",
+                        "channel_href": "/watch.php?id=224",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7060,6 +7746,13 @@
                         "channel_href": "/watch.php?id=2031",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159",
+                        "channel_href": "/watch.php?id=159",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7130,6 +7823,13 @@
                         "channel_href": "/watch.php?id=2032",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160",
+                        "channel_href": "/watch.php?id=160",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7270,6 +7970,13 @@
                         "channel_href": "/watch.php?id=4104",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161",
+                        "channel_href": "/watch.php?id=161",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7312,6 +8019,13 @@
                         "channel_href": "/watch.php?id=2033",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162",
+                        "channel_href": "/watch.php?id=162",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7529,6 +8243,13 @@
                         "channel_href": "/watch.php?id=4123",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163",
+                        "channel_href": "/watch.php?id=163",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7543,6 +8264,13 @@
                         "channel_href": "/watch.php?id=308",
                         "channel_title": "CBS Sports Network USA",
                         "data_ch": "cbs sports network usa"
+                    },
+                    {
+                        "channel_name": "DAZN IT",
+                        "channel_id": "173",
+                        "channel_href": "/watch.php?id=173",
+                        "channel_title": "DAZN IT",
+                        "data_ch": "dazn it"
                     },
                     {
                         "channel_name": "Eleven Sports 3 Poland",
@@ -7620,6 +8348,13 @@
                         "channel_href": "/watch.php?id=4107",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164",
+                        "channel_href": "/watch.php?id=164",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7634,6 +8369,34 @@
                         "channel_href": "/watch.php?id=3049",
                         "channel_title": "DAZN Pro League 1 Belgium",
                         "data_ch": "dazn pro league 1 belgium"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Bosnia & Herzegovin aWWIN Liga BiH : Velez Mostar vs Sloga Meridian",
+                "time": "18:45",
+                "time_visible": "18:45",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157",
+                        "channel_href": "/watch.php?id=157",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Bosnia & Herzegovin aWWIN Liga BiH : Siroki Brijeg vs Radnik Bijeljina",
+                "time": "18:45",
+                "time_visible": "18:45",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158",
+                        "channel_href": "/watch.php?id=158",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7655,6 +8418,13 @@
                         "channel_href": "/watch.php?id=139",
                         "channel_title": "Arena 3 Premium Serbia",
                         "data_ch": "arena 3 premium serbia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187",
+                        "channel_href": "/watch.php?id=187",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7683,6 +8453,90 @@
                         "channel_href": "/watch.php?id=3070",
                         "channel_title": "MAX Sport 1 Croatia",
                         "data_ch": "max sport 1 croatia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165",
+                        "channel_href": "/watch.php?id=165",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Ecuador Liga Pro Serie A : U Catolica vs Manta",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166",
+                        "channel_href": "/watch.php?id=166",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Italy - Serie B : Avellino vs Arezzo",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "DAZN Italia",
+                        "channel_id": "170",
+                        "channel_href": "/watch.php?id=170",
+                        "channel_title": "DAZN Italia",
+                        "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176",
+                        "channel_href": "/watch.php?id=176",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Italy - Serie B : Benevento vs Modena",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "DAZN Italia",
+                        "channel_id": "171",
+                        "channel_href": "/watch.php?id=171",
+                        "channel_title": "DAZN Italia",
+                        "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178",
+                        "channel_href": "/watch.php?id=178",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Italy - Serie B : Empoli vs Cremonese",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "DAZN Italia",
+                        "channel_id": "172",
+                        "channel_href": "/watch.php?id=172",
+                        "channel_title": "DAZN Italia",
+                        "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186",
+                        "channel_href": "/watch.php?id=186",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7788,6 +8642,27 @@
                         "channel_href": "/watch.php?id=388",
                         "channel_title": "TNT Sports Argentina",
                         "data_ch": "tnt sports argentina"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193",
+                        "channel_href": "/watch.php?id=193",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Academia del Balompie vs GV San Jose",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174",
+                        "channel_href": "/watch.php?id=174",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7802,6 +8677,13 @@
                         "channel_href": "/watch.php?id=387",
                         "channel_title": "ESPN Premium Argentina",
                         "data_ch": "espn premium argentina"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175",
+                        "channel_href": "/watch.php?id=175",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7837,6 +8719,13 @@
                         "channel_href": "/watch.php?id=140",
                         "channel_title": "Sport 1 Israel",
                         "data_ch": "sport 1 israel"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192",
+                        "channel_href": "/watch.php?id=192",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -7851,6 +8740,13 @@
                         "channel_href": "/watch.php?id=379",
                         "channel_title": "ESPN 1 NL",
                         "data_ch": "espn 1 nl"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188",
+                        "channel_href": "/watch.php?id=188",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8208,6 +9104,13 @@
                         "channel_href": "/watch.php?id=392",
                         "channel_title": "Win+ Futbol Colombia",
                         "data_ch": "win+ futbol colombia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194",
+                        "channel_href": "/watch.php?id=194",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8250,6 +9153,13 @@
                         "channel_href": "/watch.php?id=81",
                         "channel_title": "ESPN Brazil",
                         "data_ch": "espn brazil"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196",
+                        "channel_href": "/watch.php?id=196",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8271,6 +9181,55 @@
                         "channel_href": "/watch.php?id=643",
                         "channel_title": "FOX Deportes",
                         "data_ch": "fox deportes"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197",
+                        "channel_href": "/watch.php?id=197",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Aurora vs Real Potosi",
+                "time": "21:15",
+                "time_visible": "21:15",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198",
+                        "channel_href": "/watch.php?id=198",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Ecuador Liga Pro Serie A : T\u00e9cnico Universitario vs Guayaquil City",
+                "time": "21:30",
+                "time_visible": "21:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "207",
+                        "channel_href": "/watch.php?id=207",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : Cuiab\u00e1 vs Goi\u00e1s",
+                "time": "21:30",
+                "time_visible": "21:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208",
+                        "channel_href": "/watch.php?id=208",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8285,6 +9244,13 @@
                         "channel_href": "/watch.php?id=642",
                         "channel_title": "TNT SPORTS Premium HD Chile",
                         "data_ch": "tnt sports premium hd chile"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210",
+                        "channel_href": "/watch.php?id=210",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8313,6 +9279,27 @@
                         "channel_href": "/watch.php?id=432",
                         "channel_title": "Arena Sport 1 Croatia",
                         "data_ch": "arena sport 1 croatia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "211",
+                        "channel_href": "/watch.php?id=211",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Uruguay Liga AUF Uruguaya : Maldonado vs Penarol",
+                "time": "21:30",
+                "time_visible": "21:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "212",
+                        "channel_href": "/watch.php?id=212",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8362,6 +9349,13 @@
                         "channel_href": "/watch.php?id=3019",
                         "channel_title": "Sportdigital FUSSBALL DE",
                         "data_ch": "sportdigital fussball de"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "209",
+                        "channel_href": "/watch.php?id=209",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8376,6 +9370,13 @@
                         "channel_href": "/watch.php?id=756",
                         "channel_title": "Fox Soccer Plus",
                         "data_ch": "fox soccer plus"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "219",
+                        "channel_href": "/watch.php?id=219",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8439,6 +9440,13 @@
                         "channel_href": "/watch.php?id=392",
                         "channel_title": "Win+ Futbol Colombia",
                         "data_ch": "win+ futbol colombia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "226",
+                        "channel_href": "/watch.php?id=226",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8467,6 +9475,27 @@
                         "channel_href": "/watch.php?id=135",
                         "channel_title": "Arena 2 Premium Serbia",
                         "data_ch": "arena 2 premium serbia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "261",
+                        "channel_href": "/watch.php?id=261",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Nacional Potosi vs Independiente",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "258",
+                        "channel_href": "/watch.php?id=258",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8502,6 +9531,13 @@
                         "channel_href": "/watch.php?id=149",
                         "channel_title": "ESPN Argentina",
                         "data_ch": "espn argentina"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "203",
+                        "channel_href": "/watch.php?id=203",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8516,6 +9552,27 @@
                         "channel_href": "/watch.php?id=388",
                         "channel_title": "TNT Sports Argentina",
                         "data_ch": "tnt sports argentina"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "207",
+                        "channel_href": "/watch.php?id=207",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Ecuador Liga Pro Serie A : Barcelona SC vs Orense",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208",
+                        "channel_href": "/watch.php?id=208",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8530,6 +9587,27 @@
                         "channel_href": "/watch.php?id=30",
                         "channel_title": "Liga 1 Max Peru",
                         "data_ch": "liga 1 max peru"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "209",
+                        "channel_href": "/watch.php?id=209",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Chile Liga de Primera : U Catolica vs Nublense",
+                "time": "00:00",
+                "time_visible": "00:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210",
+                        "channel_href": "/watch.php?id=210",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8637,6 +9715,20 @@
                         "channel_href": "/watch.php?id=839",
                         "channel_title": "RDS CA",
                         "data_ch": "rds ca"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002",
+                        "channel_href": "/watch.php?id=2002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "262",
+                        "channel_href": "/watch.php?id=262",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8651,6 +9743,20 @@
                         "channel_href": "/watch.php?id=106",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003",
+                        "channel_href": "/watch.php?id=2003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "263",
+                        "channel_href": "/watch.php?id=263",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8665,6 +9771,20 @@
                         "channel_href": "/watch.php?id=107",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004",
+                        "channel_href": "/watch.php?id=2004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "264",
+                        "channel_href": "/watch.php?id=264",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8679,6 +9799,20 @@
                         "channel_href": "/watch.php?id=108",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005",
+                        "channel_href": "/watch.php?id=2005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200",
+                        "channel_href": "/watch.php?id=200",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8693,6 +9827,20 @@
                         "channel_href": "/watch.php?id=109",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006",
+                        "channel_href": "/watch.php?id=2006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "201",
+                        "channel_href": "/watch.php?id=201",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8707,6 +9855,13 @@
                         "channel_href": "/watch.php?id=110",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007",
+                        "channel_href": "/watch.php?id=2007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -8721,6 +9876,20 @@
                         "channel_href": "/watch.php?id=151",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020",
+                        "channel_href": "/watch.php?id=2020",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "218",
+                        "channel_href": "/watch.php?id=218",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8735,6 +9904,20 @@
                         "channel_href": "/watch.php?id=152",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021",
+                        "channel_href": "/watch.php?id=2021",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "213",
+                        "channel_href": "/watch.php?id=213",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8749,6 +9932,20 @@
                         "channel_href": "/watch.php?id=153",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022",
+                        "channel_href": "/watch.php?id=2022",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "214",
+                        "channel_href": "/watch.php?id=214",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -8763,6 +9960,13 @@
                         "channel_href": "/watch.php?id=154",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023",
+                        "channel_href": "/watch.php?id=2023",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -8777,6 +9981,13 @@
                         "channel_href": "/watch.php?id=155",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024",
+                        "channel_href": "/watch.php?id=2024",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -8791,6 +10002,13 @@
                         "channel_href": "/watch.php?id=156",
                         "channel_title": "Apple TV",
                         "data_ch": "apple tv"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025",
+                        "channel_href": "/watch.php?id=2025",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -9149,6 +10367,13 @@
                         "channel_href": "/watch.php?id=325",
                         "channel_title": "ion USA",
                         "data_ch": "ion usa"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "216",
+                        "channel_href": "/watch.php?id=216",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -9170,6 +10395,13 @@
                         "channel_href": "/watch.php?id=765",
                         "channel_title": "NBC Sports Boston",
                         "data_ch": "nbc sports boston"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "233",
+                        "channel_href": "/watch.php?id=233",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -9912,11 +11144,11 @@
                         "data_ch": "tennis stream"
                     },
                     {
-                        "channel_name": "Tennis HDStream",
+                        "channel_name": "Tennis HD Stream",
                         "channel_id": "1075",
                         "channel_href": "/watch.php?id=1075",
-                        "channel_title": "Tennis HDStream",
-                        "data_ch": "tennis hdstream"
+                        "channel_title": "Tennis HD Stream",
+                        "data_ch": "tennis hd stream"
                     }
                 ]
             },
@@ -9933,11 +11165,11 @@
                         "data_ch": "tennis stream"
                     },
                     {
-                        "channel_name": "Tennis HDStream",
+                        "channel_name": "Tennis HD Stream",
                         "channel_id": "1076",
                         "channel_href": "/watch.php?id=1076",
-                        "channel_title": "Tennis HDStream",
-                        "data_ch": "tennis hdstream"
+                        "channel_title": "Tennis HD Stream",
+                        "data_ch": "tennis hd stream"
                     }
                 ]
             },
@@ -9996,11 +11228,11 @@
                         "data_ch": "tennis stream"
                     },
                     {
-                        "channel_name": "Tennis HDStream",
+                        "channel_name": "Tennis HD Stream",
                         "channel_id": "1077",
                         "channel_href": "/watch.php?id=1077",
-                        "channel_title": "Tennis HDStream",
-                        "data_ch": "tennis hdstream"
+                        "channel_title": "Tennis HD Stream",
+                        "data_ch": "tennis hd stream"
                     }
                 ]
             },
@@ -10071,6 +11303,27 @@
                         "channel_href": "/watch.php?id=1560",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507",
+                        "channel_href": "/watch.php?id=1507",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520",
+                        "channel_href": "/watch.php?id=1520",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1071",
+                        "channel_href": "/watch.php?id=1071",
+                        "channel_title": "Tennis HD Stream",
+                        "data_ch": "tennis hd stream"
                     }
                 ]
             },
@@ -10113,6 +11366,34 @@
                         "channel_href": "/watch.php?id=1563",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501",
+                        "channel_href": "/watch.php?id=1501",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524",
+                        "channel_href": "/watch.php?id=1524",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520",
+                        "channel_href": "/watch.php?id=1520",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1072",
+                        "channel_href": "/watch.php?id=1072",
+                        "channel_title": "Tennis HD Stream",
+                        "data_ch": "tennis hd stream"
                     }
                 ]
             },
@@ -10225,6 +11506,27 @@
                         "channel_href": "/watch.php?id=1571",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507",
+                        "channel_href": "/watch.php?id=1507",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520",
+                        "channel_href": "/watch.php?id=1520",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1073",
+                        "channel_href": "/watch.php?id=1073",
+                        "channel_title": "Tennis HD Stream",
+                        "data_ch": "tennis hd stream"
                     }
                 ]
             },
@@ -10281,6 +11583,34 @@
                         "channel_href": "/watch.php?id=1575",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524",
+                        "channel_href": "/watch.php?id=1524",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501",
+                        "channel_href": "/watch.php?id=1501",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524",
+                        "channel_href": "/watch.php?id=1524",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1074",
+                        "channel_href": "/watch.php?id=1074",
+                        "channel_title": "Tennis HD Stream",
+                        "data_ch": "tennis hd stream"
                     }
                 ]
             }
@@ -11589,6 +12919,13 @@
                         "channel_href": "/watch.php?id=446",
                         "channel_title": "DAZN 2 Spain",
                         "data_ch": "dazn 2 spain"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "213",
+                        "channel_href": "/watch.php?id=213",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -11601,6 +12938,13 @@
                         "channel_name": "DAZN PPV",
                         "channel_id": "59",
                         "channel_href": "/watch.php?id=59",
+                        "channel_title": "DAZN PPV",
+                        "data_ch": "dazn ppv"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "9",
+                        "channel_href": "/watch.php?id=9",
                         "channel_title": "DAZN PPV",
                         "data_ch": "dazn ppv"
                     }
@@ -11738,6 +13082,20 @@
                         "channel_href": "/watch.php?id=3006",
                         "channel_title": "Sportsnet+",
                         "data_ch": "sportsnet+"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001",
+                        "channel_href": "/watch.php?id=2001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "217",
+                        "channel_href": "/watch.php?id=217",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             }
@@ -11789,6 +13147,13 @@
                         "channel_href": "/watch.php?id=3006",
                         "channel_title": "Sportsnet+",
                         "data_ch": "sportsnet+"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "214",
+                        "channel_href": "/watch.php?id=214",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -11915,6 +13280,13 @@
                         "channel_href": "/watch.php?id=2008",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "214",
+                        "channel_href": "/watch.php?id=214",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             }
@@ -12597,6 +13969,13 @@
                         "channel_href": "/watch.php?id=2004",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "206",
+                        "channel_href": "/watch.php?id=206",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -12625,6 +14004,13 @@
                         "channel_href": "/watch.php?id=2005",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "207",
+                        "channel_href": "/watch.php?id=207",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -12660,6 +14046,13 @@
                         "channel_href": "/watch.php?id=2006",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208",
+                        "channel_href": "/watch.php?id=208",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -12758,6 +14151,13 @@
                         "channel_href": "/watch.php?id=3001",
                         "channel_title": "NFL Sunday Ticket",
                         "data_ch": "nfl sunday ticket"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "221",
+                        "channel_href": "/watch.php?id=221",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -12793,6 +14193,13 @@
                         "channel_href": "/watch.php?id=3002",
                         "channel_title": "NFL Sunday Ticket",
                         "data_ch": "nfl sunday ticket"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "222",
+                        "channel_href": "/watch.php?id=222",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -12807,6 +14214,13 @@
                         "channel_href": "/watch.php?id=6",
                         "channel_title": "NFL Sunday Ticket",
                         "data_ch": "nfl sunday ticket"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "202",
+                        "channel_href": "/watch.php?id=202",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13417,6 +14831,13 @@
                         "channel_href": "/watch.php?id=148",
                         "channel_title": "Sport 5 Gold Israel",
                         "data_ch": "sport 5 gold israel"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "216",
+                        "channel_href": "/watch.php?id=216",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13487,6 +14908,13 @@
                         "channel_href": "/watch.php?id=777",
                         "channel_title": "NBCS Philadelphia USA",
                         "data_ch": "nbcs philadelphia usa"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "215",
+                        "channel_href": "/watch.php?id=215",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13508,6 +14936,13 @@
                         "channel_href": "/watch.php?id=829",
                         "channel_title": "MASN USA",
                         "data_ch": "masn usa"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "224",
+                        "channel_href": "/watch.php?id=224",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13522,6 +14957,13 @@
                         "channel_href": "/watch.php?id=13",
                         "channel_title": "MLB League Pass",
                         "data_ch": "mlb league pass"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "225",
+                        "channel_href": "/watch.php?id=225",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13550,6 +14992,13 @@
                         "channel_href": "/watch.php?id=921",
                         "channel_title": "Space City Home Network",
                         "data_ch": "space city home network"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "228",
+                        "channel_href": "/watch.php?id=228",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13578,6 +15027,13 @@
                         "channel_href": "/watch.php?id=776",
                         "channel_title": "Chicago Sports Network",
                         "data_ch": "chicago sports network"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "227",
+                        "channel_href": "/watch.php?id=227",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13613,6 +15069,13 @@
                         "channel_href": "/watch.php?id=833",
                         "channel_title": "TVA Sports CA",
                         "data_ch": "tva sports ca"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "229",
+                        "channel_href": "/watch.php?id=229",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13627,6 +15090,13 @@
                         "channel_href": "/watch.php?id=17",
                         "channel_title": "MLB League Pass",
                         "data_ch": "mlb league pass"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "230",
+                        "channel_href": "/watch.php?id=230",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13648,6 +15118,13 @@
                         "channel_href": "/watch.php?id=34",
                         "channel_title": "TNT Sports 4 UK",
                         "data_ch": "tnt sports 4 uk"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "232",
+                        "channel_href": "/watch.php?id=232",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13669,6 +15146,13 @@
                         "channel_href": "/watch.php?id=643",
                         "channel_title": "Fox Deportes",
                         "data_ch": "fox deportes"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "231",
+                        "channel_href": "/watch.php?id=231",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13741,6 +15225,20 @@
                         "channel_href": "/watch.php?id=156",
                         "channel_title": "ERT 2 Greece",
                         "data_ch": "ert 2 greece"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfc0 Basketball Super cup : T\u00fcrkiye vs Czechia",
+                "time": "15:45",
+                "time_visible": "15:45",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "261",
+                        "channel_href": "/watch.php?id=261",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13820,6 +15318,20 @@
                         "data_ch": "cbsny usa"
                     }
                 ]
+            },
+            {
+                "event": "\u26bd Basketball Supercup : Croatia vs Germany",
+                "time": "18:30",
+                "time_visible": "18:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "225",
+                        "channel_href": "/watch.php?id=225",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
             }
         ],
         "WNBA \ud83c\udfc0": [
@@ -13834,6 +15346,13 @@
                         "channel_href": "/watch.php?id=449",
                         "channel_title": "Sky Sports Mix UK",
                         "data_ch": "sky sports mix uk"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "220",
+                        "channel_href": "/watch.php?id=220",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -13848,6 +15367,13 @@
                         "channel_href": "/watch.php?id=764",
                         "channel_title": "Spectrum SportsNet USA",
                         "data_ch": "spectrum sportsnet usa"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "212",
+                        "channel_href": "/watch.php?id=212",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -14859,6 +16385,13 @@
                         "channel_href": "/watch.php?id=410",
                         "channel_title": "Sportsnet World",
                         "data_ch": "sportsnet world"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160",
+                        "channel_href": "/watch.php?id=160",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
