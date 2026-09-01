@@ -1192,6 +1192,62 @@
         ],
         "All Soccer Events \u26bd": [
             {
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 China FA Cup : Shandong Taishan \ud83c\udde8\ud83c\uddf3 vs Shanghai Port \ud83c\udde8\ud83c\uddf3",
+                "time": "11:35",
+                "time_visible": "11:35",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55",
+                        "channel_href": "/watch.php?id=55",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 China FA Cup : Dalian Yingbo \ud83c\udde8\ud83c\uddf3 vs Shanghai Shenhua \ud83c\udde8\ud83c\uddf3",
+                "time": "11:35",
+                "time_visible": "11:35",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59",
+                        "channel_href": "/watch.php?id=59",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 China FA Cup : Beijing Guoan \ud83c\udde8\ud83c\uddf3 vs Lanzhou Longyuan \ud83c\udde8\ud83c\uddf3",
+                "time": "11:35",
+                "time_visible": "11:35",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68",
+                        "channel_href": "/watch.php?id=68",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland Cup : Korona Kielce II \ud83c\uddf5\ud83c\uddf1 vs Radomiak Radom \ud83c\uddf5\ud83c\uddf1",
+                "time": "12:30",
+                "time_visible": "12:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69",
+                        "channel_href": "/watch.php?id=69",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland - Puchar Polski : Korona Kielce II \ud83c\uddf5\ud83c\uddf1 vs Radomiak Radom \ud83c\uddf5\ud83c\uddf1",
                 "time": "12:30",
                 "time_visible": "12:30",
@@ -1216,6 +1272,13 @@
                         "channel_href": "/watch.php?id=889",
                         "channel_title": "TRT Spor Turkey",
                         "data_ch": "trt spor turkey"
+                    },
+                    {
+                        "channel_name": "Event SD Steam",
+                        "channel_id": "77",
+                        "channel_href": "/watch.php?id=77",
+                        "channel_title": "Event SD Steam",
+                        "data_ch": "event sd steam"
                     }
                 ]
             },
@@ -1230,6 +1293,55 @@
                         "channel_href": "/watch.php?id=127",
                         "channel_title": "Match TV Russia",
                         "data_ch": "match tv russia"
+                    },
+                    {
+                        "channel_name": "Event SD Steam",
+                        "channel_id": "86",
+                        "channel_href": "/watch.php?id=86",
+                        "channel_title": "Event SD Steam",
+                        "data_ch": "event sd steam"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddea\ud83c\uddec Egypt Premier League 1 : Ghazl El Mahallah \ud83c\uddea\ud83c\uddec vs Enppi \ud83c\uddea\ud83c\uddec",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105",
+                        "channel_href": "/watch.php?id=105",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddea\ud83c\uddec Egypt Premier League : El Gaish \ud83c\uddea\ud83c\uddec vs ZED \ud83c\uddea\ud83c\uddec",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106",
+                        "channel_href": "/watch.php?id=106",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf6\ud83c\udde6 Qatar QSL Cup : Al-Sadd \ud83c\uddf6\ud83c\udde6 vs Al-Gharafa \ud83c\uddf6\ud83c\udde6",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107",
+                        "channel_href": "/watch.php?id=107",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -1244,6 +1356,13 @@
                         "channel_href": "/watch.php?id=17",
                         "channel_title": "tabii Spor 6 Turkey",
                         "data_ch": "tabii spor 6 turkey"
+                    },
+                    {
+                        "channel_name": "Event SD Steam",
+                        "channel_id": "108",
+                        "channel_href": "/watch.php?id=108",
+                        "channel_title": "Event SD Steam",
+                        "data_ch": "event sd steam"
                     }
                 ]
             },
@@ -2802,8 +2921,8 @@
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2823,8 +2942,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2851,8 +2970,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2872,8 +2991,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Grandstand",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2893,8 +3012,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Stadium 17",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2907,8 +3026,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 4",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2921,8 +3040,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 5",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2935,8 +3054,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 6",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2949,8 +3068,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 7",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2963,8 +3082,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 8",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2977,8 +3096,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 9",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -2991,8 +3110,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 10",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -3005,8 +3124,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 11",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -3019,8 +3138,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 12",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -3033,8 +3152,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 13",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -3047,8 +3166,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 14",
-                "time": "07:26",
-                "time_visible": "07:26",
+                "time": "10:23",
+                "time_visible": "10:23",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -5145,6 +5264,13 @@
                         "channel_href": "/watch.php?id=353",
                         "channel_title": "ITV 4 UK",
                         "data_ch": "itv 4 uk"
+                    },
+                    {
+                        "channel_name": "Event SD Steam",
+                        "channel_id": "76",
+                        "channel_href": "/watch.php?id=76",
+                        "channel_title": "Event SD Steam",
+                        "data_ch": "event sd steam"
                     },
                     {
                         "channel_name": "TNT Sports 3 UK",
