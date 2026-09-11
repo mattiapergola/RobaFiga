@@ -467,6 +467,34 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddef\ud83c\uddf5 Japan J.League : Vissel Kobe \ud83c\uddef\ud83c\uddf5 vs Kashima Antlers \ud83c\uddef\ud83c\uddf5",
+                "time": "10:00",
+                "time_visible": "10:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68",
+                        "channel_href": "/watch.php?id=68",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddef\ud83c\uddf5 Japan J.League : Kyoto Sanga \ud83c\uddef\ud83c\uddf5 vs Kashiwa Reysol \ud83c\uddef\ud83c\uddf5",
+                "time": "10:00",
+                "time_visible": "10:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69",
+                        "channel_href": "/watch.php?id=69",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "Indonesia - Super League : Dewa United vs Bhayangkara",
                 "time": "12:00",
                 "time_visible": "12:00",
@@ -4012,8 +4040,8 @@
         "Tennis US OPEN Court \ud83c\udfdf\ufe0f \ud83c\udfbe": [
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
-                "time": "07:49",
-                "time_visible": "07:49",
+                "time": "11:54",
+                "time_visible": "11:54",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -4033,8 +4061,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
-                "time": "07:49",
-                "time_visible": "07:49",
+                "time": "11:54",
+                "time_visible": "11:54",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -4061,8 +4089,8 @@
             },
             {
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
-                "time": "07:49",
-                "time_visible": "07:49",
+                "time": "11:54",
+                "time_visible": "11:54",
                 "channels": [
                     {
                         "channel_name": "Live Feed",
@@ -5681,6 +5709,13 @@
                         "channel_href": "/watch.php?id=60",
                         "channel_title": "Sky Sports F1 UK",
                         "data_ch": "sky sports f1 uk"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77",
+                        "channel_href": "/watch.php?id=77",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "Sky Sport F1 DE",
@@ -7714,6 +7749,13 @@
                         "data_ch": "tnt sports 1 uk"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55",
+                        "channel_href": "/watch.php?id=55",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "FOX Sports 2 USA",
                         "channel_id": "758",
                         "channel_href": "/watch.php?id=758",
@@ -8270,6 +8312,20 @@
                 ]
             },
             {
+                "event": "\ud83c\udfc0 \ud83c\uddf8\ud83c\udde6 Basketball Asian Cup : Saudi Arabia \ud83c\uddf8\ud83c\udde6 vs Japan \ud83c\uddef\ud83c\uddf5",
+                "time": "10:00",
+                "time_visible": "10:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59",
+                        "channel_href": "/watch.php?id=59",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "3x3 Europe Cup - Tag 1 3x3 Basketball Europe Cup",
                 "time": "11:20",
                 "time_visible": "11:20",
@@ -8760,6 +8816,20 @@
             }
         ],
         "Darts \ud83c\udfaf": [
+            {
+                "event": "\ud83c\udfaf Darts European Tour 13 : Flanders Darts Trophy",
+                "time": "11:30",
+                "time_visible": "11:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76",
+                        "channel_href": "/watch.php?id=76",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
             {
                 "event": "PDC Darts Flanders Darts Trophy - Antwerp Expo Antwerp",
                 "time": "11:00",
