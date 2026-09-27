@@ -26,8 +26,8 @@
         "20th Asian Games Aichi-Nagoya 2026": [
             {
                 "event": "Asian Games Aichi-Nagoya Stream 1",
-                "time": "13:58",
-                "time_visible": "13:58",
+                "time": "14:59",
+                "time_visible": "14:59",
                 "channels": [
                     {
                         "channel_name": "Astro 1  Astro 1",
@@ -47,8 +47,8 @@
             },
             {
                 "event": "Asian Games Aichi-Nagoya Stream 2",
-                "time": "13:58",
-                "time_visible": "13:58",
+                "time": "14:59",
+                "time_visible": "14:59",
                 "channels": [
                     {
                         "channel_name": "Astro  2 Astro 2",
@@ -68,8 +68,8 @@
             },
             {
                 "event": "Asian Games Aichi-Nagoya Stream 3",
-                "time": "13:58",
-                "time_visible": "13:58",
+                "time": "14:59",
+                "time_visible": "14:59",
                 "channels": [
                     {
                         "channel_name": "Astro  3 Astro 3",
@@ -89,8 +89,8 @@
             },
             {
                 "event": "Asian Games Aichi-Nagoya Stream 4",
-                "time": "13:58",
-                "time_visible": "13:58",
+                "time": "14:59",
+                "time_visible": "14:59",
                 "channels": [
                     {
                         "channel_name": "Astro  4 Astro 4",
@@ -110,8 +110,8 @@
             },
             {
                 "event": "Asian Games Aichi-Nagoya Stream 5",
-                "time": "13:58",
-                "time_visible": "13:58",
+                "time": "14:59",
+                "time_visible": "14:59",
                 "channels": [
                     {
                         "channel_name": "Astro  5 Astro 5",
@@ -9403,6 +9403,13 @@
                         "channel_href": "/watch.php?id=703",
                         "channel_title": "TV4 Sport Live 1 Sweden",
                         "data_ch": "tv4 sport live 1 sweden"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217",
+                        "channel_href": "/watch.php?id=1217",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -9417,6 +9424,13 @@
                         "channel_href": "/watch.php?id=700",
                         "channel_title": "TV4 Hockey Sweden",
                         "data_ch": "tv4 hockey sweden"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218",
+                        "channel_href": "/watch.php?id=1218",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
