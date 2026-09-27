@@ -29,7 +29,7 @@ M3U8_OUTPUT_FILE = "itaevents.m3u8"
 LOGO = "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png"
 SKYSTR = "help"
 GUARCAL = "online"
-DADDY= "st"
+DADDY= "sx"
 
 # Add a cache for logos to avoid repeated requests
 LOGO_CACHE = {}
@@ -377,10 +377,10 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
     # Verifica se è un canale Tennis Stream
     if channel_name and "Tennis Stream" in channel_name:
         print(f"Canale Tennis Stream rilevato, utilizzo link fisso per: {event_name}")
-        return "https://dlhd.pk/watch.php?id=576"
+        return "https://dlive.sx/watch.php?id=576"
     
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://dlhd.pk/watch.php?id={dlhd_id}"
+    return f"https://dlive.sx/watch.php?id={dlhd_id}"
 
     # Verifica se è un canale tennis
     is_tennis_channel = "tennis" in event_name.lower() or "atp" in event_name.lower() or "wta" in event_name.lower()
@@ -388,14 +388,14 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
     try:
         # Semplice richiesta all'URL senza elaborazione complessa
         response = requests.get(
-            f"https://dlhd.pk/watch.php?id={dlhd_id}",
+            f"https://dlive.sx/watch.php?id={dlhd_id}",
             headers=headers,
             timeout=10
         )
         response.raise_for_status()
         
         # Restituisci direttamente l'URL
-        return f"https://dlhd.pk/watch.php?id={dlhd_id}"
+        return f"https://dlive.sx/watch.php?id={dlhd_id}"
         
     except requests.exceptions.RequestException as e:
         # Se è un canale tennis con errore 404, restituisci l'URL placeholder
@@ -418,7 +418,7 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
         try:
             # Use timeout for all requests
             response = requests.get(
-                f"https://dlhd.pk/watch.php?id={dlhd_id}",
+                f"https://dlive.sx/watch.php?id={dlhd_id}",
                 headers=headers,
                 timeout=base_timeout
             )
