@@ -26,8 +26,8 @@
         "20th Asian Games Aichi-Nagoya 2026": [
             {
                 "event": "Asian Games Aichi-Nagoya Stream 1",
-                "time": "12:31",
-                "time_visible": "12:31",
+                "time": "13:58",
+                "time_visible": "13:58",
                 "channels": [
                     {
                         "channel_name": "Astro 1  Astro 1",
@@ -47,8 +47,8 @@
             },
             {
                 "event": "Asian Games Aichi-Nagoya Stream 2",
-                "time": "12:31",
-                "time_visible": "12:31",
+                "time": "13:58",
+                "time_visible": "13:58",
                 "channels": [
                     {
                         "channel_name": "Astro  2 Astro 2",
@@ -68,8 +68,8 @@
             },
             {
                 "event": "Asian Games Aichi-Nagoya Stream 3",
-                "time": "12:31",
-                "time_visible": "12:31",
+                "time": "13:58",
+                "time_visible": "13:58",
                 "channels": [
                     {
                         "channel_name": "Astro  3 Astro 3",
@@ -89,8 +89,8 @@
             },
             {
                 "event": "Asian Games Aichi-Nagoya Stream 4",
-                "time": "12:31",
-                "time_visible": "12:31",
+                "time": "13:58",
+                "time_visible": "13:58",
                 "channels": [
                     {
                         "channel_name": "Astro  4 Astro 4",
@@ -110,8 +110,8 @@
             },
             {
                 "event": "Asian Games Aichi-Nagoya Stream 5",
-                "time": "12:31",
-                "time_visible": "12:31",
+                "time": "13:58",
+                "time_visible": "13:58",
                 "channels": [
                     {
                         "channel_name": "Astro  5 Astro 5",
@@ -1312,6 +1312,20 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddfe Uruguay Liga AUF : Central Espa\u00f1ol \ud83c\uddfa\ud83c\uddfe vs Liverpool Montevideo \ud83c\uddfa\ud83c\uddfe",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210",
+                        "channel_href": "/watch.php?id=1210",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : Crici\u00fama \ud83c\udde7\ud83c\uddf7 vs Ava\u00ed \ud83c\udde7\ud83c\uddf7",
                 "time": "14:00",
                 "time_visible": "14:00",
@@ -1322,6 +1336,13 @@
                         "channel_href": "/watch.php?id=81",
                         "channel_title": "ESPN Brazil",
                         "data_ch": "espn brazil"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211",
+                        "channel_href": "/watch.php?id=1211",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -1336,6 +1357,55 @@
                         "channel_href": "/watch.php?id=445",
                         "channel_title": "DAZN1 Spain",
                         "data_ch": "dazn1 spain"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212",
+                        "channel_href": "/watch.php?id=1212",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Karlstad \ud83c\uddf8\ud83c\uddea vs Karlbergs \ud83c\uddf8\ud83c\uddea",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213",
+                        "channel_href": "/watch.php?id=1213",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Gefle \ud83c\uddf8\ud83c\uddea vs Vasalund \ud83c\uddf8\ud83c\uddea",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214",
+                        "channel_href": "/watch.php?id=1214",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Assyriska FF \ud83c\uddf8\ud83c\uddea vs Pitea \ud83c\uddf8\ud83c\uddea",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215",
+                        "channel_href": "/watch.php?id=1215",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -1350,6 +1420,13 @@
                         "channel_href": "/watch.php?id=539",
                         "channel_title": "LALIGA TV Hypermotion",
                         "data_ch": "laliga tv hypermotion"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216",
+                        "channel_href": "/watch.php?id=1216",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "ESPN Deportes",
@@ -9773,6 +9850,13 @@
                         "channel_href": "/watch.php?id=350",
                         "channel_title": "ITV 1 UK",
                         "data_ch": "itv 1 uk"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209",
+                        "channel_href": "/watch.php?id=1209",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "Sky Sport 6 NZ",
