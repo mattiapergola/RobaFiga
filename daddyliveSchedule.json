@@ -1050,6 +1050,20 @@
         ],
         "All Soccer Events \u26bd": [
             {
+                "event": "\u26bd \ud83c\udded\ud83c\uddf0 ASEAN Championship : Hong Kong \ud83c\udded\ud83c\uddf0 vs Brunei \ud83c\udde7\ud83c\uddf3",
+                "time": "12:00",
+                "time_visible": "12:00",
+                "channels": [
+                    {
+                        "channel_name": "Sevent SD Stream",
+                        "channel_id": "1201",
+                        "channel_href": "/watch.php?id=1201",
+                        "channel_title": "Sevent SD Stream",
+                        "data_ch": "sevent sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\uddf2\ud83c\udde6 U-20 Africa Cup of Nations : Morocco U20 \ud83c\uddf2\ud83c\udde6 vs Algeria U20 \ud83c\udde9\ud83c\uddff",
                 "time": "13:00",
                 "time_visible": "13:00",
@@ -1060,6 +1074,34 @@
                         "channel_href": "/watch.php?id=55",
                         "channel_title": "TV 6 Algeria",
                         "data_ch": "tv 6 algeria"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 UEFA Europa Cup Women : Farul Constanta W \ud83c\uddf7\ud83c\uddf4 vs Sparta Prague W \ud83c\udde8\ud83c\uddff",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Sevent SD Stream",
+                        "channel_id": "1202",
+                        "channel_href": "/watch.php?id=1202",
+                        "channel_title": "Sevent SD Stream",
+                        "data_ch": "sevent sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff UEFA Europa Cup Women : Aktobe W \ud83c\uddf0\ud83c\uddff vs Ajax W \ud83c\uddf3\ud83c\uddf1",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Sevent SD Stream",
+                        "channel_id": "1203",
+                        "channel_href": "/watch.php?id=1203",
+                        "channel_title": "Sevent SD Stream",
+                        "data_ch": "sevent sd stream"
                     }
                 ]
             },
@@ -4352,8 +4394,8 @@
         "Snooker \ud83c\udfb1": [
             {
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 1",
-                "time": "08:07",
-                "time_visible": "08:07",
+                "time": "11:40",
+                "time_visible": "11:40",
                 "channels": [
                     {
                         "channel_name": "Sevent SD Stream",
@@ -4366,8 +4408,8 @@
             },
             {
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 2",
-                "time": "08:07",
-                "time_visible": "08:07",
+                "time": "11:40",
+                "time_visible": "11:40",
                 "channels": [
                     {
                         "channel_name": "Sevent SD Stream",
@@ -4380,8 +4422,8 @@
             },
             {
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 3",
-                "time": "08:07",
-                "time_visible": "08:07",
+                "time": "11:40",
+                "time_visible": "11:40",
                 "channels": [
                     {
                         "channel_name": "Sevent SD Stream",
@@ -4394,8 +4436,8 @@
             },
             {
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 4",
-                "time": "08:07",
-                "time_visible": "08:07",
+                "time": "11:40",
+                "time_visible": "11:40",
                 "channels": [
                     {
                         "channel_name": "Sevent SD Stream",
