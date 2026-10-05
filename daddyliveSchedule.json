@@ -921,6 +921,13 @@
                         "data_ch": "fox sports 2 usa"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206",
+                        "channel_href": "/watch.php?id=1206",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49",
                         "channel_href": "/watch.php?id=49",
@@ -1054,6 +1061,13 @@
                         "data_ch": "rai 2 it"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208",
+                        "channel_href": "/watch.php?id=1208",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "4101",
                         "channel_href": "/watch.php?id=4101",
@@ -1087,6 +1101,27 @@
                         "channel_href": "/watch.php?id=572",
                         "channel_title": "V Sport Premium",
                         "data_ch": "v sport premium"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207",
+                        "channel_href": "/watch.php?id=1207",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway OBOS-ligaen : Moss \ud83c\uddf3\ud83c\uddf4 vs Kongsvinger \ud83c\uddf3\ud83c\uddf4",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209",
+                        "channel_href": "/watch.php?id=1209",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -1101,6 +1136,13 @@
                         "channel_href": "/watch.php?id=539",
                         "channel_title": "LALIGA TV Hypermotion",
                         "data_ch": "laliga tv hypermotion"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210",
+                        "channel_href": "/watch.php?id=1210",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "DAZN Eleven 1 Portugal",
@@ -2052,6 +2094,20 @@
         ],
         "Friendly Soccer \u26bd": [
             {
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddfc Friendly Match : Rwanda \ud83c\uddf7\ud83c\uddfc vs Kenya \ud83c\uddf0\ud83c\uddea",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203",
+                        "channel_href": "/watch.php?id=1203",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd Friendly : Serbia U21 \ud83c\uddf7\ud83c\uddf8 vs Russia U21 \ud83c\uddf7\ud83c\uddfa",
                 "time": "16:00",
                 "time_visible": "16:00",
@@ -2069,6 +2125,13 @@
                         "channel_href": "/watch.php?id=135",
                         "channel_title": "Arena 2 Premium Serbia",
                         "data_ch": "arena 2 premium serbia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204",
+                        "channel_href": "/watch.php?id=1204",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -3986,6 +4049,13 @@
                         "channel_href": "/watch.php?id=1010",
                         "channel_title": "beIN SPORTS 5 Turkey",
                         "data_ch": "bein sports 5 turkey"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205",
+                        "channel_href": "/watch.php?id=1205",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "Arena 3 Premium Serbia",
