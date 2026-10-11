@@ -273,13 +273,53 @@ def extract_user_agent():
     return "VAVOO/2.6"
 
 
-def fetch_channels():
-    """Scarica i canali dal catalogo Vavoo."""
-    catalog_url = "https://vavoo.to/mediahubmx-catalog.json"
+def get_vavoo_signature():
+    """Ottiene la firma necessaria per il catalogo Vavoo."""
+    ping_url = "https://www.vavoo.tv/api/box/ping2"
 
     headers = {
-        "User-Agent": "VAVOO/2.6",
-        "Accept": "application/json",
+        "User-Agent": "MediaHubMX/2",
+        "Accept": "*/*"
+    }
+
+    try:
+        response = requests.get(ping_url, headers=headers, timeout=15)
+        response.raise_for_status()
+
+        try:
+            data = response.json()
+
+            for key in ("addonSig", "signature", "token", "sig"):
+                if data.get(key):
+                    return data[key]
+
+        except ValueError:
+            pass
+
+        return response.text.strip()
+
+    except requests.RequestException as e:
+        print(f"Errore durante l'autenticazione Vavoo: {e}")
+        return None
+
+
+def fetch_channels():
+    """Scarica i canali dal catalogo Vavoo tramite POST."""
+    catalog_url = "https://vavoo.to/mediahubmx-catalog.json"
+
+    signature = get_vavoo_signature()
+
+    if not signature:
+        print("Impossibile ottenere la firma Vavoo.")
+        return []
+
+    headers = {
+        "Content-Type": "application/json; charset=utf-8",
+        "mediahubmx-signature": signature,
+        "User-Agent": "MediaHubMX/2",
+        "Accept": "*/*",
+        "Accept-Language": "it-IT,it;q=0.9",
+        "Accept-Encoding": "gzip, deflate",
         "Referer": "https://vavoo.to/"
     }
 
@@ -288,16 +328,24 @@ def fetch_channels():
 
     try:
         while True:
-            params = {}
+            payload = {
+                "language": "it",
+                "region": "Italy",
+                "catalogId": "iptv",
+                "id": "iptv",
+                "adult": False,
+                "search": "",
+                "sort": "",
+                "filter": {},
+                "cursor": cursor,
+                "clientVersion": "3.0.2"
+            }
 
-            if cursor:
-                params["cursor"] = cursor
-
-            response = requests.get(
+            response = requests.post(
                 catalog_url,
                 headers=headers,
-                params=params,
-                timeout=15
+                json=payload,
+                timeout=20
             )
             response.raise_for_status()
 
@@ -324,7 +372,6 @@ def fetch_channels():
     except ValueError as e:
         print(f"Errore nella risposta JSON: {e}")
         return []
-
 
 def filter_channels(channels):
     """Filtra i canali secondo CHANNEL_FILTERS e CHANNEL_REMOVE."""
