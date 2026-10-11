@@ -253,7 +253,7 @@ def extract_user_agent():
 def fetch_channels():
     """Scarica i dati JSON dai canali di Vavoo."""
     try:
-        response = requests.get(f"{BASE_URL}/channels", timeout=10)
+        response = requests.get(f"{BASE_URL}/#/channels", timeout=10)
         response.raise_for_status()
         return response.json()
     except requests.RequestException as e:
