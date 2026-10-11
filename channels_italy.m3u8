@@ -1,13 +1,2 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mich-de/vavoo-player/master/epg.xml"
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24556102030a38fc13c387
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22903950460d6b257bf610
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3590183307ca309aa6be37
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3475299702c52e31a7073f
+#EXTM3U url-tvg="https://github.com/mattiapergola/RobaFiga/raw/refs/heads/main/epg.xml"
+
