@@ -34,12 +34,13 @@ SPECIAL_CHANNEL_MAPPING = {
     "rsila1": "la1",
     "rsila2": "la2"
 }
+
 CATEGORY_KEYWORDS = {
-    "Sport": ["sport", "dazn", "eurosport", "sky sport", "rai sport", "sport", "dazn", "tennis", "moto", "f1", "golf", "sportitalia", "sport italia", "solo calcio", "solocalcio"],
+    "Sport": ["sport", "dazn", "eurosport", "sky sport", "rai sport", "tennis", "moto", "f1", "golf", "sportitalia", "sport italia", "solo calcio", "solocalcio"],
     "Film": ["primafila", "cinema", "movie", "film", "serie", "hbo", "fox"],
     "Notizie": ["news", "tg", "rai news", "sky tg", "tgcom"],
     "Intrattenimento": ["rai", "mediaset", "italia", "focus", "real time"],
-    "Bambini": ["cartoon", "boing", "nick", "disney", "baby", "boing", "cartoon", "k2", "discovery k2", "nick", "super", "frisbee"],
+    "Bambini": ["cartoon", "boing", "nick", "disney", "baby", "k2", "super", "frisbee"],
     "Documentari": ["discovery", "geo", "history", "nat geo", "nature", "arte", "documentary"],
     "Musica": ["mtv", "vh1", "radio", "music"]
 }
@@ -230,35 +231,100 @@ CHANNEL_LOGOS = {
     "comedy central": "https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj"
 }
 
+
 def clean_channel_name(name):
     """Pulisce e modifica il nome del canale aggiungendo (V)."""
     name = re.sub(r"\s*(\|E|\|H|\(6\)|\(7\)|\.c|\.s)\s*", "", name)
     return f"{name} (V)"
 
+
 def normalize_tvg_id(name):
     """Normalizza il tvg-id con solo la prima lettera maiuscola."""
     return " ".join(word.capitalize() for word in name.replace("(V)", "").strip().split())
 
+
 def assign_category(name):
     """Assegna la categoria in base ai due dizionari."""
     name_lower = name.lower()
-    category1 = next((category for category, keywords in CATEGORY_KEYWORDS.items() if any(keyword in name_lower for keyword in keywords)), "")
-    category2 = next((category for category, keywords in CATEGORY_KEYWORDS2.items() if any(keyword in name_lower for keyword in keywords)), "")
+
+    category1 = next(
+        (
+            category
+            for category, keywords in CATEGORY_KEYWORDS.items()
+            if any(keyword in name_lower for keyword in keywords)
+        ),
+        ""
+    )
+
+    category2 = next(
+        (
+            category
+            for category, keywords in CATEGORY_KEYWORDS2.items()
+            if any(keyword in name_lower for keyword in keywords)
+        ),
+        ""
+    )
+
     categories = ";".join(filter(None, [category1, category2]))
     return categories if categories else "Altro"
+
 
 def extract_user_agent():
     return "VAVOO/2.6"
 
+
 def fetch_channels():
-    """Scarica i dati JSON dai canali di Vavoo."""
+    """Scarica i canali dal catalogo Vavoo."""
+    catalog_url = "https://vavoo.to/mediahubmx-catalog.json"
+
+    headers = {
+        "User-Agent": "VAVOO/2.6",
+        "Accept": "application/json",
+        "Referer": "https://vavoo.to/"
+    }
+
+    channels = []
+    cursor = None
+
     try:
-        response = requests.get(f"{BASE_URL}/#/channels", timeout=10)
-        response.raise_for_status()
-        return response.json()
+        while True:
+            params = {}
+
+            if cursor:
+                params["cursor"] = cursor
+
+            response = requests.get(
+                catalog_url,
+                headers=headers,
+                params=params,
+                timeout=15
+            )
+            response.raise_for_status()
+
+            data = response.json()
+
+            items = data.get("items", [])
+
+            if not isinstance(items, list):
+                break
+
+            channels.extend(items)
+
+            cursor = data.get("nextCursor")
+
+            if not cursor:
+                break
+
+        return channels
+
     except requests.RequestException as e:
         print(f"Errore durante il download: {e}")
         return []
+
+    except ValueError as e:
+        print(f"Errore nella risposta JSON: {e}")
+        return []
+
 
 def filter_channels(channels):
     """Filtra i canali secondo CHANNEL_FILTERS e CHANNEL_REMOVE."""
@@ -266,23 +332,59 @@ def filter_channels(channels):
     seen = {}
 
     for ch in channels:
-        if ch.get("country") == "Italy":
-            original_name = ch["name"].lower()
-            if any(f in original_name for f in CHANNEL_REMOVE):
-                continue
-            if not any(f in original_name for f in CHANNEL_FILTERS):
-                continue
+        if not isinstance(ch, dict):
+            continue
 
-            clean_name = clean_channel_name(ch["name"])
-            category = assign_category(clean_name)
-            count = seen.get(clean_name, 0) + 1
-            seen[clean_name] = count
-            if count > 1:
-                clean_name = f"{clean_name} ({count})"
+        original_name = str(
+            ch.get("name")
+            or ch.get("title")
+            or ch.get("channel_name")
+            or ""
+        ).strip()
 
-            results.append((clean_name, f"{BASE_URL}/play/{ch['id']}/index.m3u8", category))
+        channel_id = (
+            ch.get("id")
+            or ch.get("channel_id")
+            or ch.get("pk_id")
+        )
+
+        if not original_name or not channel_id:
+            continue
+
+        country = str(ch.get("country", "Italy")).strip()
+
+        if country.lower() != "italy":
+            continue
+
+        original_name_lower = original_name.lower()
+
+        if any(remove_word in original_name_lower for remove_word in CHANNEL_REMOVE):
+            continue
+
+        if not any(filter_word in original_name_lower for filter_word in CHANNEL_FILTERS):
+            continue
+
+        clean_name = clean_channel_name(original_name)
+        category = assign_category(clean_name)
+
+        base_name = normalize_tvg_id(clean_name)
+
+        count = seen.get(base_name, 0) + 1
+        seen[base_name] = count
+
+        if count > 1:
+            clean_name = f"{clean_name} ({count})"
+
+        results.append(
+            (
+                clean_name,
+                f"{BASE_URL}/play/{channel_id}/index.m3u8",
+                category
+            )
+        )
 
     return results
+
 
 def save_m3u8(channels):
     """Salva i canali in un file M3U8."""
@@ -290,31 +392,57 @@ def save_m3u8(channels):
         os.remove(OUTPUT_FILE)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(f'#EXTM3U url-tvg="https://github.com/{USREPG}/{BRANCHEPG}/raw/refs/heads/main/epg.xml"\n\n')
+        f.write(
+            f'#EXTM3U url-tvg="https://github.com/{USREPG}/{BRANCHEPG}/'
+            f'raw/refs/heads/main/epg.xml"\n\n'
+        )
+
         user_agent = extract_user_agent()
 
         for name, url, category in channels:
             tvg_id = normalize_tvg_id(name)
-            tvg_id_clean = re.sub(r"\s*\(\d+\)$", "", tvg_id)  # Rimuove numeri tra parentesi solo per tvg-id
-            base_tvg_id = tvg_id.lower()  # Questo serve per cercare il logo nel dizionario
+            tvg_id_clean = re.sub(r"\s*\(\d+\)$", "", tvg_id)
+
+            base_tvg_id = tvg_id_clean.lower()
 
             logo = CHANNEL_LOGOS.get(base_tvg_id, "")
 
-            # Gestione speciale per canali specifici
-            tvg_id_modified = tvg_id_clean.lower().replace(" ", "").replace("[liveduringeventsonly]", "").replace("(backup)", "")
+            tvg_id_modified = (
+                tvg_id_clean.lower()
+                .replace(" ", "")
+                .replace("[liveduringeventsonly]", "")
+                .replace("(backup)", "")
+            )
 
-            # Mappatura speciale per canali specifici
             if tvg_id_modified in SPECIAL_CHANNEL_MAPPING:
-               tvg_id_modified = SPECIAL_CHANNEL_MAPPING[tvg_id_modified]
+                tvg_id_modified = SPECIAL_CHANNEL_MAPPING[tvg_id_modified]
 
-            f.write(f'#EXTINF:-1 tvg-id="{tvg_id_modified}.it" tvg-name="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n')
+            f.write(
+                f'#EXTINF:-1 tvg-id="{tvg_id_modified}.it" '
+                f'tvg-name="{tvg_id}" '
+                f'tvg-logo="{logo}" '
+                f'group-title="{category}",'
+                f'{name}\n'
+            )
+
             f.write(f"{PROXY}{url}{HEADER}\n\n")
+
 
 def main():
     channels = fetch_channels()
     filtered_channels = filter_channels(channels)
+
+    if not filtered_channels:
+        print("Nessun canale valido trovato.")
+        return
+
     save_m3u8(filtered_channels)
-    print(f"File {OUTPUT_FILE} creato con successo!")
+
+    print(
+        f"File {OUTPUT_FILE} creato con successo! "
+        f"Canali inclusi: {len(filtered_channels)}"
+    )
+
 
 if __name__ == "__main__":
     main()
