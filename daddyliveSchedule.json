@@ -522,6 +522,13 @@
                         "data_ch": "bein sports mena 3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210",
+                        "channel_href": "/watch.php?id=1210",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103",
                         "channel_href": "/watch.php?id=103",
@@ -541,6 +548,20 @@
                         "channel_href": "/watch.php?id=2",
                         "channel_title": "RTVS Sport Slovakia",
                         "data_ch": "rtvs sport slovakia"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway OBOS-ligaen : Str\u00f8mmen IF \ud83c\uddf3\ud83c\uddf4 vs \u00c5sane Fotball \ud83c\uddf3\ud83c\uddf4",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209",
+                        "channel_href": "/watch.php?id=1209",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -573,6 +594,20 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddea Kenya Premier League : AFC Leopards \ud83c\uddf0\ud83c\uddea vs Bandari FC \ud83c\uddf0\ud83c\uddea",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207",
+                        "channel_href": "/watch.php?id=1207",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd Russian Cup : Krylya Sovetov \ud83c\uddf7\ud83c\uddfa vs Baltika \ud83c\uddf7\ud83c\uddfa",
                 "time": "13:15",
                 "time_visible": "13:15",
@@ -590,6 +625,13 @@
                         "channel_href": "/watch.php?id=127",
                         "channel_title": "MATCH TV Russia",
                         "data_ch": "match tv russia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206",
+                        "channel_href": "/watch.php?id=1206",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -610,6 +652,13 @@
                         "channel_href": "/watch.php?id=468",
                         "channel_title": "Nova Sport Bulgaria",
                         "data_ch": "nova sport bulgaria"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205",
+                        "channel_href": "/watch.php?id=1205",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "Sportklub 1 Croatia",
@@ -642,6 +691,20 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff Kazakhstan Premier League : Atyrau \ud83c\uddf0\ud83c\uddff vs Yelimay Semey \ud83c\uddf0\ud83c\uddff",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204",
+                        "channel_href": "/watch.php?id=1204",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd Turkey - 1. Lig : \u00dcmran\u0131yespor \ud83c\uddf9\ud83c\uddf7 vs Boluspor \ud83c\uddf9\ud83c\uddf7",
                 "time": "14:00",
                 "time_visible": "14:00",
@@ -659,6 +722,13 @@
                         "channel_href": "/watch.php?id=63",
                         "channel_title": "beIN Sports 2 Turkey",
                         "data_ch": "bein sports 2 turkey"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203",
+                        "channel_href": "/watch.php?id=1203",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -3505,6 +3575,13 @@
                         "data_ch": "tnt sports 3 uk"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201",
+                        "channel_href": "/watch.php?id=1201",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559",
                         "channel_href": "/watch.php?id=559",
@@ -3650,6 +3727,13 @@
                         "channel_href": "/watch.php?id=718",
                         "channel_title": "Porto Canal Portugal",
                         "data_ch": "porto canal portugal"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202",
+                        "channel_href": "/watch.php?id=1202",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones",
@@ -5385,8 +5469,8 @@
         "Tennis \ud83c\udfbe WTA - Doubles: Wuhan (China)": [
             {
                 "event": "Cancelled \ud83c\udfbe WTA - Doubles: \ud83c\uddec\ud83c\uddf7 Maria Sakkari / \ud83c\udded\ud83c\uddf7 Donna Veki\u0107 vs \ud83c\uddef\ud83c\uddf5 Shuko Aoyama / \ud83c\udde8\ud83c\uddf3 Eudice Chong Liang",
-                "time": "07:27",
-                "time_visible": "07:27",
+                "time": "12:36",
+                "time_visible": "12:36",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
@@ -6255,11 +6339,18 @@
                         "data_ch": "golf channel usa"
                     },
                     {
-                        "channel_name": "SSky Sports Golf UK",
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208",
+                        "channel_href": "/watch.php?id=1208",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
+                        "channel_name": "Sky Sports Golf UK",
                         "channel_id": "70",
                         "channel_href": "/watch.php?id=70",
-                        "channel_title": "SSky Sports Golf UK",
-                        "data_ch": "ssky sports golf uk"
+                        "channel_title": "Sky Sports Golf UK",
+                        "data_ch": "sky sports golf uk"
                     }
                 ]
             }
