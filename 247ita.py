@@ -18,7 +18,7 @@ PROXY2 = f"&redirect_stream=true&max_res=true&api_password={MFPPSW}"
 HEADER = f"&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2F{REFERER}%2F&h_origin=https%3A%2F%2F{ORIGIN}"
 # File e URL statici
 daddyLiveChannelsFileName = '247channels.html'
-daddyLiveChannelsURL = 'https://dlive.sx/24-7-channels.php'
+daddyLiveChannelsURL = 'https://thedaddy.pk/24-7-channels.php'
 
 # Headers per le richieste
 headers = {
@@ -170,7 +170,7 @@ def get_stream_link(dlhd_id, max_retries=3):
     print(f"Getting stream link for channel ID: {dlhd_id}...")
     
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://dlive.sx/watch.php?id={dlhd_id}"
+    return f"https://thedaddy.pk/watch.php?id={dlhd_id}"
 
 def fetch_with_debug(filename, url):
     try:
