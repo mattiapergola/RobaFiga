@@ -1072,6 +1072,13 @@
                         "data_ch": "diema sport 3 bulgaria"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202",
+                        "channel_href": "/watch.php?id=1202",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA 1",
                         "channel_id": "91",
                         "channel_href": "/watch.php?id=91",
@@ -1112,6 +1119,13 @@
                         "channel_href": "/watch.php?id=468",
                         "channel_title": "Nova Sport Bulgaria",
                         "data_ch": "nova sport bulgaria"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201",
+                        "channel_href": "/watch.php?id=1201",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "beIN Sports MENA 2",
@@ -1161,6 +1175,13 @@
                         "channel_href": "/watch.php?id=1",
                         "channel_title": "Thmanyah",
                         "data_ch": "thmanyah"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203",
+                        "channel_href": "/watch.php?id=1203",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -1175,6 +1196,20 @@
                         "channel_href": "/watch.php?id=377",
                         "channel_title": "MUTV UK",
                         "data_ch": "mutv uk"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Romania Cup : FK Cs\u00edkszereda Miercurea Ciuc \ud83c\uddf7\ud83c\uddf4 vs FC Bihor Oradea \ud83c\uddf7\ud83c\uddf4",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204",
+                        "channel_href": "/watch.php?id=1204",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -1238,6 +1273,13 @@
                         "channel_href": "/watch.php?id=917",
                         "channel_title": "Cytavision Sports 7 Cyprus",
                         "data_ch": "cytavision sports 7 cyprus"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205",
+                        "channel_href": "/watch.php?id=1205",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
