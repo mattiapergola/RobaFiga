@@ -1,5 +1,91 @@
 {
     "Friday 30th Oct 2026": {
+        "\ud83c\udfc1 PPV Events": [
+            {
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 World Short Track Championship : Charlotte Motor Speedway \ud83c\uddfa\ud83c\uddf8",
+                "time": "20:00",
+                "time_visible": "20:00",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "174",
+                        "channel_href": "/watch.php?id=174",
+                        "channel_title": "Dirtvision",
+                        "data_ch": "dirtvision"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 Zenith Racing Series : Daytona \ud83c\uddfa\ud83c\uddf8",
+                "time": "20:30",
+                "time_visible": "20:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "175",
+                        "channel_href": "/watch.php?id=175",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 National 100 : East Alabama Motor Speedway \ud83c\uddfa\ud83c\uddf8",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "176",
+                        "channel_href": "/watch.php?id=176",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 Inaugural Halloween Fest : Portsmouth Raceway Park \ud83c\uddfa\ud83c\uddf8",
+                "time": "22:30",
+                "time_visible": "22:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "105",
+                        "channel_href": "/watch.php?id=105",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 Trick R Treat Nationals : Riverside Speedway \ud83c\uddfa\ud83c\uddf8",
+                "time": "23:30",
+                "time_visible": "23:30",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106",
+                        "channel_href": "/watch.php?id=106",
+                        "channel_title": "Event PPV",
+                        "data_ch": "event ppv"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 Trophy Cup : Tulare Thunderbowl Raceway \ud83c\uddfa\ud83c\uddf8",
+                "time": "00:30",
+                "time_visible": "00:30",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107",
+                        "channel_href": "/watch.php?id=107",
+                        "channel_title": "Floracing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "event": "\ud83c\udfcd\ufe0f\ud83c\uddf2\ud83c\uddfe Grand Prix of Malaysia (MotoGP) | Sepang, Malaysia | 1 November 2026",
@@ -475,6 +561,34 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddf8\ud83c\udde6 Saudi Pro League : Abha \ud83c\uddf8\ud83c\udde6 vs Al Ittihad \ud83c\uddf8\ud83c\udde6",
+                "time": "12:30",
+                "time_visible": "12:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202",
+                        "channel_href": "/watch.php?id=1202",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddfb\ud83c\uddf3 Vietnam V.League 1 : Hanoi FC \ud83c\uddfb\ud83c\uddf3 vs Phu Dong Ninh Binh \ud83c\uddfb\ud83c\uddf3",
+                "time": "12:15",
+                "time_visible": "12:15",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201",
+                        "channel_href": "/watch.php?id=1201",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd Bulgaria - Second League : Rilski sportist \ud83c\udde7\ud83c\uddec vs Vihren Sandanski \ud83c\udde7\ud83c\uddec",
                 "time": "12:15",
                 "time_visible": "12:15",
@@ -580,6 +694,48 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Xorazm Urganch \ud83c\uddfa\ud83c\uddff vs Pakhtakor \ud83c\uddfa\ud83c\uddff",
+                "time": "13:30",
+                "time_visible": "13:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205",
+                        "channel_href": "/watch.php?id=1205",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Sogdiana \ud83c\uddfa\ud83c\uddff vs Buxoro \ud83c\uddfa\ud83c\uddff",
+                "time": "13:30",
+                "time_visible": "13:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206",
+                        "channel_href": "/watch.php?id=1206",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Kokand 1912 \ud83c\uddfa\ud83c\uddff vs Qizilqum \ud83c\uddfa\ud83c\uddff",
+                "time": "13:30",
+                "time_visible": "13:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207",
+                        "channel_href": "/watch.php?id=1207",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd Saudi Arabia - Pro League : Abha \ud83c\uddf8\ud83c\udde6 vs Al Ittihad \ud83c\uddf8\ud83c\udde6",
                 "time": "13:45",
                 "time_visible": "13:45",
@@ -590,6 +746,13 @@
                         "channel_href": "/watch.php?id=2",
                         "channel_title": "Thmanyah",
                         "data_ch": "thmanyah"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201",
+                        "channel_href": "/watch.php?id=1201",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "FOX Deportes",
@@ -632,6 +795,13 @@
                         "channel_href": "/watch.php?id=886",
                         "channel_title": "SONY TEN 2 HD",
                         "data_ch": "sony ten 2 hd"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203",
+                        "channel_href": "/watch.php?id=1203",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -650,6 +820,20 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddf6\ud83c\udde6 Qatar Stars League : Al Shahaniya \ud83c\uddf6\ud83c\udde6 vs Al Ahli SC \ud83c\uddf6\ud83c\udde6",
+                "time": "14:15",
+                "time_visible": "14:15",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208",
+                        "channel_href": "/watch.php?id=1208",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd Azerbaijan - Premier Liqa : Turan-T \ud83c\udde6\ud83c\uddff vs Sabah \ud83c\udde6\ud83c\uddff",
                 "time": "14:30",
                 "time_visible": "14:30",
@@ -660,6 +844,13 @@
                         "channel_href": "/watch.php?id=4",
                         "channel_title": "CBC Sport Azerbaijan",
                         "data_ch": "cbc sport azerbaijan"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213",
+                        "channel_href": "/watch.php?id=1213",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -674,6 +865,13 @@
                         "channel_href": "/watch.php?id=5",
                         "channel_title": "Thmanyah",
                         "data_ch": "thmanyah"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212",
+                        "channel_href": "/watch.php?id=1212",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -688,6 +886,13 @@
                         "channel_href": "/watch.php?id=465",
                         "channel_title": "Diema Sport Bulgaria",
                         "data_ch": "diema sport bulgaria"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214",
+                        "channel_href": "/watch.php?id=1214",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "Sportklub 3 Croatia",
@@ -709,6 +914,48 @@
                         "channel_href": "/watch.php?id=4105",
                         "channel_title": "Event Stream",
                         "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddea\ud83c\uddec Egypt Premier League : Asyut Petroleum \ud83c\uddea\ud83c\uddec vs El Gouna \ud83c\uddea\ud83c\uddec",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209",
+                        "channel_href": "/watch.php?id=1209",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\udde7\ud83c\uddfe Belarusian Premier League : Arsenal Dzerzhinsk \ud83c\udde7\ud83c\uddfe vs BATE Borisov \ud83c\udde7\ud83c\uddfe",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210",
+                        "channel_href": "/watch.php?id=1210",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf2 Armenian Premier League : Pyunik Yerevan \ud83c\udde6\ud83c\uddf2 vs Urartu \ud83c\udde6\ud83c\uddf2",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211",
+                        "channel_href": "/watch.php?id=1211",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -6891,6 +7138,13 @@
                         "channel_href": "/watch.php?id=425",
                         "channel_title": "beIN Sports USA",
                         "data_ch": "bein sports usa"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204",
+                        "channel_href": "/watch.php?id=1204",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "beIN Sports 3 Malaysia",
