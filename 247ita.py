@@ -274,6 +274,85 @@ def add_dazn1_channel():
         print(f"Failed to get stream URL for DAZN 1 channel ID: {channel_id}")
         return 0
 
+def fetch_htsport_homepage(max_retries=3):
+    url = "https://htsport.ws/"
+    print(f"Fetching HTSport homepage: {url}")
+    for attempt in range(1, max_retries + 1):
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, 'html.parser')
+            channels = []
+            for tag in soup.find_all('a', href=True):
+                href = tag['href'].strip()
+                # Only include top-level .htm paths (e.g. "sport24.htm"), not sub-paths
+                if href.endswith('.htm') and href.count('/') == 0:
+                    channel_name = tag.get_text(strip=True)
+                    if channel_name:
+                        channels.append((channel_name, href))
+            print(f"Found {len(channels)} HTSport channels.")
+            return channels
+        except requests.exceptions.RequestException as e:
+            print(f"Attempt {attempt}/{max_retries} failed fetching HTSport homepage: {e}")
+            if attempt < max_retries:
+                time.sleep(2)
+    print("All attempts to fetch HTSport homepage failed.")
+    return []
+
+def extract_htsport_m3u8(channel_path, max_retries=3):
+    url = f"https://htsport.ws/{channel_path}"
+    for attempt in range(1, max_retries + 1):
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, 'html.parser')
+            scripts = soup.find_all('script')
+            # Check first and second script tags (indices 0 and 1) for the stream URL
+            candidates = []
+            if len(scripts) > 0:
+                candidates.append(scripts[0].string or "")
+            if len(scripts) > 1:
+                candidates.append(scripts[1].string or "")
+            for script_content in candidates:
+                if not script_content:
+                    continue
+                match = re.search(r'(https?://[^\s\'"]+\.m3u8[^\s\'"]*)', script_content)
+                if match:
+                    return match.group(1)
+            return None
+        except requests.exceptions.RequestException as e:
+            print(f"Attempt {attempt}/{max_retries} failed fetching {url}: {e}")
+            if attempt < max_retries:
+                time.sleep(2)
+    return None
+
+def generate_m3u8_htsport(channels):
+    if not channels:
+        print("No HTSport channels found. Skipping M3U8 generation.")
+        return 0
+
+    processed = 0
+    htsport_proxy = f"{MFPLINK}/extractor/video?host=HTSport&d="
+
+    with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
+        for channel_name, channel_path in channels:
+            print(f"Processing HTSport channel: {channel_name} ({channel_path})")
+            m3u8_url = extract_htsport_m3u8(channel_path)
+            if m3u8_url:
+                tvicon_path = search_logo(channel_name)
+                tvg_id = search_tvg_id(channel_name)
+                category = search_category(channel_name)
+                if category == "Undefined":
+                    category = "Sport"
+                file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name}\n")
+                file.write(f"{htsport_proxy}{m3u8_url}{PROXY2}\n\n")
+                processed += 1
+                print(f"Added HTSport channel: {channel_name} - Total HTSport: {processed}")
+            else:
+                print(f"Could not extract M3U8 for HTSport channel: {channel_name}. Skipping.")
+
+    return processed
+
 # Rimuovi il file esistente per garantirne la rigenerazione
 if os.path.exists(M3U8_OUTPUT_FILE):
     os.remove(M3U8_OUTPUT_FILE)
@@ -287,3 +366,9 @@ total_247_channels = generate_m3u8_247(matches_247)
 dazn_added = add_dazn1_channel()
 
 print(f"Script completato. Canali 24/7 aggiunti: {total_247_channels}, DAZN 1 aggiunto: {dazn_added}")
+
+# Fetch e generazione M3U8 per i canali HTSport
+htsport_channels = fetch_htsport_homepage()
+total_htsport_channels = generate_m3u8_htsport(htsport_channels)
+
+print(f"HTSport canali aggiunti: {total_htsport_channels}")
