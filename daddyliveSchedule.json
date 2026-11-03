@@ -957,6 +957,20 @@
                 ]
             },
             {
+                "event": "\u26bd Tanzania Ligi Kuu Bara : Mbeya City \ud83c\uddf9\ud83c\uddff vs Singida Black Stars \ud83c\uddf9\ud83c\uddff",
+                "time": "13:00",
+                "time_visible": "13:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201",
+                        "channel_href": "/watch.php?id=1201",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd Croatia - Nogometni Cup : Mladost \u017ddralovi \ud83c\udded\ud83c\uddf7 vs Slaven Koprivnica \ud83c\udded\ud83c\uddf7",
                 "time": "13:00",
                 "time_visible": "13:00",
@@ -967,6 +981,13 @@
                         "channel_href": "/watch.php?id=430",
                         "channel_title": "Arena Sport 2 Serbia",
                         "data_ch": "arena sport 2 serbia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203",
+                        "channel_href": "/watch.php?id=1203",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -981,6 +1002,13 @@
                         "channel_href": "/watch.php?id=468",
                         "channel_title": "Nova Sport Bulgaria",
                         "data_ch": "nova sport bulgaria"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204",
+                        "channel_href": "/watch.php?id=1204",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "beIN Sports MENA 8",
@@ -3540,6 +3568,13 @@
                         "data_ch": "tnt sports 2 uk"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202",
+                        "channel_href": "/watch.php?id=1202",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "Sky Sport Max IT",
                         "channel_id": "460",
                         "channel_href": "/watch.php?id=460",
@@ -3608,6 +3643,13 @@
                         "channel_href": "/watch.php?id=3",
                         "channel_title": "Movistar Liga de Campeones 2",
                         "data_ch": "movistar liga de campeones 2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206",
+                        "channel_href": "/watch.php?id=1206",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "#Vamos ES",
@@ -3729,6 +3771,13 @@
                         "data_ch": "tnt sports 4 uk"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205",
+                        "channel_href": "/watch.php?id=1205",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones",
                         "channel_id": "435",
                         "channel_href": "/watch.php?id=435",
@@ -3755,6 +3804,34 @@
                         "channel_href": "/watch.php?id=4106",
                         "channel_title": "Event Stream",
                         "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Egypt Premier League : Al Qanah \ud83c\uddea\ud83c\uddec vs Modern Sport \ud83c\uddea\ud83c\uddec",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207",
+                        "channel_href": "/watch.php?id=1207",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Egypt Premier League : Abu Qir Semad \ud83c\uddea\ud83c\uddec vs Ceramica Cleopatra \ud83c\uddea\ud83c\uddec",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208",
+                        "channel_href": "/watch.php?id=1208",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             }
