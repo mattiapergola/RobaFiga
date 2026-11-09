@@ -187,7 +187,7 @@ def extract_guardacalcio_image_links(max_retries=3, retry_delay=5):
     Utilizza Playwright per scaricare i link delle immagini dalla pagina di guardacalcio
     e li salva in un file.
     """
-    url = f"https://vod.direttecommunity.{GUARCAL}/partite-streaming.html"
+    url = f"https://action.direttecommunity.{GUARCAL}/partite-streaming.html"
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
     # File di output per i link delle immagini
@@ -252,7 +252,7 @@ def extract_guardacalcio_image_links(max_retries=3, retry_delay=5):
                             extracted_links.append(src)
                         else:
                             # Costruisci URL assoluto
-                            base_url = f"https://guardacalcio.{GUARCAL}"
+                            base_url = f"https://action.direttecommunity.{GUARCAL}"
                             if src.startswith('/'):
                                 extracted_links.append(base_url + src)
                             else:
