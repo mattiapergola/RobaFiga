@@ -311,7 +311,7 @@ def add_channels_to_m3u(channels, m3u_file):
 
 def main():
     # URL principale da cui iniziare
-    main_url = "https://htsport.org/"
+    main_url = "https://htsport.info/"
     
     # Estrai tutti i link ai canali
     print(f"Estraendo i link dei canali da {main_url}...")
