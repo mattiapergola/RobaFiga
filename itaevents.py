@@ -27,7 +27,7 @@ NUM_CHANNELS = 10000
 DADDY_JSON_FILE = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE = "itaevents.m3u8"
 LOGO = "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png"
-SKYSTR = "help"
+ = "help"
 GUARCAL = "online"
 DADDY= "pk"
 
@@ -232,7 +232,7 @@ def get_dynamic_logo(event_name):
         print(f"Nessun logo trovato su guardacalcio.{GUARCAL}, cercando su skystreaming.{SKYSTR}...")
 
         # Determina l'URL di skystreaming in base al tipo di evento
-        skystreaming_base_url = f"https://skystreaming.{SKYSTR}/"
+        skystreaming_base_url = f""
 
         # Seleziona l'URL appropriato in base al tipo di evento
         if "Italy - Serie A :" in event_name:
