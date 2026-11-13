@@ -54,7 +54,7 @@ def extract_embed_url(channel_url):
 
 def add_channels_to_m3u(channels, m3u_file):
     # scrive da zero, così non restano vecchie voci malformed
-    with open(m3u_file, "w", encoding="utf-8") as f:
+    with open(m3u_file, "a", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         f.write("\n# Canali aggiunti da Hattrick\n")
         for name, url in channels.items():
