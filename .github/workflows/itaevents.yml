@@ -51,7 +51,7 @@ jobs:
         run: |
           python itaevents.py
           python fullita.py
-          python hat.py
+         # python hat.py
 
       - name: Download vavoo playlist from vavoo-player repo
         run: |
