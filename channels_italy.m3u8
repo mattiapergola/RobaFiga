@@ -1,1270 +1,1249 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mich-de/vavoo-player/master/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/epg.xml"
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="None" channel="Rai1.it" group-title="TV Sat",RAI 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai1.it.png" channel="Rai1.it" group-title="TV Sat",RAI 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F875922788
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="None" channel="Rai2.it" group-title="TV Sat",RAI 2
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F246253359
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai2.it.png" channel="Rai2.it" group-title="TV Sat",RAI 2
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1939210164
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="None" channel="Rai3.it" group-title="TV Sat",RAI 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai3.it.png" channel="Rai3.it" group-title="TV Sat",RAI 3
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1324733956
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="None" channel="Rete4.it" group-title="Intrattenimento",RETE 4
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rete4.it.png" channel="Rete4.it" group-title="Intrattenimento",RETE 4
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4198218214
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="None" channel="Rete4.it" group-title="TV Sat",RETE 4
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rete4.it.png" channel="Rete4.it" group-title="TV Sat",RETE 4
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4198218214
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="None" channel="Canale5.it" group-title="Intrattenimento",CANALE 5
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Canale5.it.png" channel="Canale5.it" group-title="Intrattenimento",CANALE 5
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1534161807
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="None" channel="Canale5.it" group-title="TV Sat",CANALE 5
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Canale5.it.png" channel="Canale5.it" group-title="TV Sat",CANALE 5
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1534161807
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="None" channel="Italia1.it" group-title="Intrattenimento",ITALIA 1
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Italia1.it.png" channel="Italia1.it" group-title="Intrattenimento",ITALIA 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F663536394
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="None" channel="Italia1.it" group-title="TV Sat",ITALIA 1
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Italia1.it.png" channel="Italia1.it" group-title="TV Sat",ITALIA 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F663536394
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="None" channel="La7.it" group-title="Intrattenimento",LA7
+#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La7.it.png" channel="La7.it" group-title="Intrattenimento",LA7
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2143522071
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7D.it" tvg-name="LA7D" tvg-logo="None" channel="La7D.it" group-title="Intrattenimento",LA7D
+#EXTINF:-1 tvg-id="La7D.it" tvg-name="LA7D" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La7D.it.png" channel="La7D.it" group-title="Intrattenimento",LA7D
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F881846038
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="None" channel="La7.it" group-title="TV Sat",LA7
+#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La7.it.png" channel="La7.it" group-title="TV Sat",LA7
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2143522071
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7D.it" tvg-name="LA7D" tvg-logo="None" channel="La7D.it" group-title="TV Sat",LA7D
+#EXTINF:-1 tvg-id="La7D.it" tvg-name="LA7D" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La7D.it.png" channel="La7D.it" group-title="TV Sat",LA7D
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F881846038
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" tvg-logo="None" channel="TV8.it" group-title="TV Sat",TV8
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV8.it.png" channel="TV8.it" group-title="TV Sat",TV8
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4038365720
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="None" channel="Nove.it" group-title="Intrattenimento",NOVE
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="Intrattenimento",NOVE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1574591400
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="None" channel="Nove.it" group-title="Intrattenimento",NOVE
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="Intrattenimento",NOVE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F626836488
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="None" channel="Nove.it" group-title="Intrattenimento",NOVE
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="Intrattenimento",NOVE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F867216452
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="None" channel="Nove.it" group-title="TV Sat",NOVE
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="TV Sat",NOVE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1574591400
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="None" channel="Nove.it" group-title="TV Sat",NOVE
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="TV Sat",NOVE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F626836488
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="None" channel="Nove.it" group-title="TV Sat",NOVE
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="TV Sat",NOVE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F867216452
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4" tvg-logo="None" channel="Rai4.it" group-title="TV Sat",RAI 4
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4.it.png" channel="Rai4.it" group-title="TV Sat",RAI 4
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4241820180
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3582607806
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2049087681
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F374675593
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="None" channel="Iris.it" group-title="Cinema",IRIS
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Iris.it.png" channel="Iris.it" group-title="Cinema",IRIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F576490047
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="None" channel="Iris.it" group-title="Cinema",IRIS
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Iris.it.png" channel="Iris.it" group-title="Cinema",IRIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F23919988
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="None" channel="Iris.it" group-title="TV Sat",IRIS
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Iris.it.png" channel="Iris.it" group-title="TV Sat",IRIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F576490047
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="None" channel="Iris.it" group-title="TV Sat",IRIS
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Iris.it.png" channel="Iris.it" group-title="TV Sat",IRIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F23919988
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="None" channel="La5.it" group-title="Cinema",LA5
+#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La5.it.png" channel="La5.it" group-title="Cinema",LA5
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F84139639
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="None" channel="La5.it" group-title="TV Sat",LA5
+#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La5.it.png" channel="La5.it" group-title="TV Sat",LA5
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F84139639
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="RAI 5" tvg-logo="None" channel="Rai5.it" group-title="TV Sat",RAI 5
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai5.it.png" channel="Rai5.it" group-title="TV Sat",RAI 5
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3249873828
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="None" channel="RaiMovie.it" group-title="Cinema",RAI MOVIE
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiMovie.it.png" channel="RaiMovie.it" group-title="Cinema",RAI MOVIE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2835672487
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="None" channel="RaiMovie.it" group-title="TV Sat",RAI MOVIE
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiMovie.it.png" channel="RaiMovie.it" group-title="TV Sat",RAI MOVIE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2835672487
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="None" channel="RaiPremium.it" group-title="Cinema",RAI PREMIUM
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiPremium.it.png" channel="RaiPremium.it" group-title="Cinema",RAI PREMIUM
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2861734300
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="None" channel="RaiPremium.it" group-title="TV Sat",RAI PREMIUM
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiPremium.it.png" channel="RaiPremium.it" group-title="TV Sat",RAI PREMIUM
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2861734300
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="None" channel="MediasetExtra.it" group-title="Intrattenimento",MEDIASET EXTRA
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MediasetExtra.it.png" channel="MediasetExtra.it" group-title="Intrattenimento",MEDIASET EXTRA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F477466531
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="None" channel="MediasetExtra.it" group-title="TV Sat",MEDIASET EXTRA
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MediasetExtra.it.png" channel="MediasetExtra.it" group-title="TV Sat",MEDIASET EXTRA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F477466531
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="None" channel="TV2000.it" group-title="Intrattenimento",TV2000
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV2000.it.png" channel="TV2000.it" group-title="Intrattenimento",TV2000
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1949044924
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="None" channel="TV2000.it" group-title="Intrattenimento",TV2000
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV2000.it.png" channel="TV2000.it" group-title="Intrattenimento",TV2000
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1133734972
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="None" channel="TV2000.it" group-title="TV Sat",TV2000
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV2000.it.png" channel="TV2000.it" group-title="TV Sat",TV2000
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1949044924
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="None" channel="TV2000.it" group-title="TV Sat",TV2000
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV2000.it.png" channel="TV2000.it" group-title="TV Sat",TV2000
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1133734972
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="None" channel="cielo.it" group-title="TV Sat",CIELO
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/cielo.it.png" channel="cielo.it" group-title="TV Sat",CIELO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2719953688
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="None" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset20.it.png" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1230338185
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="None" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset20.it.png" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F633342961
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="None" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset20.it.png" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3134481201
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
+#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2924135092
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
+#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F551730224
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
+#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F843891896
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RAI STORIA" tvg-logo="None" channel="RaiStoria.it" group-title="TV Sat",RAI STORIA
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiStoria.it.png" channel="RaiStoria.it" group-title="TV Sat",RAI STORIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F78838793
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="None" channel="RaiNews.it" group-title="News",RAI NEWS 24
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiNews.it.png" channel="RaiNews.it" group-title="News",RAI NEWS 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2272923972
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="None" channel="RaiNews.it" group-title="TV Sat",RAI NEWS 24
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiNews.it.png" channel="RaiNews.it" group-title="TV Sat",RAI NEWS 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2272923972
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="None" channel="TgCom24.it" group-title="News",TGCOM24
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="News",TGCOM24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1785098768
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="None" channel="TgCom24.it" group-title="News",TGCOM24
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="News",TGCOM24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2418148449
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="None" channel="TgCom24.it" group-title="TV Sat",TGCOM24
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="TV Sat",TGCOM24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1785098768
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="None" channel="TgCom24.it" group-title="TV Sat",TGCOM24
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="TV Sat",TGCOM24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2418148449
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISCOVERY DMAX" tvg-name="DISCOVERY DMAX" tvg-logo="None" channel="DISCOVERY DMAX" group-title="Documentary",DISCOVERY DMAX
+#EXTINF:-1 tvg-id="DISCOVERY DMAX" tvg-name="DISCOVERY DMAX" channel="DISCOVERY DMAX" group-title="Documentary",DISCOVERY DMAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F519469620
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISCOVERY DMAX" tvg-name="DISCOVERY DMAX" tvg-logo="None" channel="DISCOVERY DMAX" group-title="Intrattenimento",DISCOVERY DMAX
+#EXTINF:-1 tvg-id="DISCOVERY DMAX" tvg-name="DISCOVERY DMAX" channel="DISCOVERY DMAX" group-title="Intrattenimento",DISCOVERY DMAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F519469620
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="None" channel="DMAX.it" group-title="Intrattenimento",DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DMAX.it.png" channel="DMAX.it" group-title="Intrattenimento",DMAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3008151733
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISCOVERY DMAX" tvg-name="DISCOVERY DMAX" tvg-logo="None" channel="DISCOVERY DMAX" group-title="TV Sat",DISCOVERY DMAX
+#EXTINF:-1 tvg-id="DISCOVERY DMAX" tvg-name="DISCOVERY DMAX" channel="DISCOVERY DMAX" group-title="TV Sat",DISCOVERY DMAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F519469620
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="None" channel="DMAX.it" group-title="TV Sat",DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DMAX.it.png" channel="DMAX.it" group-title="TV Sat",DMAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3008151733
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="None" channel="Real.Time.it" group-title="Intrattenimento",REAL TIME
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Real.Time.it.png" channel="Real.Time.it" group-title="Intrattenimento",REAL TIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1574975196
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="None" channel="Real.Time.it" group-title="TV Sat",REAL TIME
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Real.Time.it.png" channel="Real.Time.it" group-title="TV Sat",REAL TIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1574975196
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="None" channel="Cine34.it" group-title="Cinema",CINE34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="Cinema",CINE34
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F62558606
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="None" channel="Cine34.it" group-title="Cinema",CINE34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="Cinema",CINE34
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1768670187
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="None" channel="Cine34.it" group-title="TV Sat",CINE34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="TV Sat",CINE34
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F62558606
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="None" channel="Cine34.it" group-title="TV Sat",CINE34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="TV Sat",CINE34
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1768670187
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="None" channel="Focus.it" group-title="Documentary",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="Documentary",FOCUS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2113273064
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="None" channel="Focus.it" group-title="Documentary",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="Documentary",FOCUS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3439223610
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="None" channel="Focus.it" group-title="TV Sat",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="TV Sat",FOCUS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2113273064
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="None" channel="Focus.it" group-title="TV Sat",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="TV Sat",FOCUS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3439223610
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTL1025.it" tvg-name="RTL 102.5" tvg-logo="None" channel="RTL1025.it" group-title="Music",RTL 102.5
+#EXTINF:-1 tvg-id="RTL1025.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RTL1025.it.png" channel="RTL1025.it" group-title="Music",RTL 102.5
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3168132911
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISCOVERY GIALLO" tvg-name="DISCOVERY GIALLO" tvg-logo="None" channel="DISCOVERY GIALLO" group-title="Documentary",DISCOVERY GIALLO
+#EXTINF:-1 tvg-id="DISCOVERY GIALLO" tvg-name="DISCOVERY GIALLO" channel="DISCOVERY GIALLO" group-title="Documentary",DISCOVERY GIALLO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4257908524
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISCOVERY GIALLO" tvg-name="DISCOVERY GIALLO" tvg-logo="None" channel="DISCOVERY GIALLO" group-title="Intrattenimento",DISCOVERY GIALLO
+#EXTINF:-1 tvg-id="DISCOVERY GIALLO" tvg-name="DISCOVERY GIALLO" channel="DISCOVERY GIALLO" group-title="Intrattenimento",DISCOVERY GIALLO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4257908524
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="None" channel="Giallo.TV.it" group-title="Intrattenimento",GIALLO
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="GIALLO" channel="Giallo.TV.it" group-title="Intrattenimento",GIALLO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2373936189
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISCOVERY GIALLO" tvg-name="DISCOVERY GIALLO" tvg-logo="None" channel="DISCOVERY GIALLO" group-title="TV Sat",DISCOVERY GIALLO
+#EXTINF:-1 tvg-id="DISCOVERY GIALLO" tvg-name="DISCOVERY GIALLO" channel="DISCOVERY GIALLO" group-title="TV Sat",DISCOVERY GIALLO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4257908524
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="None" channel="Giallo.TV.it" group-title="TV Sat",GIALLO
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="GIALLO" channel="Giallo.TV.it" group-title="TV Sat",GIALLO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2373936189
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="None" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TOPcrime.it.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F444768053
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="None" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TOPcrime.it.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F354961873
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="None" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TOPcrime.it.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F269503091
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="None" channel="Boing.it" group-title="Kids",BOING
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="Kids",BOING
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3373510242
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="None" channel="Boing.it" group-title="Kids",BOING
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="Kids",BOING
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3841982646
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="None" channel="Boing.it" group-title="TV Sat",BOING
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="TV Sat",BOING
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3373510242
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="None" channel="Boing.it" group-title="TV Sat",BOING
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="TV Sat",BOING
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3841982646
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="None" channel="K2.it" group-title="Kids",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="Kids",K2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3037871903
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="None" channel="K2.it" group-title="Kids",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="Kids",K2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2255724318
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="None" channel="K2.it" group-title="TV Sat",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="TV Sat",K2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3037871903
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="None" channel="K2.it" group-title="TV Sat",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="TV Sat",K2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2255724318
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="None" channel="RaiGulp.it" group-title="Kids",RAI GULP
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiGulp.it.png" channel="RaiGulp.it" group-title="Kids",RAI GULP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1901652742
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="None" channel="RaiGulp.it" group-title="TV Sat",RAI GULP
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiGulp.it.png" channel="RaiGulp.it" group-title="TV Sat",RAI GULP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1901652742
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="None" channel="RaiYoyo.it" group-title="Kids",RAI YOYO
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiYoyo.it.png" channel="RaiYoyo.it" group-title="Kids",RAI YOYO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1785501924
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="None" channel="RaiYoyo.it" group-title="TV Sat",RAI YOYO
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiYoyo.it.png" channel="RaiYoyo.it" group-title="TV Sat",RAI YOYO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1785501924
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="None" channel="-frisbee-.it" group-title="Kids",FRISBEE
+#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/-frisbee-.it.png" channel="-frisbee-.it" group-title="Kids",FRISBEE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1995860185
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="None" channel="-frisbee-.it" group-title="TV Sat",FRISBEE
+#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/-frisbee-.it.png" channel="-frisbee-.it" group-title="TV Sat",FRISBEE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1995860185
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="None" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
+#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1987220436
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="None" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
+#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2178717282
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="None" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
+#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1987220436
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="None" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
+#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2178717282
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="None" channel="Super!.it" group-title="Kids",SUPER!
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" channel="Super!.it" group-title="Kids",SUPER!
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3550030443
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="None" channel="Super!.it" group-title="TV Sat",SUPER!
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" channel="Super!.it" group-title="TV Sat",SUPER!
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3550030443
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="None" channel="SkyTG24.it" group-title="News",SKY TG24
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyTG24.it.png" channel="SkyTG24.it" group-title="News",SKY TG24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3376031355
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="None" channel="SkyTG24.it" group-title="TV Sat",SKY TG24
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyTG24.it.png" channel="SkyTG24.it" group-title="TV Sat",SKY TG24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3376031355
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="None" channel="Italia2.it" group-title="TV Sat",ITALIA 2
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Italia2.it.png" channel="Italia2.it" group-title="TV Sat",ITALIA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1613543898
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="None" channel="Italia2.it" group-title="TV Sat",ITALIA 2
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Italia2.it.png" channel="Italia2.it" group-title="TV Sat",ITALIA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3538009430
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ITALIA 2 NEWS" tvg-name="ITALIA 2 NEWS" tvg-logo="None" channel="ITALIA 2 NEWS" group-title="TV Sat",ITALIA 2 NEWS
+#EXTINF:-1 tvg-id="ITALIA 2 NEWS" tvg-name="ITALIA 2 NEWS" channel="ITALIA 2 NEWS" group-title="TV Sat",ITALIA 2 NEWS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3924446857
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="RADIO ITALIA TV" tvg-logo="None" channel="RadioItaliaTV.it" group-title="Music",RADIO ITALIA TV
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="RADIO ITALIA TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RadioItaliaTV.it.png" channel="RadioItaliaTV.it" group-title="Music",RADIO ITALIA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3965701937
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="None" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
+#EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RSILA1.it.png" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2455610203
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="None" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
+#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RSILA2.it.png" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3590183307
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="DAZN 1" tvg-logo="None" channel="DAZN1.it" group-title="Sport",DAZN 1
+#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DAZN1.it.png" channel="DAZN1.it" group-title="Sport",DAZN 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1376440573
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="None" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportUno.it.png" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F210669162
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="None" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportArena.it.png" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3007400791
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="None" channel="Eurosport1.it" group-title="Sport",EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EUROSPORT 1" channel="Eurosport1.it" group-title="Sport",EUROSPORT 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3481346857
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="None" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Eurosport2.it.png" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2283887097
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="None" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportCalcio.it.png" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1665920101
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="None" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportF1.it.png" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4246774056
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="None" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportF1.it.png" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2289038972
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="None" channel="SkySportTennis.it" group-title="Sport",SKY SPORT TENNIS
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F78546677
+#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportTennis.it.png" channel="SkySportTennis.it" group-title="Sport",SKY SPORT TENNIS
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2100771782
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="None" channel="SkySportGolf.it" group-title="Sport",SKY SPORT GOLF
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportGolf.it.png" channel="SkySportGolf.it" group-title="Sport",SKY SPORT GOLF
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F729945219
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="None" channel="SkySportNBA.it" group-title="Sport",SKY SPORT NBA
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F326825326
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportNBA.it.png" channel="SkySportNBA.it" group-title="Sport",SKY SPORT NBA
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2711959620
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="None" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaAction.it.png" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3812796171
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="None" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaAction.it.png" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2242741766
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="None" channel="SkyCinemaCollection.it" group-title="Cinema",SKY CINEMA COLLECTION
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3525837057
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaCollection.it.png" channel="SkyCinemaCollection.it" group-title="Cinema",SKY CINEMA COLLECTION
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1759653413
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="None" channel="SkyCinemaComedy.it" group-title="Cinema",SKY CINEMA COMEDY
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaComedy.it.png" channel="SkyCinemaComedy.it" group-title="Cinema",SKY CINEMA COMEDY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F500203271
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="None" channel="SkyCinemaDrama.it" group-title="Cinema",SKY CINEMA DRAMA
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaDrama.it.png" channel="SkyCinemaDrama.it" group-title="Cinema",SKY CINEMA DRAMA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1235530177
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="SKY CINEMA DUE" tvg-logo="None" channel="SkyCinemaDue.it" group-title="Cinema",SKY CINEMA DUE
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaDue.it.png" channel="SkyCinemaDue.it" group-title="Cinema",SKY CINEMA DUE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1228534500
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="None" channel="SkyCinemaFamily.it" group-title="Cinema",SKY CINEMA FAMILY
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaFamily.it.png" channel="SkyCinemaFamily.it" group-title="Cinema",SKY CINEMA FAMILY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F415795144
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="None" channel="SkyCinemaRomance.it" group-title="Cinema",SKY CINEMA ROMANCE
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaRomance.it.png" channel="SkyCinemaRomance.it" group-title="Cinema",SKY CINEMA ROMANCE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2890008905
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY CINEMA STORIES" tvg-name="SKY CINEMA STORIES" tvg-logo="None" channel="SKY CINEMA STORIES" group-title="Cinema",SKY CINEMA STORIES
+#EXTINF:-1 tvg-id="SKY CINEMA STORIES" tvg-name="SKY CINEMA STORIES" channel="SKY CINEMA STORIES" group-title="Cinema",SKY CINEMA STORIES
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2451443049
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="None" channel="SkyCinemaSuspense.it" group-title="Cinema",SKY CINEMA SUSPENSE
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaSuspense.it.png" channel="SkyCinemaSuspense.it" group-title="Cinema",SKY CINEMA SUSPENSE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1820997555
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="None" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaUno.it.png" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2872151911
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="None" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaUno.it.png" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2236517134
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="None" channel="SkyDocumentaries.it" group-title="Documentary",SKY DOCUMENTARIES
+#EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyDocumentaries.it.png" channel="SkyDocumentaries.it" group-title="Documentary",SKY DOCUMENTARIES
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F464281981
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="SKY ARTE" tvg-logo="None" channel="SkyArte.it" group-title="Intrattenimento",SKY ARTE
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyArte.it.png" channel="SkyArte.it" group-title="Intrattenimento",SKY ARTE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1806815496
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="None" channel="SkyAtlantic.it" group-title="Intrattenimento",SKY ATLANTIC
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyAtlantic.it.png" channel="SkyAtlantic.it" group-title="Intrattenimento",SKY ATLANTIC
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1421393119
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySerie.it" tvg-name="SKY SERIE" tvg-logo="None" channel="SkySerie.it" group-title="Intrattenimento",SKY SERIE
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F836680112
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="None" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyUno.it.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2130523218
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="None" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyUno.it.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2083332887
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="SKY INVESTIGATION" tvg-logo="None" channel="SkyInvestigation.it" group-title="Other",SKY INVESTIGATION
+#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="SKY INVESTIGATION" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyInvestigation.it.png" channel="SkyInvestigation.it" group-title="Other",SKY INVESTIGATION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1968640789
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 1" tvg-name="SKY PRIMAFILA 1" tvg-logo="None" channel="SKY PRIMAFILA 1" group-title="Primafila / PPV",SKY PRIMAFILA 1
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 1" tvg-name="SKY PRIMAFILA 1" channel="SKY PRIMAFILA 1" group-title="Primafila / PPV",SKY PRIMAFILA 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1492183364
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 10" tvg-name="SKY PRIMAFILA 10" tvg-logo="None" channel="SKY PRIMAFILA 10" group-title="Primafila / PPV",SKY PRIMAFILA 10
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 10" tvg-name="SKY PRIMAFILA 10" channel="SKY PRIMAFILA 10" group-title="Primafila / PPV",SKY PRIMAFILA 10
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4272937805
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 11" tvg-name="SKY PRIMAFILA 11" tvg-logo="None" channel="SKY PRIMAFILA 11" group-title="Primafila / PPV",SKY PRIMAFILA 11
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 11" tvg-name="SKY PRIMAFILA 11" channel="SKY PRIMAFILA 11" group-title="Primafila / PPV",SKY PRIMAFILA 11
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3285185277
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 12" tvg-name="SKY PRIMAFILA 12" tvg-logo="None" channel="SKY PRIMAFILA 12" group-title="Primafila / PPV",SKY PRIMAFILA 12
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 12" tvg-name="SKY PRIMAFILA 12" channel="SKY PRIMAFILA 12" group-title="Primafila / PPV",SKY PRIMAFILA 12
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2221901869
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 13" tvg-name="SKY PRIMAFILA 13" tvg-logo="None" channel="SKY PRIMAFILA 13" group-title="Primafila / PPV",SKY PRIMAFILA 13
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 13" tvg-name="SKY PRIMAFILA 13" channel="SKY PRIMAFILA 13" group-title="Primafila / PPV",SKY PRIMAFILA 13
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3104809373
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 14" tvg-name="SKY PRIMAFILA 14" tvg-logo="None" channel="SKY PRIMAFILA 14" group-title="Primafila / PPV",SKY PRIMAFILA 14
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 14" tvg-name="SKY PRIMAFILA 14" channel="SKY PRIMAFILA 14" group-title="Primafila / PPV",SKY PRIMAFILA 14
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F187661709
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 15" tvg-name="SKY PRIMAFILA 15" tvg-logo="None" channel="SKY PRIMAFILA 15" group-title="Primafila / PPV",SKY PRIMAFILA 15
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 15" tvg-name="SKY PRIMAFILA 15" channel="SKY PRIMAFILA 15" group-title="Primafila / PPV",SKY PRIMAFILA 15
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F911168573
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 16" tvg-name="SKY PRIMAFILA 16" tvg-logo="None" channel="SKY PRIMAFILA 16" group-title="Primafila / PPV",SKY PRIMAFILA 16
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 16" tvg-name="SKY PRIMAFILA 16" channel="SKY PRIMAFILA 16" group-title="Primafila / PPV",SKY PRIMAFILA 16
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1911500525
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 18" tvg-name="SKY PRIMAFILA 18" tvg-logo="None" channel="SKY PRIMAFILA 18" group-title="Primafila / PPV",SKY PRIMAFILA 18
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 18" tvg-name="SKY PRIMAFILA 18" channel="SKY PRIMAFILA 18" group-title="Primafila / PPV",SKY PRIMAFILA 18
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3470758028
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 2" tvg-name="SKY PRIMAFILA 2" tvg-logo="None" channel="SKY PRIMAFILA 2" group-title="Primafila / PPV",SKY PRIMAFILA 2
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 2" tvg-name="SKY PRIMAFILA 2" channel="SKY PRIMAFILA 2" group-title="Primafila / PPV",SKY PRIMAFILA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F877200714
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 3" tvg-name="SKY PRIMAFILA 3" tvg-logo="None" channel="SKY PRIMAFILA 3" group-title="Primafila / PPV",SKY PRIMAFILA 3
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 3" tvg-name="SKY PRIMAFILA 3" channel="SKY PRIMAFILA 3" group-title="Primafila / PPV",SKY PRIMAFILA 3
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F153693434
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 4" tvg-name="SKY PRIMAFILA 4" tvg-logo="None" channel="SKY PRIMAFILA 4" group-title="Primafila / PPV",SKY PRIMAFILA 4
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 4" tvg-name="SKY PRIMAFILA 4" channel="SKY PRIMAFILA 4" group-title="Primafila / PPV",SKY PRIMAFILA 4
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3137990890
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 5" tvg-name="SKY PRIMAFILA 5" tvg-logo="None" channel="SKY PRIMAFILA 5" group-title="Primafila / PPV",SKY PRIMAFILA 5
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 5" tvg-name="SKY PRIMAFILA 5" channel="SKY PRIMAFILA 5" group-title="Primafila / PPV",SKY PRIMAFILA 5
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2255083866
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 6" tvg-name="SKY PRIMAFILA 6" tvg-logo="None" channel="SKY PRIMAFILA 6" group-title="Primafila / PPV",SKY PRIMAFILA 6
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 6" tvg-name="SKY PRIMAFILA 6" channel="SKY PRIMAFILA 6" group-title="Primafila / PPV",SKY PRIMAFILA 6
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3251217290
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 7" tvg-name="SKY PRIMAFILA 7" tvg-logo="None" channel="SKY PRIMAFILA 7" group-title="Primafila / PPV",SKY PRIMAFILA 7
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 7" tvg-name="SKY PRIMAFILA 7" channel="SKY PRIMAFILA 7" group-title="Primafila / PPV",SKY PRIMAFILA 7
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238969402
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 8" tvg-name="SKY PRIMAFILA 8" tvg-logo="None" channel="SKY PRIMAFILA 8" group-title="Primafila / PPV",SKY PRIMAFILA 8
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 8" tvg-name="SKY PRIMAFILA 8" channel="SKY PRIMAFILA 8" group-title="Primafila / PPV",SKY PRIMAFILA 8
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2130255339
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 9" tvg-name="SKY PRIMAFILA 9" tvg-logo="None" channel="SKY PRIMAFILA 9" group-title="Primafila / PPV",SKY PRIMAFILA 9
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 9" tvg-name="SKY PRIMAFILA 9" channel="SKY PRIMAFILA 9" group-title="Primafila / PPV",SKY PRIMAFILA 9
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1134113883
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY SPORT" tvg-name="SKY SPORT" tvg-logo="None" channel="SKY SPORT" group-title="Sport",SKY SPORT
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F924661659
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="None" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySport24.it.png" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2775802255
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="None" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySport24.it.png" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3445562519
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="SKY SPORT MAX" tvg-logo="None" channel="SkySportMax.it" group-title="Sport",SKY SPORT MAX
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportMax.it.png" channel="SkySportMax.it" group-title="Sport",SKY SPORT MAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2066326916
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="None" channel="SkySportMotoGP.it" group-title="Sport",SKY SPORT MOTO GP
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportMotoGP.it.png" channel="SkySportMotoGP.it" group-title="Sport",SKY SPORT MOTO GP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3036316886
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="None" channel="SkySportMotoGP.it" group-title="Sport",SKY SPORT MOTO GP
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportMotoGP.it.png" channel="SkySportMotoGP.it" group-title="Sport",SKY SPORT MOTO GP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2090703806
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY SPORT SERIE A" tvg-name="SKY SPORT SERIE A" tvg-logo="None" channel="SKY SPORT SERIE A" group-title="Sport",SKY SPORT SERIE A
+#EXTINF:-1 tvg-id="SKY SPORT SERIE A" tvg-name="SKY SPORT SERIE A" channel="SKY SPORT SERIE A" group-title="Sport",SKY SPORT SERIE A
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2077387085
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY SPORTS 24" tvg-name="SKY SPORTS 24" tvg-logo="None" channel="SKY SPORTS 24" group-title="Sport",SKY SPORTS 24
+#EXTINF:-1 tvg-id="SKY SPORTS 24" tvg-name="SKY SPORTS 24" channel="SKY SPORTS 24" group-title="Sport",SKY SPORTS 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3493607131
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY SPORTS GOLF" tvg-name="SKY SPORTS GOLF" tvg-logo="None" channel="SKY SPORTS GOLF" group-title="Sport",SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="SKY SPORTS GOLF" tvg-name="SKY SPORTS GOLF" channel="SKY SPORTS GOLF" group-title="Sport",SKY SPORTS GOLF
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2717740015
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PRIMA TV" tvg-name="PRIMA TV" tvg-logo="None" channel="PRIMA TV" group-title="Other",PRIMA TV
+#EXTINF:-1 tvg-id="PRIMA TV" tvg-name="PRIMA TV" channel="PRIMA TV" group-title="Other",PRIMA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F530658045
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISNEY FILM" tvg-name="DISNEY FILM" tvg-logo="None" channel="DISNEY FILM" group-title="Cinema",DISNEY FILM
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1264775727
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="None" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F608774683
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="None" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F80896559
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="None" channel="ANIMAL PLANET" group-title="Documentary",ANIMAL PLANET
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" channel="ANIMAL PLANET" group-title="Documentary",ANIMAL PLANET
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1908877526
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Blaze.it" tvg-name="BLAZE" tvg-logo="None" channel="Blaze.it" group-title="Documentary",BLAZE
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2532635659
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CACCIA" tvg-name="CACCIA" tvg-logo="None" channel="CACCIA" group-title="Documentary",CACCIA
+#EXTINF:-1 tvg-id="CACCIA" tvg-name="CACCIA" channel="CACCIA" group-title="Documentary",CACCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1692155417
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CacciaPesca.it" tvg-name="CACCIA E PESCA" tvg-logo="None" channel="CacciaPesca.it" group-title="Documentary",CACCIA E PESCA
+#EXTINF:-1 tvg-id="CacciaPesca.it" tvg-name="CACCIA E PESCA" channel="CacciaPesca.it" group-title="Documentary",CACCIA E PESCA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3639213638
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="None" channel="DiscoveryChannel.it" group-title="Documentary",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="DISCOVERY CHANNEL" channel="DiscoveryChannel.it" group-title="Documentary",DISCOVERY CHANNEL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1955739367
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISCOVERY MOTOR TREND" tvg-name="DISCOVERY MOTOR TREND" tvg-logo="None" channel="DISCOVERY MOTOR TREND" group-title="Documentary",DISCOVERY MOTOR TREND
+#EXTINF:-1 tvg-id="DISCOVERY MOTOR TREND" tvg-name="DISCOVERY MOTOR TREND" channel="DISCOVERY MOTOR TREND" group-title="Documentary",DISCOVERY MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F97773955
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="DISCOVERY SCIENCE" tvg-logo="None" channel="DiscoveryScience.it" group-title="Documentary",DISCOVERY SCIENCE
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F528430841
+#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="DISCOVERY SCIENCE" channel="DiscoveryScience.it" group-title="Documentary",DISCOVERY SCIENCE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3088028964
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY" tvg-logo="None" channel="History.it" group-title="Documentary",HISTORY
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2134724757
+#EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/History.it.png" channel="History.it" group-title="Documentary",HISTORY
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F317837654
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEO" tvg-logo="None" channel="NAT GEO" group-title="Documentary",NAT GEO
+#EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEO" channel="NAT GEO" group-title="Documentary",NAT GEO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1735702308
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="NAT GEO WILD" tvg-logo="None" channel="NatGeoWild.it" group-title="Documentary",NAT GEO WILD
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NatGeoWild.it.png" channel="NatGeoWild.it" group-title="Documentary",NAT GEO WILD
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3229664409
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" tvg-logo="None" channel="PESCA" group-title="Documentary",PESCA
+#EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" channel="PESCA" group-title="Documentary",PESCA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F714472867
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" tvg-logo="None" channel="PescaCaccia.it" group-title="Documentary",PESCA E CACCIA
+#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" channel="PescaCaccia.it" group-title="Documentary",PESCA E CACCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3124512993
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Blaze.it" tvg-name="BLAZE" tvg-logo="None" channel="Blaze.it" group-title="Intrattenimento",BLAZE
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2532635659
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="None" channel="ComedyCentral.it" group-title="Intrattenimento",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/ComedyCentral.it.png" channel="ComedyCentral.it" group-title="Intrattenimento",COMEDY CENTRAL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F433893159
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX" tvg-logo="None" channel="Fox.it" group-title="Intrattenimento",FOX
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Fox.it.png" channel="Fox.it" group-title="Intrattenimento",FOX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F563160609
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="BABY TV" tvg-logo="None" channel="BabyTV.it" group-title="Kids",BABY TV
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="BABY TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/BabyTV.it.png" channel="BabyTV.it" group-title="Kids",BABY TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2265727942
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="BOOMERANG" tvg-logo="None" channel="Boomerang.it" group-title="Kids",BOOMERANG
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="BOOMERANG" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boomerang.it.png" channel="Boomerang.it" group-title="Kids",BOOMERANG
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2705627802
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="None" channel="CartoonNetwork.it" group-title="Kids",CARTOON NETWORK
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CartoonNetwork.it.png" channel="CartoonNetwork.it" group-title="Kids",CARTOON NETWORK
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1744435623
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DEAKIDS" tvg-logo="None" channel="DeAKids.it" group-title="Kids",DEAKIDS
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DEAKIDS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DeAKids.it.png" channel="DeAKids.it" group-title="Kids",DEAKIDS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3650430578
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISNEY FILM" tvg-name="DISNEY FILM" tvg-logo="None" channel="DISNEY FILM" group-title="Kids",DISNEY FILM
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1264775727
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="IUNIOR TV" tvg-name="IUNIOR TV" tvg-logo="None" channel="IUNIOR TV" group-title="Kids",IUNIOR TV
+#EXTINF:-1 tvg-id="IUNIOR TV" tvg-name="IUNIOR TV" channel="IUNIOR TV" group-title="Kids",IUNIOR TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F803540254
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="None" channel="NICK JR" group-title="Kids",NICK JR
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" channel="NICK JR" group-title="Kids",NICK JR
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F380958472
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON" tvg-logo="None" channel="Nickelodeon.it" group-title="Kids",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Nickelodeon.it.png" channel="Nickelodeon.it" group-title="Kids",NICKELODEON
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3039389215
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 21 EXTRA" tvg-name="CANALE 21 EXTRA" tvg-logo="None" channel="CANALE 21 EXTRA" group-title="Locali",CANALE 21 EXTRA
+#EXTINF:-1 tvg-id="CANALE 21 EXTRA" tvg-name="CANALE 21 EXTRA" channel="CANALE 21 EXTRA" group-title="Locali",CANALE 21 EXTRA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2454558136
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 21 LAZIO" tvg-name="CANALE 21 LAZIO" tvg-logo="None" channel="CANALE 21 LAZIO" group-title="Locali",CANALE 21 LAZIO
+#EXTINF:-1 tvg-id="CANALE 21 LAZIO" tvg-name="CANALE 21 LAZIO" channel="CANALE 21 LAZIO" group-title="Locali",CANALE 21 LAZIO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4028475481
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PRIMOCANALE" tvg-name="PRIMOCANALE" tvg-logo="None" channel="PRIMOCANALE" group-title="Locali",PRIMOCANALE
+#EXTINF:-1 tvg-id="PRIMOCANALE" tvg-name="PRIMOCANALE" channel="PRIMOCANALE" group-title="Locali",PRIMOCANALE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2944239261
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RETE 8" tvg-name="RETE 8" tvg-logo="None" channel="RETE 8" group-title="Locali",RETE 8
+#EXTINF:-1 tvg-id="RETE 8" tvg-name="RETE 8" channel="RETE 8" group-title="Locali",RETE 8
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1070290151
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTTR" tvg-name="RTTR" tvg-logo="None" channel="RTTR" group-title="Locali",RTTR
+#EXTINF:-1 tvg-id="RTTR" tvg-name="RTTR" channel="RTTR" group-title="Locali",RTTR
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3799362189
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTTR TV" tvg-name="RTTR TV" tvg-logo="None" channel="RTTR TV" group-title="Locali",RTTR TV
+#EXTINF:-1 tvg-id="RTTR TV" tvg-name="RTTR TV" channel="RTTR TV" group-title="Locali",RTTR TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1791879692
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEPACE 1" tvg-name="TELEPACE 1" tvg-logo="None" channel="TELEPACE 1" group-title="Locali",TELEPACE 1
+#EXTINF:-1 tvg-id="TELEPACE 1" tvg-name="TELEPACE 1" channel="TELEPACE 1" group-title="Locali",TELEPACE 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2876646700
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEPACE 2" tvg-name="TELEPACE 2" tvg-logo="None" channel="TELEPACE 2" group-title="Locali",TELEPACE 2
+#EXTINF:-1 tvg-id="TELEPACE 2" tvg-name="TELEPACE 2" channel="TELEPACE 2" group-title="Locali",TELEPACE 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3973472252
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEPACE 3" tvg-name="TELEPACE 3" tvg-logo="None" channel="TELEPACE 3" group-title="Locali",TELEPACE 3
+#EXTINF:-1 tvg-id="TELEPACE 3" tvg-name="TELEPACE 3" channel="TELEPACE 3" group-title="Locali",TELEPACE 3
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3518395980
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEPACE 4" tvg-name="TELEPACE 4" tvg-logo="None" channel="TELEPACE 4" group-title="Locali",TELEPACE 4
+#EXTINF:-1 tvg-id="TELEPACE 4" tvg-name="TELEPACE 4" channel="TELEPACE 4" group-title="Locali",TELEPACE 4
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1670818396
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEPACE TRENTO" tvg-name="TELEPACE TRENTO" tvg-logo="None" channel="TELEPACE TRENTO" group-title="Locali",TELEPACE TRENTO
+#EXTINF:-1 tvg-id="TELEPACE TRENTO" tvg-name="TELEPACE TRENTO" channel="TELEPACE TRENTO" group-title="Locali",TELEPACE TRENTO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1794299695
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELETUTTO" tvg-name="TELETUTTO" tvg-logo="None" channel="TELETUTTO" group-title="Locali",TELETUTTO
+#EXTINF:-1 tvg-id="TELETUTTO" tvg-name="TELETUTTO" channel="TELETUTTO" group-title="Locali",TELETUTTO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3271666551
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TopCalcio24.it" tvg-name="TOP CALCIO 24" tvg-logo="None" channel="TopCalcio24.it" group-title="Locali",TOP CALCIO 24
+#EXTINF:-1 tvg-id="TopCalcio24.it" tvg-name="TOP CALCIO 24" channel="TopCalcio24.it" group-title="Locali",TOP CALCIO 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3835549326
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TVA VICENZA" tvg-name="TVA VICENZA" tvg-logo="None" channel="TVA VICENZA" group-title="Locali",TVA VICENZA
+#EXTINF:-1 tvg-id="TVA VICENZA" tvg-name="TVA VICENZA" channel="TVA VICENZA" group-title="Locali",TVA VICENZA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3071392662
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="VIDEOLINA" tvg-name="VIDEOLINA" tvg-logo="None" channel="VIDEOLINA" group-title="Locali",VIDEOLINA
+#EXTINF:-1 tvg-id="VIDEOLINA" tvg-name="VIDEOLINA" channel="VIDEOLINA" group-title="Locali",VIDEOLINA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1249978054
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CLASSICA" tvg-name="CLASSICA" tvg-logo="None" channel="CLASSICA" group-title="Music",CLASSICA
+#EXTINF:-1 tvg-id="CLASSICA" tvg-name="CLASSICA" channel="CLASSICA" group-title="Music",CLASSICA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F64060922
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DEEJAY TV" tvg-logo="None" channel="DeejayTV.it" group-title="Music",DEEJAY TV
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DeejayTV.it.png" channel="DeejayTV.it" group-title="Music",DEEJAY TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F963607327
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="KISS KISS" tvg-name="KISS KISS" tvg-logo="None" channel="KISS KISS" group-title="Music",KISS KISS
+#EXTINF:-1 tvg-id="KISS KISS" tvg-name="KISS KISS" channel="KISS KISS" group-title="Music",KISS KISS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F950030926
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="KISS KISS" tvg-name="KISS KISS" tvg-logo="None" channel="KISS KISS" group-title="Music",KISS KISS
+#EXTINF:-1 tvg-id="KISS KISS" tvg-name="KISS KISS" channel="KISS KISS" group-title="Music",KISS KISS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1370869299
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="KISS KISS NAPOLI" tvg-name="KISS KISS NAPOLI" tvg-logo="None" channel="KISS KISS NAPOLI" group-title="Music",KISS KISS NAPOLI
+#EXTINF:-1 tvg-id="KISS KISS NAPOLI" tvg-name="KISS KISS NAPOLI" channel="KISS KISS NAPOLI" group-title="Music",KISS KISS NAPOLI
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3027903278
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="M2O" tvg-name="M2O" tvg-logo="None" channel="M2O" group-title="Music",M2O
+#EXTINF:-1 tvg-id="M2O" tvg-name="M2O" channel="M2O" group-title="Music",M2O
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F215827632
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="M2O TV" tvg-name="M2O TV" tvg-logo="None" channel="M2O TV" group-title="Music",M2O TV
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1278984600
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Radio105.it" tvg-name="RADIO 105" tvg-logo="None" channel="Radio105.it" group-title="Music",RADIO 105
+#EXTINF:-1 tvg-id="Radio105.it" tvg-name="RADIO 105" channel="Radio105.it" group-title="Music",RADIO 105
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F679401461
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO CAPITAL" tvg-name="RADIO CAPITAL" tvg-logo="None" channel="RADIO CAPITAL" group-title="Music",RADIO CAPITAL
+#EXTINF:-1 tvg-id="RADIO CAPITAL" tvg-name="RADIO CAPITAL" channel="RADIO CAPITAL" group-title="Music",RADIO CAPITAL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F421441745
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIOFRECCIA.it" tvg-name="RADIO FRECCIA" tvg-logo="None" channel="RADIOFRECCIA.it" group-title="Music",RADIO FRECCIA
+#EXTINF:-1 tvg-id="RADIOFRECCIA.it" tvg-name="RADIO FRECCIA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RADIOFRECCIA.it.png" channel="RADIOFRECCIA.it" group-title="Music",RADIO FRECCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1711134994
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO ITALIA TREND TV" tvg-name="RADIO ITALIA TREND TV" tvg-logo="None" channel="RADIO ITALIA TREND TV" group-title="Music",RADIO ITALIA TREND TV
+#EXTINF:-1 tvg-id="RADIO ITALIA TREND TV" tvg-name="RADIO ITALIA TREND TV" channel="RADIO ITALIA TREND TV" group-title="Music",RADIO ITALIA TREND TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1569413917
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RadioMonteCarlo.it" tvg-name="RADIO MONTE CARLO" tvg-logo="None" channel="RadioMonteCarlo.it" group-title="Music",RADIO MONTE CARLO
+#EXTINF:-1 tvg-id="RadioMonteCarlo.it" tvg-name="RADIO MONTE CARLO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RadioMonteCarlo.it.png" channel="RadioMonteCarlo.it" group-title="Music",RADIO MONTE CARLO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3650422887
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIONORBATV.it" tvg-name="RADIONORBA TV" tvg-logo="None" channel="RADIONORBATV.it" group-title="Music",RADIONORBA TV
+#EXTINF:-1 tvg-id="RADIONORBATV.it" tvg-name="RADIONORBA TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RADIONORBATV.it.png" channel="RADIONORBATV.it" group-title="Music",RADIONORBA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2627662768
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RDS SOCIAL" tvg-name="RDS SOCIAL" tvg-logo="None" channel="RDS SOCIAL" group-title="Music",RDS SOCIAL
+#EXTINF:-1 tvg-id="RDS SOCIAL" tvg-name="RDS SOCIAL" channel="RDS SOCIAL" group-title="Music",RDS SOCIAL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4031388312
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RDS SOCIAL TV" tvg-name="RDS SOCIAL TV" tvg-logo="None" channel="RDS SOCIAL TV" group-title="Music",RDS SOCIAL TV
+#EXTINF:-1 tvg-id="RDS SOCIAL TV" tvg-name="RDS SOCIAL TV" channel="RDS SOCIAL TV" group-title="Music",RDS SOCIAL TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3656080408
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RMC 101" tvg-name="RMC 101" tvg-logo="None" channel="RMC 101" group-title="Music",RMC 101
+#EXTINF:-1 tvg-id="RMC 101" tvg-name="RMC 101" channel="RMC 101" group-title="Music",RMC 101
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2209352147
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" tvg-logo="None" channel="BLOOMBERG TV" group-title="News",BLOOMBERG TV
+#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" channel="BLOOMBERG TV" group-title="News",BLOOMBERG TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F116299718
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" tvg-logo="None" channel="BLOOMBERG TV" group-title="News",BLOOMBERG TV
+#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" channel="BLOOMBERG TV" group-title="News",BLOOMBERG TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3911047486
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BLOOMBERG TV EMEA LIVE EVENT" tvg-name="BLOOMBERG TV EMEA LIVE EVENT" tvg-logo="None" channel="BLOOMBERG TV EMEA LIVE EVENT" group-title="News",BLOOMBERG TV EMEA LIVE EVENT
+#EXTINF:-1 tvg-id="BLOOMBERG TV EMEA LIVE EVENT" tvg-name="BLOOMBERG TV EMEA LIVE EVENT" channel="BLOOMBERG TV EMEA LIVE EVENT" group-title="News",BLOOMBERG TV EMEA LIVE EVENT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2530106969
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Euronews.it" tvg-name="EURONEWS" tvg-logo="None" channel="Euronews.it" group-title="News",EURONEWS
+#EXTINF:-1 tvg-id="Euronews.it" tvg-name="EURONEWS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Euronews.it.png" channel="Euronews.it" group-title="News",EURONEWS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F490955579
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TG NORBA 24" tvg-name="TG NORBA 24" tvg-logo="None" channel="TG NORBA 24" group-title="News",TG NORBA 24
+#EXTINF:-1 tvg-id="TG NORBA 24" tvg-name="TG NORBA 24" channel="TG NORBA 24" group-title="News",TG NORBA 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3413557893
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="111 TV" tvg-name="111 TV" tvg-logo="None" channel="111 TV" group-title="Other",111 TV
+#EXTINF:-1 tvg-id="111 TV" tvg-name="111 TV" channel="111 TV" group-title="Other",111 TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1600139819
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="12 TV PARMA" tvg-name="12 TV PARMA" tvg-logo="None" channel="12 TV PARMA" group-title="Other",12 TV PARMA
+#EXTINF:-1 tvg-id="12 TV PARMA" tvg-name="12 TV PARMA" channel="12 TV PARMA" group-title="Other",12 TV PARMA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F631792369
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="51 RADIO TV" tvg-name="51 RADIO TV" tvg-logo="None" channel="51 RADIO TV" group-title="Other",51 RADIO TV
+#EXTINF:-1 tvg-id="51 RADIO TV" tvg-name="51 RADIO TV" channel="51 RADIO TV" group-title="Other",51 RADIO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4216245552
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="7 GOLD" tvg-name="7 GOLD" tvg-logo="None" channel="7 GOLD" group-title="Other",7 GOLD
+#EXTINF:-1 tvg-id="7 GOLD" tvg-name="7 GOLD" channel="7 GOLD" group-title="Other",7 GOLD
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F195163217
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="7080IT" tvg-name="7080IT" tvg-logo="None" channel="7080IT" group-title="Other",7080IT
+#EXTINF:-1 tvg-id="7080IT" tvg-name="7080IT" channel="7080IT" group-title="Other",7080IT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3701871205
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="A2ITV" tvg-name="A2ITV" tvg-logo="None" channel="A2ITV" group-title="Other",A2ITV
+#EXTINF:-1 tvg-id="A2ITV" tvg-name="A2ITV" channel="A2ITV" group-title="Other",A2ITV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1161753010
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="A3" tvg-name="A3" tvg-logo="None" channel="A3" group-title="Other",A3
+#EXTINF:-1 tvg-id="A3" tvg-name="A3" channel="A3" group-title="Other",A3
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F445158856
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="AB" tvg-name="AB" tvg-logo="None" channel="AB" group-title="Other",AB
+#EXTINF:-1 tvg-id="AB" tvg-name="AB" channel="AB" group-title="Other",AB
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1491139076
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ALICE" tvg-name="ALICE" tvg-logo="None" channel="ALICE" group-title="Other",ALICE
+#EXTINF:-1 tvg-id="ALICE" tvg-name="ALICE" channel="ALICE" group-title="Other",ALICE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3092239866
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ALTO ADIGE TV" tvg-name="ALTO ADIGE TV" tvg-logo="None" channel="ALTO ADIGE TV" group-title="Other",ALTO ADIGE TV
+#EXTINF:-1 tvg-id="ALTO ADIGE TV" tvg-name="ALTO ADIGE TV" channel="ALTO ADIGE TV" group-title="Other",ALTO ADIGE TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F68845853
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ANTENNA 2" tvg-name="ANTENNA 2" tvg-logo="None" channel="ANTENNA 2" group-title="Other",ANTENNA 2
+#EXTINF:-1 tvg-id="ANTENNA 2" tvg-name="ANTENNA 2" channel="ANTENNA 2" group-title="Other",ANTENNA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3014001260
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ANTENNA SUD" tvg-name="ANTENNA SUD" tvg-logo="None" channel="ANTENNA SUD" group-title="Other",ANTENNA SUD
+#EXTINF:-1 tvg-id="ANTENNA SUD" tvg-name="ANTENNA SUD" channel="ANTENNA SUD" group-title="Other",ANTENNA SUD
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4084059868
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ARANCIA TV" tvg-name="ARANCIA TV" tvg-logo="None" channel="ARANCIA TV" group-title="Other",ARANCIA TV
+#EXTINF:-1 tvg-id="ARABI TV" tvg-name="ARABI TV" channel="ARABI TV" group-title="Other",ARABI TV
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2543257598
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ARANCIA TV" tvg-name="ARANCIA TV" channel="ARANCIA TV" group-title="Other",ARANCIA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1792428355
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ARTE NETWORK" tvg-name="ARTE NETWORK" tvg-logo="None" channel="ARTE NETWORK" group-title="Other",ARTE NETWORK
+#EXTINF:-1 tvg-id="ARTE NETWORK" tvg-name="ARTE NETWORK" channel="ARTE NETWORK" group-title="Other",ARTE NETWORK
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F430570853
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="AURORA ARTE" tvg-name="AURORA ARTE" tvg-logo="None" channel="AURORA ARTE" group-title="Other",AURORA ARTE
+#EXTINF:-1 tvg-id="AURORA ARTE" tvg-name="AURORA ARTE" channel="AURORA ARTE" group-title="Other",AURORA ARTE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3267376899
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="AVENGERS GRIMM CHANNEL" tvg-name="AVENGERS GRIMM CHANNEL" tvg-logo="None" channel="AVENGERS GRIMM CHANNEL" group-title="Other",AVENGERS GRIMM CHANNEL
+#EXTINF:-1 tvg-id="AVENGERS GRIMM CHANNEL" tvg-name="AVENGERS GRIMM CHANNEL" channel="AVENGERS GRIMM CHANNEL" group-title="Other",AVENGERS GRIMM CHANNEL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1506307932
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BBC SERIES" tvg-name="BBC SERIES" tvg-logo="None" channel="BBC SERIES" group-title="Other",BBC SERIES
+#EXTINF:-1 tvg-id="BBC SERIES" tvg-name="BBC SERIES" channel="BBC SERIES" group-title="Other",BBC SERIES
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1640233647
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BBC TOP GEAR ITALY" tvg-name="BBC TOP GEAR ITALY" tvg-logo="None" channel="BBC TOP GEAR ITALY" group-title="Other",BBC TOP GEAR ITALY
+#EXTINF:-1 tvg-id="BBC TOP GEAR ITALY" tvg-name="BBC TOP GEAR ITALY" channel="BBC TOP GEAR ITALY" group-title="Other",BBC TOP GEAR ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2330946937
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BELLA RADIO TV" tvg-name="BELLA RADIO TV" tvg-logo="None" channel="BELLA RADIO TV" group-title="Other",BELLA RADIO TV
+#EXTINF:-1 tvg-id="BELLA RADIO TV" tvg-name="BELLA RADIO TV" channel="BELLA RADIO TV" group-title="Other",BELLA RADIO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1585005860
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BELLLA MONELLA TV" tvg-name="BELLLA MONELLA TV" tvg-logo="None" channel="BELLLA MONELLA TV" group-title="Other",BELLLA MONELLA TV
+#EXTINF:-1 tvg-id="BELLLA MONELLA TV" tvg-name="BELLLA MONELLA TV" channel="BELLLA MONELLA TV" group-title="Other",BELLLA MONELLA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F161144675
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BYOBLU" tvg-name="BYOBLU" tvg-logo="None" channel="BYOBLU" group-title="Other",BYOBLU
+#EXTINF:-1 tvg-id="BYOBLU" tvg-name="BYOBLU" channel="BYOBLU" group-title="Other",BYOBLU
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2826111812
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CAFE 24" tvg-name="CAFE 24" tvg-logo="None" channel="CAFE 24" group-title="Other",CAFE 24
+#EXTINF:-1 tvg-id="CAFE 24" tvg-name="CAFE 24" channel="CAFE 24" group-title="Other",CAFE 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1625923783
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CAFE TV 24" tvg-name="CAFE TV 24" tvg-logo="None" channel="CAFE TV 24" group-title="Other",CAFE TV 24
+#EXTINF:-1 tvg-id="CAFE TV 24" tvg-name="CAFE TV 24" channel="CAFE TV 24" group-title="Other",CAFE TV 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4268413992
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 122" tvg-name="CANALE 122" tvg-logo="None" channel="CANALE 122" group-title="Other",CANALE 122
+#EXTINF:-1 tvg-id="CANALE 122" tvg-name="CANALE 122" channel="CANALE 122" group-title="Other",CANALE 122
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F466718273
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 2" tvg-name="CANALE 2" tvg-logo="None" channel="CANALE 2" group-title="Other",CANALE 2
+#EXTINF:-1 tvg-id="CANALE 2" tvg-name="CANALE 2" channel="CANALE 2" group-title="Other",CANALE 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3914444703
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 2 ALTAMURA" tvg-name="CANALE 2 ALTAMURA" tvg-logo="None" channel="CANALE 2 ALTAMURA" group-title="Other",CANALE 2 ALTAMURA
+#EXTINF:-1 tvg-id="CANALE 2 ALTAMURA" tvg-name="CANALE 2 ALTAMURA" channel="CANALE 2 ALTAMURA" group-title="Other",CANALE 2 ALTAMURA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1251695137
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 7" tvg-name="CANALE 7" tvg-logo="None" channel="CANALE 7" group-title="Other",CANALE 7
+#EXTINF:-1 tvg-id="CANALE 7" tvg-name="CANALE 7" channel="CANALE 7" group-title="Other",CANALE 7
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F565256431
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 8" tvg-name="CANALE 8" tvg-logo="None" channel="CANALE 8" group-title="Other",CANALE 8
+#EXTINF:-1 tvg-id="CANALE 8" tvg-name="CANALE 8" channel="CANALE 8" group-title="Other",CANALE 8
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2749478718
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 88 MADEINBO" tvg-name="CANALE 88 MADEINBO" tvg-logo="None" channel="CANALE 88 MADEINBO" group-title="Other",CANALE 88 MADEINBO
+#EXTINF:-1 tvg-id="CANALE 88 MADEINBO" tvg-name="CANALE 88 MADEINBO" channel="CANALE 88 MADEINBO" group-title="Other",CANALE 88 MADEINBO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F888430169
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE DIECI" tvg-name="CANALE DIECI" tvg-logo="None" channel="CANALE DIECI" group-title="Other",CANALE DIECI
+#EXTINF:-1 tvg-id="CANALE DIECI" tvg-name="CANALE DIECI" channel="CANALE DIECI" group-title="Other",CANALE DIECI
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1431729360
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE TELECHIARA" tvg-name="CANALE TELECHIARA" tvg-logo="None" channel="CANALE TELECHIARA" group-title="Other",CANALE TELECHIARA
+#EXTINF:-1 tvg-id="CANALE TELECHIARA" tvg-name="CANALE TELECHIARA" channel="CANALE TELECHIARA" group-title="Other",CANALE TELECHIARA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3065008757
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CG ENTERTAINMENT" tvg-name="CG ENTERTAINMENT" tvg-logo="None" channel="CG ENTERTAINMENT" group-title="Other",CG ENTERTAINMENT
+#EXTINF:-1 tvg-id="CG ENTERTAINMENT" tvg-name="CG ENTERTAINMENT" channel="CG ENTERTAINMENT" group-title="Other",CG ENTERTAINMENT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3881151331
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CG TV" tvg-name="CG TV" tvg-logo="None" channel="CG TV" group-title="Other",CG TV
+#EXTINF:-1 tvg-id="CG TV" tvg-name="CG TV" channel="CG TV" group-title="Other",CG TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3966646125
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="COMPANY TV" tvg-name="COMPANY TV" tvg-logo="None" channel="COMPANY TV" group-title="Other",COMPANY TV
+#EXTINF:-1 tvg-id="COMPANY TV" tvg-name="COMPANY TV" channel="COMPANY TV" group-title="Other",COMPANY TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1322483308
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CREMONA 1" tvg-name="CREMONA 1" tvg-logo="None" channel="CREMONA 1" group-title="Other",CREMONA 1
+#EXTINF:-1 tvg-id="CREMONA 1" tvg-name="CREMONA 1" channel="CREMONA 1" group-title="Other",CREMONA 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4137427510
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CRIME INV" tvg-name="CRIME INV" tvg-logo="None" channel="CRIME INV" group-title="Other",CRIME INV
+#EXTINF:-1 tvg-id="CRIME INV" tvg-name="CRIME INV" channel="CRIME INV" group-title="Other",CRIME INV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1968339149
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ELIVE TV BRESCIA" tvg-name="ELIVE TV BRESCIA" tvg-logo="None" channel="ELIVE TV BRESCIA" group-title="Other",ELIVE TV BRESCIA
+#EXTINF:-1 tvg-id="ELIVE TV BRESCIA" tvg-name="ELIVE TV BRESCIA" channel="ELIVE TV BRESCIA" group-title="Other",ELIVE TV BRESCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1521821490
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ENTELLA TV" tvg-name="ENTELLA TV" tvg-logo="None" channel="ENTELLA TV" group-title="Other",ENTELLA TV
+#EXTINF:-1 tvg-id="ENTELLA TV" tvg-name="ENTELLA TV" channel="ENTELLA TV" group-title="Other",ENTELLA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1371658771
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EQU TV" tvg-name="EQU TV" tvg-logo="None" channel="EQU TV" group-title="Other",EQU TV
+#EXTINF:-1 tvg-id="EQU TV" tvg-name="EQU TV" channel="EQU TV" group-title="Other",EQU TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2818586668
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ESPANSIONE TV" tvg-name="ESPANSIONE TV" tvg-logo="None" channel="ESPANSIONE TV" group-title="Other",ESPANSIONE TV
+#EXTINF:-1 tvg-id="ESPANSIONE TV" tvg-name="ESPANSIONE TV" channel="ESPANSIONE TV" group-title="Other",ESPANSIONE TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F539484419
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ESPERIA TV" tvg-name="ESPERIA TV" tvg-logo="None" channel="ESPERIA TV" group-title="Other",ESPERIA TV
+#EXTINF:-1 tvg-id="ESPERIA TV" tvg-name="ESPERIA TV" channel="ESPERIA TV" group-title="Other",ESPERIA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3525104604
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ESPERIA TV 18" tvg-name="ESPERIA TV 18" tvg-logo="None" channel="ESPERIA TV 18" group-title="Other",ESPERIA TV 18
+#EXTINF:-1 tvg-id="ESPERIA TV 18" tvg-name="ESPERIA TV 18" channel="ESPERIA TV 18" group-title="Other",ESPERIA TV 18
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1812508372
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ETV MARCHE" tvg-name="ETV MARCHE" tvg-logo="None" channel="ETV MARCHE" group-title="Other",ETV MARCHE
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F273312373
+#EXTINF:-1 tvg-id="ETV RETE 7" tvg-name="ETV RETE 7" channel="ETV RETE 7" group-title="Other",ETV RETE 7
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1493820217
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EURO INDIE MUSIC CHART TV" tvg-name="EURO INDIE MUSIC CHART TV" tvg-logo="None" channel="EURO INDIE MUSIC CHART TV" group-title="Other",EURO INDIE MUSIC CHART TV
+#EXTINF:-1 tvg-id="EURO INDIE MUSIC CHART TV" tvg-name="EURO INDIE MUSIC CHART TV" channel="EURO INDIE MUSIC CHART TV" group-title="Other",EURO INDIE MUSIC CHART TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3569731325
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EURO TV" tvg-name="EURO TV" tvg-logo="None" channel="EURO TV" group-title="Other",EURO TV
+#EXTINF:-1 tvg-id="EURO TV" tvg-name="EURO TV" channel="EURO TV" group-title="Other",EURO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4222258377
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EXTRA TV" tvg-name="EXTRA TV" tvg-logo="None" channel="EXTRA TV" group-title="Other",EXTRA TV
+#EXTINF:-1 tvg-id="EXTRA TV" tvg-name="EXTRA TV" channel="EXTRA TV" group-title="Other",EXTRA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3365697389
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="FAILARMY" tvg-name="FAILARMY" tvg-logo="None" channel="FAILARMY" group-title="Other",FAILARMY
+#EXTINF:-1 tvg-id="FAILARMY" tvg-name="FAILARMY" channel="FAILARMY" group-title="Other",FAILARMY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F458018069
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="FANO TV" tvg-name="FANO TV" tvg-logo="None" channel="FANO TV" group-title="Other",FANO TV
+#EXTINF:-1 tvg-id="FANO TV" tvg-name="FANO TV" channel="FANO TV" group-title="Other",FANO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1798700028
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="None" channel="FASHIONTV" group-title="Other",FASHIONTV
+#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" channel="FASHIONTV" group-title="Other",FASHIONTV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3255207570
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="FM" tvg-name="FM" tvg-logo="None" channel="FM" group-title="Other",FM
+#EXTINF:-1 tvg-id="FM" tvg-name="FM" channel="FM" group-title="Other",FM
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F651388134
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="FM ITALIA TV" tvg-name="FM ITALIA TV" tvg-logo="None" channel="FM ITALIA TV" group-title="Other",FM ITALIA TV
+#EXTINF:-1 tvg-id="FM ITALIA TV" tvg-name="FM ITALIA TV" channel="FM ITALIA TV" group-title="Other",FM ITALIA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F32417864
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="GAMBERO ROSSO" tvg-name="GAMBERO ROSSO" tvg-logo="None" channel="GAMBERO ROSSO" group-title="Other",GAMBERO ROSSO
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2481284739
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="GAMBERO ROSSO" tvg-name="GAMBERO ROSSO" tvg-logo="None" channel="GAMBERO ROSSO" group-title="Other",GAMBERO ROSSO
+#EXTINF:-1 tvg-id="GAMBERO ROSSO" tvg-name="GAMBERO ROSSO" channel="GAMBERO ROSSO" group-title="Other",GAMBERO ROSSO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2373121667
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="GLOBUS TELEVISION" tvg-name="GLOBUS TELEVISION" tvg-logo="None" channel="GLOBUS TELEVISION" group-title="Other",GLOBUS TELEVISION
+#EXTINF:-1 tvg-id="GIOVANNI PAOLO" tvg-name="GIOVANNI PAOLO" channel="GIOVANNI PAOLO" group-title="Other",GIOVANNI PAOLO
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2470759321
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="GLOBUS TELEVISION" tvg-name="GLOBUS TELEVISION" channel="GLOBUS TELEVISION" group-title="Other",GLOBUS TELEVISION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2116902817
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="GRANDE FRATELLO" tvg-name="GRANDE FRATELLO" tvg-logo="None" channel="GRANDE FRATELLO" group-title="Other",GRANDE FRATELLO
+#EXTINF:-1 tvg-id="GOLD TV" tvg-name="GOLD TV" channel="GOLD TV" group-title="Other",GOLD TV
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2854396316
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="GRANDE FRATELLO" tvg-name="GRANDE FRATELLO" channel="GRANDE FRATELLO" group-title="Other",GRANDE FRATELLO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1300189057
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="GRANDUCATO" tvg-name="GRANDUCATO" tvg-logo="None" channel="GRANDUCATO" group-title="Other",GRANDUCATO
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F942153014
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ICARO TV" tvg-name="ICARO TV" tvg-logo="None" channel="ICARO TV" group-title="Other",ICARO TV
+#EXTINF:-1 tvg-id="ICARO TV" tvg-name="ICARO TV" channel="ICARO TV" group-title="Other",ICARO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2488017405
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="IMAS TV" tvg-name="IMAS TV" tvg-logo="None" channel="IMAS TV" group-title="Other",IMAS TV
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2073068994
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ITALIA 3" tvg-name="ITALIA 3" tvg-logo="None" channel="ITALIA 3" group-title="Other",ITALIA 3
+#EXTINF:-1 tvg-id="ITALIA 3" tvg-name="ITALIA 3" channel="ITALIA 3" group-title="Other",ITALIA 3
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1200985239
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ITALIAN FISHING TV" tvg-name="ITALIAN FISHING TV" tvg-logo="None" channel="ITALIAN FISHING TV" group-title="Other",ITALIAN FISHING TV
+#EXTINF:-1 tvg-id="ITALIAN FISHING TV" tvg-name="ITALIAN FISHING TV" channel="ITALIAN FISHING TV" group-title="Other",ITALIAN FISHING TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4235410936
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LA 7 CINEMA" tvg-name="LA 7 CINEMA" tvg-logo="None" channel="LA 7 CINEMA" group-title="Other",LA 7 CINEMA
+#EXTINF:-1 tvg-id="LA 7 CINEMA" tvg-name="LA 7 CINEMA" channel="LA 7 CINEMA" group-title="Other",LA 7 CINEMA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1128388142
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LA C ONAIR" tvg-name="LA C ONAIR" tvg-logo="None" channel="LA C ONAIR" group-title="Other",LA C ONAIR
+#EXTINF:-1 tvg-id="LA C ONAIR" tvg-name="LA C ONAIR" channel="LA C ONAIR" group-title="Other",LA C ONAIR
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1533131501
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LA C TV" tvg-name="LA C TV" tvg-logo="None" channel="LA C TV" group-title="Other",LA C TV
+#EXTINF:-1 tvg-id="LA C TV" tvg-name="LA C TV" channel="LA C TV" group-title="Other",LA C TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F660106690
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LA NUOVA TV" tvg-name="LA NUOVA TV" tvg-logo="None" channel="LA NUOVA TV" group-title="Other",LA NUOVA TV
+#EXTINF:-1 tvg-id="LA NUOVA TV" tvg-name="LA NUOVA TV" channel="LA NUOVA TV" group-title="Other",LA NUOVA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3894526183
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LA TR3" tvg-name="LA TR3" tvg-logo="None" channel="LA TR3" group-title="Other",LA TR3
+#EXTINF:-1 tvg-id="LA TR3" tvg-name="LA TR3" channel="LA TR3" group-title="Other",LA TR3
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2210996603
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LA TR3 MARSALA" tvg-name="LA TR3 MARSALA" tvg-logo="None" channel="LA TR3 MARSALA" group-title="Other",LA TR3 MARSALA
+#EXTINF:-1 tvg-id="LA TR3 MARSALA" tvg-name="LA TR3 MARSALA" channel="LA TR3 MARSALA" group-title="Other",LA TR3 MARSALA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3227373886
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LAC NEWS 24" tvg-name="LAC NEWS 24" tvg-logo="None" channel="LAC NEWS 24" group-title="Other",LAC NEWS 24
+#EXTINF:-1 tvg-id="LAC NEWS 24" tvg-name="LAC NEWS 24" channel="LAC NEWS 24" group-title="Other",LAC NEWS 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F372287300
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LazioStyleCh.it" tvg-name="LAZIO STYLE CHANNEL" tvg-logo="None" channel="LazioStyleCh.it" group-title="Other",LAZIO STYLE CHANNEL
+#EXTINF:-1 tvg-id="LazioStyleCh.it" tvg-name="LAZIO STYLE CHANNEL" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/LazioStyleCh.it.png" channel="LazioStyleCh.it" group-title="Other",LAZIO STYLE CHANNEL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F205734525
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LAZIO TV 13" tvg-name="LAZIO TV 13" tvg-logo="None" channel="LAZIO TV 13" group-title="Other",LAZIO TV 13
+#EXTINF:-1 tvg-id="LAZIO TV 13" tvg-name="LAZIO TV 13" channel="LAZIO TV 13" group-title="Other",LAZIO TV 13
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F566527512
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LE CRONACHE TV" tvg-name="LE CRONACHE TV" tvg-logo="None" channel="LE CRONACHE TV" group-title="Other",LE CRONACHE TV
+#EXTINF:-1 tvg-id="LE CRONACHE TV" tvg-name="LE CRONACHE TV" channel="LE CRONACHE TV" group-title="Other",LE CRONACHE TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F273293889
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LOVE FM TV" tvg-name="LOVE FM TV" tvg-logo="None" channel="LOVE FM TV" group-title="Other",LOVE FM TV
+#EXTINF:-1 tvg-id="LOVE FM TV" tvg-name="LOVE FM TV" channel="LOVE FM TV" group-title="Other",LOVE FM TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3344963942
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MARIAVISION" tvg-name="MARIAVISION" tvg-logo="None" channel="MARIAVISION" group-title="Other",MARIAVISION
+#EXTINF:-1 tvg-id="MARIAVISION" tvg-name="MARIAVISION" channel="MARIAVISION" group-title="Other",MARIAVISION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F448530931
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MAVTV EUROPE" tvg-name="MAVTV EUROPE" tvg-logo="None" channel="MAVTV EUROPE" group-title="Other",MAVTV EUROPE
+#EXTINF:-1 tvg-id="MAVTV EUROPE" tvg-name="MAVTV EUROPE" channel="MAVTV EUROPE" group-title="Other",MAVTV EUROPE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F185073504
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MEDIASET" tvg-name="MEDIASET" tvg-logo="None" channel="MEDIASET" group-title="Other",MEDIASET
+#EXTINF:-1 tvg-id="MEDIASET" tvg-name="MEDIASET" channel="MEDIASET" group-title="Other",MEDIASET
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1989562337
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MS MOTOR" tvg-name="MS MOTOR" tvg-logo="None" channel="MS MOTOR" group-title="Other",MS MOTOR
+#EXTINF:-1 tvg-id="MS MOTOR" tvg-name="MS MOTOR" channel="MS MOTOR" group-title="Other",MS MOTOR
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3935279354
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="NAUTICAL" tvg-name="NAUTICAL" tvg-logo="None" channel="NAUTICAL" group-title="Other",NAUTICAL
+#EXTINF:-1 tvg-id="NAUTICAL" tvg-name="NAUTICAL" channel="NAUTICAL" group-title="Other",NAUTICAL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4198788770
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="None" channel="NET TV" group-title="Other",NET TV
+#EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" channel="NET TV" group-title="Other",NET TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F304085498
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ONDA NOVARA TV" tvg-name="ONDA NOVARA TV" tvg-logo="None" channel="ONDA NOVARA TV" group-title="Other",ONDA NOVARA TV
+#EXTINF:-1 tvg-id="OL3 RADIO" tvg-name="OL3 RADIO" channel="OL3 RADIO" group-title="Other",OL3 RADIO
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F68102734
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ONDA NOVARA TV" tvg-name="ONDA NOVARA TV" channel="ONDA NOVARA TV" group-title="Other",ONDA NOVARA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3134124967
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ONDA TV" tvg-name="ONDA TV" tvg-logo="None" channel="ONDA TV" group-title="Other",ONDA TV
+#EXTINF:-1 tvg-id="ONDA TV" tvg-name="ONDA TV" channel="ONDA TV" group-title="Other",ONDA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F203130779
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ORLER TV" tvg-name="ORLER TV" tvg-logo="None" channel="ORLER TV" group-title="Other",ORLER TV
+#EXTINF:-1 tvg-id="ORLER TV" tvg-name="ORLER TV" channel="ORLER TV" group-title="Other",ORLER TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3471319012
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PADRE PIO TV" tvg-name="PADRE PIO TV" tvg-logo="None" channel="PADRE PIO TV" group-title="Other",PADRE PIO TV
+#EXTINF:-1 tvg-id="PADRE PIO TV" tvg-name="PADRE PIO TV" channel="PADRE PIO TV" group-title="Other",PADRE PIO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F435016866
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PAROLE DI VITA" tvg-name="PAROLE DI VITA" tvg-logo="None" channel="PAROLE DI VITA" group-title="Other",PAROLE DI VITA
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1727695336
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PEER TV ALTO ADIGE" tvg-name="PEER TV ALTO ADIGE" tvg-logo="None" channel="PEER TV ALTO ADIGE" group-title="Other",PEER TV ALTO ADIGE
+#EXTINF:-1 tvg-id="PEER TV ALTO ADIGE" tvg-name="PEER TV ALTO ADIGE" channel="PEER TV ALTO ADIGE" group-title="Other",PEER TV ALTO ADIGE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1789522005
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PEOPLE ARE AWESOME" tvg-name="PEOPLE ARE AWESOME" tvg-logo="None" channel="PEOPLE ARE AWESOME" group-title="Other",PEOPLE ARE AWESOME
+#EXTINF:-1 tvg-id="PEOPLE ARE AWESOME" tvg-name="PEOPLE ARE AWESOME" channel="PEOPLE ARE AWESOME" group-title="Other",PEOPLE ARE AWESOME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1087345241
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PRIMO CANALE" tvg-name="PRIMO CANALE" tvg-logo="None" channel="PRIMO CANALE" group-title="Other",PRIMO CANALE
+#EXTINF:-1 tvg-id="PRIMO CANALE" tvg-name="PRIMO CANALE" channel="PRIMO CANALE" group-title="Other",PRIMO CANALE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3497884599
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="QUADRIFOGLIO TV" tvg-name="QUADRIFOGLIO TV" tvg-logo="None" channel="QUADRIFOGLIO TV" group-title="Other",QUADRIFOGLIO TV
+#EXTINF:-1 tvg-id="QUADRIFOGLIO TV" tvg-name="QUADRIFOGLIO TV" channel="QUADRIFOGLIO TV" group-title="Other",QUADRIFOGLIO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2178753297
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="QUARTA RETE" tvg-name="QUARTA RETE" tvg-logo="None" channel="QUARTA RETE" group-title="Other",QUARTA RETE
+#EXTINF:-1 tvg-id="QUARTA RETE" tvg-name="QUARTA RETE" channel="QUARTA RETE" group-title="Other",QUARTA RETE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2804189085
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO 101" tvg-name="RADIO 101" tvg-logo="None" channel="RADIO 101" group-title="Other",RADIO 101
+#EXTINF:-1 tvg-id="RADIO 101" tvg-name="RADIO 101" channel="RADIO 101" group-title="Other",RADIO 101
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3724439861
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO 24" tvg-name="RADIO 24" tvg-logo="None" channel="RADIO 24" group-title="Other",RADIO 24
+#EXTINF:-1 tvg-id="RADIO 24" tvg-name="RADIO 24" channel="RADIO 24" group-title="Other",RADIO 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1586498225
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO 51" tvg-name="RADIO 51" tvg-logo="None" channel="RADIO 51" group-title="Other",RADIO 51
+#EXTINF:-1 tvg-id="RADIO 51" tvg-name="RADIO 51" channel="RADIO 51" group-title="Other",RADIO 51
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2339747193
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO BIRIKINA TV" tvg-name="RADIO BIRIKINA TV" tvg-logo="None" channel="RADIO BIRIKINA TV" group-title="Other",RADIO BIRIKINA TV
+#EXTINF:-1 tvg-id="RADIO BIRIKINA TV" tvg-name="RADIO BIRIKINA TV" channel="RADIO BIRIKINA TV" group-title="Other",RADIO BIRIKINA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3197904019
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO IBIZA TV" tvg-name="RADIO IBIZA TV" tvg-logo="None" channel="RADIO IBIZA TV" group-title="Other",RADIO IBIZA TV
+#EXTINF:-1 tvg-id="RADIO IBIZA TV" tvg-name="RADIO IBIZA TV" channel="RADIO IBIZA TV" group-title="Other",RADIO IBIZA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3663515423
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO IGLESIAS SARDEGNA" tvg-name="RADIO IGLESIAS SARDEGNA" tvg-logo="None" channel="RADIO IGLESIAS SARDEGNA" group-title="Other",RADIO IGLESIAS SARDEGNA
+#EXTINF:-1 tvg-id="RADIO IGLESIAS SARDEGNA" tvg-name="RADIO IGLESIAS SARDEGNA" channel="RADIO IGLESIAS SARDEGNA" group-title="Other",RADIO IGLESIAS SARDEGNA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1119525899
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO NUMBER ONE" tvg-name="RADIO NUMBER ONE" tvg-logo="None" channel="RADIO NUMBER ONE" group-title="Other",RADIO NUMBER ONE
+#EXTINF:-1 tvg-id="RADIO NUMBER ONE" tvg-name="RADIO NUMBER ONE" channel="RADIO NUMBER ONE" group-title="Other",RADIO NUMBER ONE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2094391406
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIO STUDIO DELTA TV" tvg-name="RADIO STUDIO DELTA TV" tvg-logo="None" channel="RADIO STUDIO DELTA TV" group-title="Other",RADIO STUDIO DELTA TV
+#EXTINF:-1 tvg-id="RADIO STUDIO DELTA TV" tvg-name="RADIO STUDIO DELTA TV" channel="RADIO STUDIO DELTA TV" group-title="Other",RADIO STUDIO DELTA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3921927915
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN ACTION MOVIES" tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="None" channel="RAKUTEN ACTION MOVIES" group-title="Other",RAKUTEN ACTION MOVIES
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3064811192
+#EXTINF:-1 tvg-id="RAKUTEN COMEDY MOVIES" tvg-name="RAKUTEN COMEDY MOVIES" channel="RAKUTEN COMEDY MOVIES" group-title="Other",RAKUTEN COMEDY MOVIES
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1109372778
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN TV ASIAN CINEMA ITALY" tvg-name="RAKUTEN TV ASIAN CINEMA ITALY" tvg-logo="None" channel="RAKUTEN TV ASIAN CINEMA ITALY" group-title="Other",RAKUTEN TV ASIAN CINEMA ITALY
+#EXTINF:-1 tvg-id="RAKUTEN TV ACTION MOVIES ITALY" tvg-name="RAKUTEN TV ACTION MOVIES ITALY" channel="RAKUTEN TV ACTION MOVIES ITALY" group-title="Other",RAKUTEN TV ACTION MOVIES ITALY
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F605745046
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAKUTEN TV ASIAN CINEMA ITALY" tvg-name="RAKUTEN TV ASIAN CINEMA ITALY" channel="RAKUTEN TV ASIAN CINEMA ITALY" group-title="Other",RAKUTEN TV ASIAN CINEMA ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3214597554
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN TV CRIME SERIES ITALY" tvg-name="RAKUTEN TV CRIME SERIES ITALY" tvg-logo="None" channel="RAKUTEN TV CRIME SERIES ITALY" group-title="Other",RAKUTEN TV CRIME SERIES ITALY
+#EXTINF:-1 tvg-id="RAKUTEN TV COMEDY MOVIES ITALY" tvg-name="RAKUTEN TV COMEDY MOVIES ITALY" channel="RAKUTEN TV COMEDY MOVIES ITALY" group-title="Other",RAKUTEN TV COMEDY MOVIES ITALY
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1810817472
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAKUTEN TV CRIME SERIES ITALY" tvg-name="RAKUTEN TV CRIME SERIES ITALY" channel="RAKUTEN TV CRIME SERIES ITALY" group-title="Other",RAKUTEN TV CRIME SERIES ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2528607377
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN TV FAMILY MOVIES ITALY" tvg-name="RAKUTEN TV FAMILY MOVIES ITALY" tvg-logo="None" channel="RAKUTEN TV FAMILY MOVIES ITALY" group-title="Other",RAKUTEN TV FAMILY MOVIES ITALY
+#EXTINF:-1 tvg-id="RAKUTEN TV DRAMA MOVIES ITALY" tvg-name="RAKUTEN TV DRAMA MOVIES ITALY" channel="RAKUTEN TV DRAMA MOVIES ITALY" group-title="Other",RAKUTEN TV DRAMA MOVIES ITALY
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3709565277
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAKUTEN TV FAMILY MOVIES ITALY" tvg-name="RAKUTEN TV FAMILY MOVIES ITALY" channel="RAKUTEN TV FAMILY MOVIES ITALY" group-title="Other",RAKUTEN TV FAMILY MOVIES ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3789878889
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN TV ROMANCE MOVIES ITALY" tvg-name="RAKUTEN TV ROMANCE MOVIES ITALY" tvg-logo="None" channel="RAKUTEN TV ROMANCE MOVIES ITALY" group-title="Other",RAKUTEN TV ROMANCE MOVIES ITALY
+#EXTINF:-1 tvg-id="RAKUTEN TV ROMANCE MOVIES ITALY" tvg-name="RAKUTEN TV ROMANCE MOVIES ITALY" channel="RAKUTEN TV ROMANCE MOVIES ITALY" group-title="Other",RAKUTEN TV ROMANCE MOVIES ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3147240888
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN TV SCIFI ITALY" tvg-name="RAKUTEN TV SCIFI ITALY" tvg-logo="None" channel="RAKUTEN TV SCIFI ITALY" group-title="Other",RAKUTEN TV SCIFI ITALY
+#EXTINF:-1 tvg-id="RAKUTEN TV SCIFI ITALY" tvg-name="RAKUTEN TV SCIFI ITALY" channel="RAKUTEN TV SCIFI ITALY" group-title="Other",RAKUTEN TV SCIFI ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F93275560
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN TV TOP MOVIES ITALY" tvg-name="RAKUTEN TV TOP MOVIES ITALY" tvg-logo="None" channel="RAKUTEN TV TOP MOVIES ITALY" group-title="Other",RAKUTEN TV TOP MOVIES ITALY
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2181370916
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="REGGIO TV" tvg-name="REGGIO TV" tvg-logo="None" channel="REGGIO TV" group-title="Other",REGGIO TV
+#EXTINF:-1 tvg-id="REGGIO TV" tvg-name="REGGIO TV" channel="REGGIO TV" group-title="Other",REGGIO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2165549789
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="REI TV" tvg-name="REI TV" tvg-logo="None" channel="REI TV" group-title="Other",REI TV
+#EXTINF:-1 tvg-id="REI TV" tvg-name="REI TV" channel="REI TV" group-title="Other",REI TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3075118500
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RETE ORO" tvg-name="RETE ORO" tvg-logo="None" channel="RETE ORO" group-title="Other",RETE ORO
+#EXTINF:-1 tvg-id="RETE ORO" tvg-name="RETE ORO" channel="RETE ORO" group-title="Other",RETE ORO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3351863213
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RETE SOLE" tvg-name="RETE SOLE" tvg-logo="None" channel="RETE SOLE" group-title="Other",RETE SOLE
+#EXTINF:-1 tvg-id="RETE SOLE" tvg-name="RETE SOLE" channel="RETE SOLE" group-title="Other",RETE SOLE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3692927513
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RETE TV" tvg-name="RETE TV" tvg-logo="None" channel="RETE TV" group-title="Other",RETE TV
+#EXTINF:-1 tvg-id="RETE TV" tvg-name="RETE TV" channel="RETE TV" group-title="Other",RETE TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4131055018
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RETEBIELLA TV" tvg-name="RETEBIELLA TV" tvg-logo="None" channel="RETEBIELLA TV" group-title="Other",RETEBIELLA TV
+#EXTINF:-1 tvg-id="RETE VENETA" tvg-name="RETE VENETA" channel="RETE VENETA" group-title="Other",RETE VENETA
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1085172353
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RETE VENETA" tvg-name="RETE VENETA" channel="RETE VENETA" group-title="Other",RETE VENETA
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3999322464
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RETEBIELLA TV" tvg-name="RETEBIELLA TV" channel="RETEBIELLA TV" group-title="Other",RETEBIELLA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F109447913
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTC TELECALABRIA" tvg-name="RTC TELECALABRIA" tvg-logo="None" channel="RTC TELECALABRIA" group-title="Other",RTC TELECALABRIA
+#EXTINF:-1 tvg-id="RTC TELECALABRIA" tvg-name="RTC TELECALABRIA" channel="RTC TELECALABRIA" group-title="Other",RTC TELECALABRIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F639406775
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTM" tvg-name="RTM" tvg-logo="None" channel="RTM" group-title="Other",RTM
+#EXTINF:-1 tvg-id="RTM" tvg-name="RTM" channel="RTM" group-title="Other",RTM
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F958797744
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTP" tvg-name="RTP" tvg-logo="None" channel="RTP" group-title="Other",RTP
+#EXTINF:-1 tvg-id="RTP" tvg-name="RTP" channel="RTP" group-title="Other",RTP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4136045815
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTV SAN MARINO" tvg-name="RTV SAN MARINO" tvg-logo="None" channel="RTV SAN MARINO" group-title="Other",RTV SAN MARINO
+#EXTINF:-1 tvg-id="RTV SAN MARINO" tvg-name="RTV SAN MARINO" channel="RTV SAN MARINO" group-title="Other",RTV SAN MARINO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2343767125
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SAN MARINO RTV" tvg-name="SAN MARINO RTV" tvg-logo="None" channel="SAN MARINO RTV" group-title="Other",SAN MARINO RTV
+#EXTINF:-1 tvg-id="SAN MARINO RTV" tvg-name="SAN MARINO RTV" channel="SAN MARINO RTV" group-title="Other",SAN MARINO RTV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F968665235
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SPORT" tvg-name="SPORT" tvg-logo="None" channel="SPORT" group-title="Other",SPORT
+#EXTINF:-1 tvg-id="SPORT" tvg-name="SPORT" channel="SPORT" group-title="Other",SPORT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2881739927
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ST EUROPE CHANNEL" tvg-name="ST EUROPE CHANNEL" tvg-logo="None" channel="ST EUROPE CHANNEL" group-title="Other",ST EUROPE CHANNEL
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2356295928
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="None" channel="STAR LIFE" group-title="Other",STAR LIFE
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" channel="STAR LIFE" group-title="Other",STAR LIFE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3946128844
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="STEREO 5 TV" tvg-name="STEREO 5 TV" tvg-logo="None" channel="STEREO 5 TV" group-title="Other",STEREO 5 TV
+#EXTINF:-1 tvg-id="STEREO 5 TV" tvg-name="STEREO 5 TV" channel="STEREO 5 TV" group-title="Other",STEREO 5 TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F88205050
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SUPER TV BRESCIA" tvg-name="SUPER TV BRESCIA" tvg-logo="None" channel="SUPER TV BRESCIA" group-title="Other",SUPER TV BRESCIA
+#EXTINF:-1 tvg-id="SUPER TV ARISTANIS" tvg-name="SUPER TV ARISTANIS" channel="SUPER TV ARISTANIS" group-title="Other",SUPER TV ARISTANIS
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F11653719
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SUPER TV BRESCIA" tvg-name="SUPER TV BRESCIA" channel="SUPER TV BRESCIA" group-title="Other",SUPER TV BRESCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2061826034
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SUPERSIX LOMBARDIA" tvg-name="SUPERSIX LOMBARDIA" tvg-logo="None" channel="SUPERSIX LOMBARDIA" group-title="Other",SUPERSIX LOMBARDIA
+#EXTINF:-1 tvg-id="SUPERSIX LOMBARDIA" tvg-name="SUPERSIX LOMBARDIA" channel="SUPERSIX LOMBARDIA" group-title="Other",SUPERSIX LOMBARDIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F849124464
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE ABRUZZO" tvg-name="TELE ABRUZZO" tvg-logo="None" channel="TELE ABRUZZO" group-title="Other",TELE ABRUZZO
+#EXTINF:-1 tvg-id="TELE ABRUZZO" tvg-name="TELE ABRUZZO" channel="TELE ABRUZZO" group-title="Other",TELE ABRUZZO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1668393582
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE CHIARA" tvg-name="TELE CHIARA" tvg-logo="None" channel="TELE CHIARA" group-title="Other",TELE CHIARA
+#EXTINF:-1 tvg-id="TELE CHIARA" tvg-name="TELE CHIARA" channel="TELE CHIARA" group-title="Other",TELE CHIARA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2487986216
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE FRIULI" tvg-name="TELE FRIULI" tvg-logo="None" channel="TELE FRIULI" group-title="Other",TELE FRIULI
+#EXTINF:-1 tvg-id="TELE FRIULI" tvg-name="TELE FRIULI" channel="TELE FRIULI" group-title="Other",TELE FRIULI
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3551882344
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE LIGURIA SUD" tvg-name="TELE LIGURIA SUD" tvg-logo="None" channel="TELE LIGURIA SUD" group-title="Other",TELE LIGURIA SUD
+#EXTINF:-1 tvg-id="TELE LIGURIA SUD" tvg-name="TELE LIGURIA SUD" channel="TELE LIGURIA SUD" group-title="Other",TELE LIGURIA SUD
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F874797181
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE MANTOVA" tvg-name="TELE MANTOVA" tvg-logo="None" channel="TELE MANTOVA" group-title="Other",TELE MANTOVA
+#EXTINF:-1 tvg-id="TELE MANTOVA" tvg-name="TELE MANTOVA" channel="TELE MANTOVA" group-title="Other",TELE MANTOVA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4123851852
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE MIA" tvg-name="TELE MIA" tvg-logo="None" channel="TELE MIA" group-title="Other",TELE MIA
+#EXTINF:-1 tvg-id="TELE MIA" tvg-name="TELE MIA" channel="TELE MIA" group-title="Other",TELE MIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1206543036
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE TRICOLORE" tvg-name="TELE TRICOLORE" tvg-logo="None" channel="TELE TRICOLORE" group-title="Other",TELE TRICOLORE
+#EXTINF:-1 tvg-id="TELE PAVIA" tvg-name="TELE PAVIA" channel="TELE PAVIA" group-title="Other",TELE PAVIA
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F593944289
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE PAVIA" tvg-name="TELE PAVIA" channel="TELE PAVIA" group-title="Other",TELE PAVIA
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2588652431
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE TRICOLORE" tvg-name="TELE TRICOLORE" channel="TELE TRICOLORE" group-title="Other",TELE TRICOLORE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2314613216
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE TUBBIES" tvg-name="TELE TUBBIES" tvg-logo="None" channel="TELE TUBBIES" group-title="Other",TELE TUBBIES
+#EXTINF:-1 tvg-id="TELE TUBBIES" tvg-name="TELE TUBBIES" channel="TELE TUBBIES" group-title="Other",TELE TUBBIES
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2925555141
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE TUSCIASABINA 2000" tvg-name="TELE TUSCIASABINA 2000" tvg-logo="None" channel="TELE TUSCIASABINA 2000" group-title="Other",TELE TUSCIASABINA 2000
+#EXTINF:-1 tvg-id="TELE TUSCIASABINA 2000" tvg-name="TELE TUSCIASABINA 2000" channel="TELE TUSCIASABINA 2000" group-title="Other",TELE TUSCIASABINA 2000
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F545707096
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE VISA" tvg-name="TELE VISA" tvg-logo="None" channel="TELE VISA" group-title="Other",TELE VISA
+#EXTINF:-1 tvg-id="TELE VISA" tvg-name="TELE VISA" channel="TELE VISA" group-title="Other",TELE VISA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2670870857
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEARENA" tvg-name="TELEARENA" tvg-logo="None" channel="TELEARENA" group-title="Other",TELEARENA
+#EXTINF:-1 tvg-id="TELEARENA" tvg-name="TELEARENA" channel="TELEARENA" group-title="Other",TELEARENA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4081561014
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEARTE" tvg-name="TELEARTE" tvg-logo="None" channel="TELEARTE" group-title="Other",TELEARTE
+#EXTINF:-1 tvg-id="TELEARTE" tvg-name="TELEARTE" channel="TELEARTE" group-title="Other",TELEARTE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2586615238
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEBARI" tvg-name="TELEBARI" tvg-logo="None" channel="TELEBARI" group-title="Other",TELEBARI
+#EXTINF:-1 tvg-id="TELEBARI" tvg-name="TELEBARI" channel="TELEBARI" group-title="Other",TELEBARI
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1362891370
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEBELLUNO" tvg-name="TELEBELLUNO" tvg-logo="None" channel="TELEBELLUNO" group-title="Other",TELEBELLUNO
+#EXTINF:-1 tvg-id="TELEBELLUNO" tvg-name="TELEBELLUNO" channel="TELEBELLUNO" group-title="Other",TELEBELLUNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3696520354
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEBOARIO" tvg-name="TELEBOARIO" tvg-logo="None" channel="TELEBOARIO" group-title="Other",TELEBOARIO
+#EXTINF:-1 tvg-id="TELEBOARIO" tvg-name="TELEBOARIO" channel="TELEBOARIO" group-title="Other",TELEBOARIO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3383364202
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELECITTA" tvg-name="TELECITTA" tvg-logo="None" channel="TELECITTA" group-title="Other",TELECITTA
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2676235978
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELECOLOR" tvg-name="TELECOLOR" tvg-logo="None" channel="TELECOLOR" group-title="Other",TELECOLOR
+#EXTINF:-1 tvg-id="TELECOLOR" tvg-name="TELECOLOR" channel="TELECOLOR" group-title="Other",TELECOLOR
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1133239022
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEFOGGIA" tvg-name="TELEFOGGIA" tvg-logo="None" channel="TELEFOGGIA" group-title="Other",TELEFOGGIA
+#EXTINF:-1 tvg-id="TELEFOGGIA" tvg-name="TELEFOGGIA" channel="TELEFOGGIA" group-title="Other",TELEFOGGIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2365107871
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEMANTOVA" tvg-name="TELEMANTOVA" tvg-logo="None" channel="TELEMANTOVA" group-title="Other",TELEMANTOVA
+#EXTINF:-1 tvg-id="TELEMANTOVA" tvg-name="TELEMANTOVA" channel="TELEMANTOVA" group-title="Other",TELEMANTOVA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1425327889
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEMIA" tvg-name="TELEMIA" tvg-logo="None" channel="TELEMIA" group-title="Other",TELEMIA
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3243762931
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEMISTRETTA" tvg-name="TELEMISTRETTA" tvg-logo="None" channel="TELEMISTRETTA" group-title="Other",TELEMISTRETTA
+#EXTINF:-1 tvg-id="TELEMISTRETTA" tvg-name="TELEMISTRETTA" channel="TELEMISTRETTA" group-title="Other",TELEMISTRETTA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1438440507
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEMOLISE" tvg-name="TELEMOLISE" tvg-logo="None" channel="TELEMOLISE" group-title="Other",TELEMOLISE
+#EXTINF:-1 tvg-id="TELEMOLISE" tvg-name="TELEMOLISE" channel="TELEMOLISE" group-title="Other",TELEMOLISE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F780186974
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELENORD" tvg-name="TELENORD" tvg-logo="None" channel="TELENORD" group-title="Other",TELENORD
+#EXTINF:-1 tvg-id="TELENORD" tvg-name="TELENORD" channel="TELENORD" group-title="Other",TELENORD
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2923215049
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEQUATTRO" tvg-name="TELEQUATTRO" tvg-logo="None" channel="TELEQUATTRO" group-title="Other",TELEQUATTRO
+#EXTINF:-1 tvg-id="TELEQUATTRO" tvg-name="TELEQUATTRO" channel="TELEQUATTRO" group-title="Other",TELEQUATTRO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1083984669
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELERAMA" tvg-name="TELERAMA" tvg-logo="None" channel="TELERAMA" group-title="Other",TELERAMA
+#EXTINF:-1 tvg-id="TELERAMA" tvg-name="TELERAMA" channel="TELERAMA" group-title="Other",TELERAMA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4017608910
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELEROMAGNA" tvg-name="TELEROMAGNA" tvg-logo="None" channel="TELEROMAGNA" group-title="Other",TELEROMAGNA
+#EXTINF:-1 tvg-id="TELEROMAGNA" tvg-name="TELEROMAGNA" channel="TELEROMAGNA" group-title="Other",TELEROMAGNA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2794392244
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELESPAZIO TV" tvg-name="TELESPAZIO TV" tvg-logo="None" channel="TELESPAZIO TV" group-title="Other",TELESPAZIO TV
+#EXTINF:-1 tvg-id="TELESPAZIO TV" tvg-name="TELESPAZIO TV" channel="TELESPAZIO TV" group-title="Other",TELESPAZIO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F386765643
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELETRICOLORE" tvg-name="TELETRICOLORE" tvg-logo="None" channel="TELETRICOLORE" group-title="Other",TELETRICOLORE
+#EXTINF:-1 tvg-id="TELETRICOLORE" tvg-name="TELETRICOLORE" channel="TELETRICOLORE" group-title="Other",TELETRICOLORE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2521763009
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TRG MEDIA" tvg-name="TRG MEDIA" tvg-logo="None" channel="TRG MEDIA" group-title="Other",TRG MEDIA
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3020951967
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TRSPORT" tvg-name="TRSPORT" tvg-logo="None" channel="TRSPORT" group-title="Other",TRSPORT
+#EXTINF:-1 tvg-id="TRSPORT" tvg-name="TRSPORT" channel="TRSPORT" group-title="Other",TRSPORT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F361314062
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV EUROPE" tvg-name="TV EUROPE" tvg-logo="None" channel="TV EUROPE" group-title="Other",TV EUROPE
+#EXTINF:-1 tvg-id="TV EUROPE" tvg-name="TV EUROPE" channel="TV EUROPE" group-title="Other",TV EUROPE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2428507022
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV MARCHE" tvg-name="TV MARCHE" tvg-logo="None" channel="TV MARCHE" group-title="Other",TV MARCHE
+#EXTINF:-1 tvg-id="TV MARCHE" tvg-name="TV MARCHE" channel="TV MARCHE" group-title="Other",TV MARCHE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3069499316
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV MODA" tvg-name="TV MODA" tvg-logo="None" channel="TV MODA" group-title="Other",TV MODA
+#EXTINF:-1 tvg-id="TV MODA" tvg-name="TV MODA" channel="TV MODA" group-title="Other",TV MODA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F582038569
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV QUI" tvg-name="TV QUI" tvg-logo="None" channel="TV QUI" group-title="Other",TV QUI
+#EXTINF:-1 tvg-id="TV QUI" tvg-name="TV QUI" channel="TV QUI" group-title="Other",TV QUI
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2202937518
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV QUI" tvg-name="TV QUI" channel="TV QUI" group-title="Other",TV QUI
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3845119578
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV RETE 7" tvg-name="TV RETE 7" tvg-logo="None" channel="TV RETE 7" group-title="Other",TV RETE 7
+#EXTINF:-1 tvg-id="TV RETE 7" tvg-name="TV RETE 7" channel="TV RETE 7" group-title="Other",TV RETE 7
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4290207480
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV7 NEWS" tvg-name="TV7 NEWS" tvg-logo="None" channel="TV7 NEWS" group-title="Other",TV7 NEWS
+#EXTINF:-1 tvg-id="TV7 NEWS" tvg-name="TV7 NEWS" channel="TV7 NEWS" group-title="Other",TV7 NEWS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2802329064
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TVRS" tvg-name="TVRS" tvg-logo="None" channel="TVRS" group-title="Other",TVRS
+#EXTINF:-1 tvg-id="TVRS" tvg-name="TVRS" channel="TVRS" group-title="Other",TVRS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1488746638
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="UMBRIA TV" tvg-name="UMBRIA TV" tvg-logo="None" channel="UMBRIA TV" group-title="Other",UMBRIA TV
+#EXTINF:-1 tvg-id="UMBRIA TV" tvg-name="UMBRIA TV" channel="UMBRIA TV" group-title="Other",UMBRIA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1597386407
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="UNINETTUNO" tvg-name="UNINETTUNO" tvg-logo="None" channel="UNINETTUNO" group-title="Other",UNINETTUNO
+#EXTINF:-1 tvg-id="UNINETTUNO" tvg-name="UNINETTUNO" channel="UNINETTUNO" group-title="Other",UNINETTUNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F797328723
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="UNINETTUNO UNIVERSITY TV" tvg-name="UNINETTUNO UNIVERSITY TV" tvg-logo="None" channel="UNINETTUNO UNIVERSITY TV" group-title="Other",UNINETTUNO UNIVERSITY TV
+#EXTINF:-1 tvg-id="UNINETTUNO UNIVERSITY TV" tvg-name="UNINETTUNO UNIVERSITY TV" channel="UNINETTUNO UNIVERSITY TV" group-title="Other",UNINETTUNO UNIVERSITY TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F376550441
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="UNIRE SAT" tvg-name="UNIRE SAT" tvg-logo="None" channel="UNIRE SAT" group-title="Other",UNIRE SAT
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3731369487
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="UNIRESAT" tvg-name="UNIRESAT" tvg-logo="None" channel="UNIRESAT" group-title="Other",UNIRESAT
+#EXTINF:-1 tvg-id="UNIRESAT" tvg-name="UNIRESAT" channel="UNIRESAT" group-title="Other",UNIRESAT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F979345080
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="VCO AZZURRA TV" tvg-name="VCO AZZURRA TV" tvg-logo="None" channel="VCO AZZURRA TV" group-title="Other",VCO AZZURRA TV
+#EXTINF:-1 tvg-id="VCO AZZURRA TV" tvg-name="VCO AZZURRA TV" channel="VCO AZZURRA TV" group-title="Other",VCO AZZURRA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2070070755
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="VIDEO NOVARA" tvg-name="VIDEO NOVARA" tvg-logo="None" channel="VIDEO NOVARA" group-title="Other",VIDEO NOVARA
+#EXTINF:-1 tvg-id="VIDEO NOVARA" tvg-name="VIDEO NOVARA" channel="VIDEO NOVARA" group-title="Other",VIDEO NOVARA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2791781421
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="VIDEOTOLENTINO" tvg-name="VIDEOTOLENTINO" tvg-logo="None" channel="VIDEOTOLENTINO" group-title="Other",VIDEOTOLENTINO
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2015312510
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="YUGIOH ITALY" tvg-name="YUGIOH ITALY" tvg-logo="None" channel="YUGIOH ITALY" group-title="Other",YUGIOH ITALY
+#EXTINF:-1 tvg-id="YUGIOH ITALY" tvg-name="YUGIOH ITALY" channel="YUGIOH ITALY" group-title="Other",YUGIOH ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2849811027
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ACISportTv.it" tvg-name="ACI SPORT TV" tvg-logo="None" channel="ACISportTv.it" group-title="Sport",ACI SPORT TV
+#EXTINF:-1 tvg-id="ACISportTv.it" tvg-name="ACI SPORT TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/ACISportTv.it.png" channel="ACISportTv.it" group-title="Sport",ACI SPORT TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1351631603
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BIANCONERA JUVENTUS TV" tvg-name="BIANCONERA JUVENTUS TV" tvg-logo="None" channel="BIANCONERA JUVENTUS TV" group-title="Sport",BIANCONERA JUVENTUS TV
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F829225574
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CACCIA" tvg-name="CACCIA" tvg-logo="None" channel="CACCIA" group-title="Sport",CACCIA
+#EXTINF:-1 tvg-id="CACCIA" tvg-name="CACCIA" channel="CACCIA" group-title="Sport",CACCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1692155417
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CacciaPesca.it" tvg-name="CACCIA E PESCA" tvg-logo="None" channel="CacciaPesca.it" group-title="Sport",CACCIA E PESCA
+#EXTINF:-1 tvg-id="CacciaPesca.it" tvg-name="CACCIA E PESCA" channel="CacciaPesca.it" group-title="Sport",CACCIA E PESCA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3639213638
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISCOVERY MOTOR TREND" tvg-name="DISCOVERY MOTOR TREND" tvg-logo="None" channel="DISCOVERY MOTOR TREND" group-title="Sport",DISCOVERY MOTOR TREND
+#EXTINF:-1 tvg-id="DISCOVERY MOTOR TREND" tvg-name="DISCOVERY MOTOR TREND" channel="DISCOVERY MOTOR TREND" group-title="Sport",DISCOVERY MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F97773955
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EUROSPORT 4" tvg-name="EUROSPORT 4" tvg-logo="None" channel="EUROSPORT 4" group-title="Sport",EUROSPORT 4
+#EXTINF:-1 tvg-id="EUROSPORT 4" tvg-name="EUROSPORT 4" channel="EUROSPORT 4" group-title="Sport",EUROSPORT 4
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1668185301
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EUROSPORT 6" tvg-name="EUROSPORT 6" tvg-logo="None" channel="EUROSPORT 6" group-title="Sport",EUROSPORT 6
+#EXTINF:-1 tvg-id="EUROSPORT 6" tvg-name="EUROSPORT 6" channel="EUROSPORT 6" group-title="Sport",EUROSPORT 6
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3421031748
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="InterTV.it" tvg-name="INTER TV" tvg-logo="None" channel="InterTV.it" group-title="Sport",INTER TV
+#EXTINF:-1 tvg-id="InterTV.it" tvg-name="INTER TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/InterTV.it.png" channel="InterTV.it" group-title="Sport",INTER TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2973773076
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-logo="None" channel="MilanTV.it" group-title="Sport",MILAN TV
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MilanTV.it.png" channel="MilanTV.it" group-title="Sport",MILAN TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3657217948
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="None" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3445330307
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="None" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3758728323
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" tvg-logo="None" channel="PESCA" group-title="Sport",PESCA
+#EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" channel="PESCA" group-title="Sport",PESCA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F714472867
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" tvg-logo="None" channel="PescaCaccia.it" group-title="Sport",PESCA E CACCIA
+#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" channel="PescaCaccia.it" group-title="Sport",PESCA E CACCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3124512993
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SPORT ITALIA SOLO CALCIO" tvg-name="SPORT ITALIA SOLO CALCIO" tvg-logo="None" channel="SPORT ITALIA SOLO CALCIO" group-title="Sport",SPORT ITALIA SOLO CALCIO
+#EXTINF:-1 tvg-id="SPORT ITALIA SOLO CALCIO" tvg-name="SPORT ITALIA SOLO CALCIO" channel="SPORT ITALIA SOLO CALCIO" group-title="Sport",SPORT ITALIA SOLO CALCIO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F830949486
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="None" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Sportitalia.it.png" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3342849313
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="None" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Sportitalia.it.png" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2198410339
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="None" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SuperTennis.it.png" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F558282118
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="None" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SuperTennis.it.png" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3213195143
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TopCalcio24.it" tvg-name="TOP CALCIO 24" tvg-logo="None" channel="TopCalcio24.it" group-title="Sport",TOP CALCIO 24
+#EXTINF:-1 tvg-id="TopCalcio24.it" tvg-name="TOP CALCIO 24" channel="TopCalcio24.it" group-title="Sport",TOP CALCIO 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3835549326
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="51 CUSANO ITALIA TV" tvg-name="51 CUSANO ITALIA TV" tvg-logo="None" channel="51 CUSANO ITALIA TV" group-title="TV Sat",51 CUSANO ITALIA TV
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4124613557
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CAMERA DEI DEPUTATI" tvg-name="CAMERA DEI DEPUTATI" tvg-logo="None" channel="CAMERA DEI DEPUTATI" group-title="TV Sat",CAMERA DEI DEPUTATI
+#EXTINF:-1 tvg-id="CAMERA DEI DEPUTATI" tvg-name="CAMERA DEI DEPUTATI" channel="CAMERA DEI DEPUTATI" group-title="TV Sat",CAMERA DEI DEPUTATI
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4253692893
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DISCOVERY MOTOR TREND" tvg-name="DISCOVERY MOTOR TREND" tvg-logo="None" channel="DISCOVERY MOTOR TREND" group-title="TV Sat",DISCOVERY MOTOR TREND
+#EXTINF:-1 tvg-id="DISCOVERY MOTOR TREND" tvg-name="DISCOVERY MOTOR TREND" channel="DISCOVERY MOTOR TREND" group-title="TV Sat",DISCOVERY MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F97773955
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FOOD NETWORK" tvg-logo="None" channel="FoodNetwork.it" group-title="TV Sat",FOOD NETWORK
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/FoodNetwork.it.png" channel="FoodNetwork.it" group-title="TV Sat",FOOD NETWORK
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2820683351
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" tvg-logo="None" channel="HGTV.it" group-title="TV Sat",HGTV
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/HGTV.it.png" channel="HGTV.it" group-title="TV Sat",HGTV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2897782781
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="None" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3445330307
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="None" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3758728323
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="None" channel="QVC.it" group-title="TV Sat",QVC
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/QVC.it.png" channel="QVC.it" group-title="TV Sat",QVC
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2952884641
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="None" channel="QVC.it" group-title="TV Sat",QVC
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/QVC.it.png" channel="QVC.it" group-title="TV Sat",QVC
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1232565681
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RAI SCUOLA" tvg-logo="None" channel="RaiScuola.it" group-title="TV Sat",RAI SCUOLA
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiScuola.it.png" channel="RaiScuola.it" group-title="TV Sat",RAI SCUOLA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2007798511
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SENATO TV" tvg-name="SENATO TV" tvg-logo="None" channel="SENATO TV" group-title="TV Sat",SENATO TV
+#EXTINF:-1 tvg-id="SENATO TV" tvg-name="SENATO TV" channel="SENATO TV" group-title="TV Sat",SENATO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2002360508
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="None" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F608774683
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="None" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F80896559
