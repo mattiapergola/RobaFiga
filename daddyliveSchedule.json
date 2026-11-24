@@ -626,6 +626,13 @@
                         "channel_href": "/watch.php?id=174",
                         "channel_title": "Sky Sports+",
                         "data_ch": "sky sports+"
+                    },
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "3031",
+                        "channel_href": "/watch.php?id=3031",
+                        "channel_title": "Sky Sports+",
+                        "data_ch": "sky sports+"
                     }
                 ]
             },
@@ -640,6 +647,13 @@
                         "channel_href": "/watch.php?id=175",
                         "channel_title": "Sky Sports+",
                         "data_ch": "sky sports+"
+                    },
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "3032",
+                        "channel_href": "/watch.php?id=3032",
+                        "channel_title": "Sky Sports+",
+                        "data_ch": "sky sports+"
                     }
                 ]
             },
@@ -652,6 +666,13 @@
                         "channel_name": "Sky Sports+",
                         "channel_id": "176",
                         "channel_href": "/watch.php?id=176",
+                        "channel_title": "Sky Sports+",
+                        "data_ch": "sky sports+"
+                    },
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "3033",
+                        "channel_href": "/watch.php?id=3033",
                         "channel_title": "Sky Sports+",
                         "data_ch": "sky sports+"
                     }
@@ -814,6 +835,13 @@
                         "channel_href": "/watch.php?id=187",
                         "channel_title": "Sky Sports+",
                         "data_ch": "sky sports+"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216",
+                        "channel_href": "/watch.php?id=1216",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -842,6 +870,13 @@
                         "channel_href": "/watch.php?id=189",
                         "channel_title": "Sky Sports+",
                         "data_ch": "sky sports+"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217",
+                        "channel_href": "/watch.php?id=1217",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -856,6 +891,13 @@
                         "channel_href": "/watch.php?id=190",
                         "channel_title": "Sky Sports+",
                         "data_ch": "sky sports+"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215",
+                        "channel_href": "/watch.php?id=1215",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             }
@@ -1586,6 +1628,13 @@
                         "channel_href": "/watch.php?id=573",
                         "channel_title": "Match Premier Russia",
                         "data_ch": "match premier russia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201",
+                        "channel_href": "/watch.php?id=1201",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -1602,11 +1651,53 @@
                         "data_ch": "supersport psl"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203",
+                        "channel_href": "/watch.php?id=1203",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "Canal+ Sport 1 Afrique",
                         "channel_id": "486",
                         "channel_href": "/watch.php?id=486",
                         "channel_title": "Canal+ Sport 1 Afrique",
                         "data_ch": "canal+ sport 1 afrique"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd South Africa Betway Premiership : Durban City vs Polokwane",
+                "time": "17:30",
+                "time_visible": "17:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204",
+                        "channel_href": "/watch.php?id=1204",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd UEFA Champions League : The Glazo Show",
+                "time": "17:45",
+                "time_visible": "17:45",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "910",
+                        "channel_href": "/watch.php?id=910",
+                        "channel_title": "CBS Sports Golazo",
+                        "data_ch": "cbs sports golazo"
+                    },
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "5014",
+                        "channel_href": "/watch.php?id=5014",
+                        "channel_title": "CBS Sports Golazo",
+                        "data_ch": "cbs sports golazo"
                     }
                 ]
             },
@@ -1670,6 +1761,13 @@
                         "channel_href": "/watch.php?id=163",
                         "channel_title": "Paramount+",
                         "data_ch": "paramount+"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206",
+                        "channel_href": "/watch.php?id=1206",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -1859,6 +1957,34 @@
                         "channel_href": "/watch.php?id=3004",
                         "channel_title": "TNT Sports 4 UK",
                         "data_ch": "tnt sports 4 uk"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011",
+                        "channel_href": "/watch.php?id=5011",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4111",
+                        "channel_href": "/watch.php?id=4111",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4108",
+                        "channel_href": "/watch.php?id=4108",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001",
+                        "channel_href": "/watch.php?id=2001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1873,6 +1999,13 @@
                         "channel_href": "/watch.php?id=164",
                         "channel_title": "Paramount+",
                         "data_ch": "paramount+"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205",
+                        "channel_href": "/watch.php?id=1205",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -2097,6 +2230,41 @@
                         "channel_href": "/watch.php?id=3030",
                         "channel_title": "TUDN USA",
                         "data_ch": "tudn usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012",
+                        "channel_href": "/watch.php?id=5012",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4102",
+                        "channel_href": "/watch.php?id=4102",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4104",
+                        "channel_href": "/watch.php?id=4104",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4112",
+                        "channel_href": "/watch.php?id=4112",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002",
+                        "channel_href": "/watch.php?id=2002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2111,6 +2279,41 @@
                         "channel_href": "/watch.php?id=68",
                         "channel_title": "DAZN Italia",
                         "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210",
+                        "channel_href": "/watch.php?id=1210",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Egypt Premier League : Arab Contractors vs Al Qanah",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211",
+                        "channel_href": "/watch.php?id=1211",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Egypt Premier League : Al Masry vs Asyut Petroleum",
+                "time": "18:00",
+                "time_visible": "18:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212",
+                        "channel_href": "/watch.php?id=1212",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -2125,6 +2328,13 @@
                         "channel_href": "/watch.php?id=379",
                         "channel_title": "ESPN 1 NL",
                         "data_ch": "espn 1 nl"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213",
+                        "channel_href": "/watch.php?id=1213",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "Astro Football",
@@ -2167,6 +2377,13 @@
                         "channel_href": "/watch.php?id=141",
                         "channel_title": "Sport 2 Israel",
                         "data_ch": "sport 2 israel"
+                    },
+                    {
+                        "channel_name": "Diema Sport 3 Bulgaria",
+                        "channel_id": "3048",
+                        "channel_href": "/watch.php?id=3048",
+                        "channel_title": "Diema Sport 3 Bulgaria",
+                        "data_ch": "diema sport 3 bulgaria"
                     }
                 ]
             },
@@ -2195,6 +2412,13 @@
                         "channel_href": "/watch.php?id=76",
                         "channel_title": "DAZN Italia",
                         "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222",
+                        "channel_href": "/watch.php?id=1222",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -2209,6 +2433,13 @@
                         "channel_href": "/watch.php?id=77",
                         "channel_title": "DAZN Italia",
                         "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221",
+                        "channel_href": "/watch.php?id=1221",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "Fox Soccer Plus",
@@ -2230,6 +2461,13 @@
                         "channel_href": "/watch.php?id=86",
                         "channel_title": "DAZN Italia",
                         "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220",
+                        "channel_href": "/watch.php?id=1220",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -2244,6 +2482,13 @@
                         "channel_href": "/watch.php?id=105",
                         "channel_title": "DAZN Italia",
                         "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219",
+                        "channel_href": "/watch.php?id=1219",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -2258,6 +2503,13 @@
                         "channel_href": "/watch.php?id=106",
                         "channel_title": "DAZN Italia",
                         "data_ch": "dazn italia"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218",
+                        "channel_href": "/watch.php?id=1218",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -2538,6 +2790,27 @@
                         "channel_href": "/watch.php?id=147",
                         "channel_title": "5Stars Israel",
                         "data_ch": "5stars israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015",
+                        "channel_href": "/watch.php?id=5015",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003",
+                        "channel_href": "/watch.php?id=2003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003",
+                        "channel_href": "/watch.php?id=4003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2678,6 +2951,20 @@
                         "channel_href": "/watch.php?id=95",
                         "channel_title": "beIN Sports MENA 5",
                         "data_ch": "bein sports mena 5"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004",
+                        "channel_href": "/watch.php?id=2004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004",
+                        "channel_href": "/watch.php?id=4004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2790,6 +3077,27 @@
                         "channel_href": "/watch.php?id=96",
                         "channel_title": "beIN Sports MENA 6",
                         "data_ch": "bein sports mena 6"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016",
+                        "channel_href": "/watch.php?id=5016",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005",
+                        "channel_href": "/watch.php?id=2005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005",
+                        "channel_href": "/watch.php?id=4005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2972,6 +3280,20 @@
                         "channel_href": "/watch.php?id=90",
                         "channel_title": "beIN Sports MENA English 2",
                         "data_ch": "bein sports mena english 2"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006",
+                        "channel_href": "/watch.php?id=2006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001",
+                        "channel_href": "/watch.php?id=4001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -3070,6 +3392,27 @@
                         "channel_href": "/watch.php?id=98",
                         "channel_title": "beIN Sports MENA 8",
                         "data_ch": "bein sports mena 8"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017",
+                        "channel_href": "/watch.php?id=5017",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007",
+                        "channel_href": "/watch.php?id=2007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007",
+                        "channel_href": "/watch.php?id=4007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -3273,6 +3616,27 @@
                         "channel_href": "/watch.php?id=144",
                         "channel_title": "5Sport Israel",
                         "data_ch": "5sport israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008",
+                        "channel_href": "/watch.php?id=2008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002",
+                        "channel_href": "/watch.php?id=4002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4010",
+                        "channel_href": "/watch.php?id=4010",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -3364,6 +3728,27 @@
                         "channel_href": "/watch.php?id=99",
                         "channel_title": "beIN Sports MENA 9",
                         "data_ch": "bein sports mena 9"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018",
+                        "channel_href": "/watch.php?id=5018",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009",
+                        "channel_href": "/watch.php?id=2009",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006",
+                        "channel_href": "/watch.php?id=4006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -4308,6 +4693,13 @@
                         "data_ch": "magenta sport 307"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202",
+                        "channel_href": "/watch.php?id=1202",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto Spain",
                         "channel_id": "27",
                         "channel_href": "/watch.php?id=27",
@@ -4399,6 +4791,13 @@
                         "data_ch": "magenta sport 308"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207",
+                        "channel_href": "/watch.php?id=1207",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto 2 Spain",
                         "channel_id": "28",
                         "channel_href": "/watch.php?id=28",
@@ -4432,6 +4831,13 @@
                         "channel_href": "/watch.php?id=147",
                         "channel_title": "Sport 5 Stars Israel",
                         "data_ch": "sport 5 stars israel"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 308",
+                        "channel_id": "3013",
+                        "channel_href": "/watch.php?id=3013",
+                        "channel_title": "Magenta Sport 308",
+                        "data_ch": "magenta sport 308"
                     }
                 ]
             },
@@ -4446,6 +4852,13 @@
                         "channel_href": "/watch.php?id=23",
                         "channel_title": "Magenta Sport 309",
                         "data_ch": "magenta sport 309"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214",
+                        "channel_href": "/watch.php?id=1214",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "M+ Baloncesto 3 Spain",
@@ -4481,6 +4894,13 @@
                         "channel_href": "/watch.php?id=145",
                         "channel_title": "Sport 5 Plus Israel",
                         "data_ch": "sport 5 plus israel"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 309",
+                        "channel_id": "3014",
+                        "channel_href": "/watch.php?id=3014",
+                        "channel_title": "Magenta Sport 309",
+                        "data_ch": "magenta sport 309"
                     }
                 ]
             },
@@ -4495,6 +4915,13 @@
                         "channel_href": "/watch.php?id=24",
                         "channel_title": "Magenta Sport 310",
                         "data_ch": "magenta sport 310"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223",
+                        "channel_href": "/watch.php?id=1223",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "M+ Vamos ES",
@@ -4544,6 +4971,20 @@
                         "channel_href": "/watch.php?id=101",
                         "channel_title": "Sportklub 1 Croatia",
                         "data_ch": "sportklub 1 croatia"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 310",
+                        "channel_id": "3015",
+                        "channel_href": "/watch.php?id=3015",
+                        "channel_title": "Magenta Sport 310",
+                        "data_ch": "magenta sport 310"
+                    },
+                    {
+                        "channel_name": "Nova Sports Prime Greece",
+                        "channel_id": "3025",
+                        "channel_href": "/watch.php?id=3025",
+                        "channel_title": "Nova Sports Prime Greece",
+                        "data_ch": "nova sports prime greece"
                     }
                 ]
             },
@@ -4586,6 +5027,13 @@
                         "channel_href": "/watch.php?id=942",
                         "channel_title": "Arena Sport 7 Serbia",
                         "data_ch": "arena sport 7 serbia"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 311",
+                        "channel_id": "3016",
+                        "channel_href": "/watch.php?id=3016",
+                        "channel_title": "Magenta Sport 311",
+                        "data_ch": "magenta sport 311"
                     }
                 ]
             },
@@ -4679,6 +5127,13 @@
                         "channel_href": "/watch.php?id=625",
                         "channel_title": "Cosmote Sport 4 Greece",
                         "data_ch": "cosmote sport 4 greece"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065",
+                        "channel_href": "/watch.php?id=4065",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -4791,6 +5246,13 @@
                         "channel_href": "/watch.php?id=8",
                         "channel_title": "Eurosport 3 Poland",
                         "data_ch": "eurosport 3 poland"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066",
+                        "channel_href": "/watch.php?id=4066",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -4924,6 +5386,13 @@
                         "channel_href": "/watch.php?id=144",
                         "channel_title": "Sport 5 Israel",
                         "data_ch": "sport 5 israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067",
+                        "channel_href": "/watch.php?id=4067",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -6905,6 +7374,13 @@
                         "channel_href": "/watch.php?id=473",
                         "channel_title": "MAX Sport 2 Bulgaria",
                         "data_ch": "max sport 2 bulgaria"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050",
+                        "channel_href": "/watch.php?id=4050",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -7096,6 +7572,13 @@
                         "channel_href": "/watch.php?id=156",
                         "channel_title": "Magenta Sport 304",
                         "data_ch": "magenta sport 304"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 304",
+                        "channel_id": "3096",
+                        "channel_href": "/watch.php?id=3096",
+                        "channel_title": "Magenta Sport 304",
+                        "data_ch": "magenta sport 304"
                     }
                 ]
             },
@@ -7108,6 +7591,13 @@
                         "channel_name": "Magenta Sport 303",
                         "channel_id": "157",
                         "channel_href": "/watch.php?id=157",
+                        "channel_title": "Magenta Sport 303",
+                        "data_ch": "magenta sport 303"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "3098",
+                        "channel_href": "/watch.php?id=3098",
                         "channel_title": "Magenta Sport 303",
                         "data_ch": "magenta sport 303"
                     }
@@ -7124,6 +7614,13 @@
                         "channel_href": "/watch.php?id=158",
                         "channel_title": "Magenta Sport 302",
                         "data_ch": "magenta sport 302"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "3099",
+                        "channel_href": "/watch.php?id=3099",
+                        "channel_title": "Magenta Sport 302",
+                        "data_ch": "magenta sport 302"
                     }
                 ]
             },
@@ -7138,6 +7635,13 @@
                         "channel_href": "/watch.php?id=159",
                         "channel_title": "Magenta Sport 305",
                         "data_ch": "magenta sport 305"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 305",
+                        "channel_id": "3097",
+                        "channel_href": "/watch.php?id=3097",
+                        "channel_title": "Magenta Sport 305",
+                        "data_ch": "magenta sport 305"
                     }
                 ]
             },
@@ -7150,6 +7654,13 @@
                         "channel_name": "Magenta Sport",
                         "channel_id": "160",
                         "channel_href": "/watch.php?id=160",
+                        "channel_title": "Magenta Sport",
+                        "data_ch": "magenta sport"
+                    },
+                    {
+                        "channel_name": "Magenta Sport",
+                        "channel_id": "4000",
+                        "channel_href": "/watch.php?id=4000",
                         "channel_title": "Magenta Sport",
                         "data_ch": "magenta sport"
                     }
@@ -7170,11 +7681,25 @@
                         "data_ch": "tv4 hockey sweden"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209",
+                        "channel_href": "/watch.php?id=1209",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
                         "channel_name": "\u0160TV 2 Slovenia",
                         "channel_id": "201",
                         "channel_href": "/watch.php?id=201",
                         "channel_title": "\u0160TV 2 Slovenia",
                         "data_ch": "\u0160tv 2 slovenia"
+                    },
+                    {
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "3064",
+                        "channel_href": "/watch.php?id=3064",
+                        "channel_title": "TV4 Hockey",
+                        "data_ch": "tv4 hockey"
                     }
                 ]
             },
@@ -7189,6 +7714,34 @@
                         "channel_href": "/watch.php?id=707",
                         "channel_title": "Sportkanalen Sweden",
                         "data_ch": "sportkanalen sweden"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208",
+                        "channel_href": "/watch.php?id=1208",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    },
+                    {
+                        "channel_name": "Sportkanalen Sweden",
+                        "channel_id": "3065",
+                        "channel_href": "/watch.php?id=3065",
+                        "channel_title": "Sportkanalen Sweden",
+                        "data_ch": "sportkanalen sweden"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfd2 : Switzerland National League : Davos vs Geneve vs Servette HC",
+                "time": "18:45",
+                "time_visible": "18:45",
+                "channels": [
+                    {
+                        "channel_name": "MTV Max",
+                        "channel_id": "3074",
+                        "channel_href": "/watch.php?id=3074",
+                        "channel_title": "MTV Max",
+                        "data_ch": "mtv max"
                     }
                 ]
             }
